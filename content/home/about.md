@@ -34,6 +34,6 @@ weight = 1
 # Biography
 I work on developing new methods for analyzing environmental DNA, with a focus on incorporating robust statistical inference in eDNA biodiversity monitoring. Recently I developed a new class of supervised machine learning classifiers called informatic sequence classification trees (INSECT models), 
 that identify taxonomic sources of eDNA within a probabilistic framework. While computationally intensive, 
-these models show a marked reduction in false discovery rates compared to fast k-mer based methods, and can also increase taxonomic resolution (recall). My current research uses unsupervised learning and network theory to address questions related to biodiversity and community ecology in a taxonomy-independent context.
+these models show a marked reduction in false discovery rates compared with fast k-mer based methods, and can also increase taxonomic resolution (recall). My current research uses unsupervised learning and network theory to address questions related to biodiversity and community ecology in a taxonomy-independent context.
 
 
