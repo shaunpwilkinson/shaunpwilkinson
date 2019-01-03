@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/publication/core2019/</loc>
+      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,8 +14,26 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/post/insect-vignette/</loc>
+      <lastmod>2019-01-01T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/edna_classification/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/symbiodiniaceae_igv/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -24,6 +42,78 @@
     <url>
     
       <loc>/post/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/peerj/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/aphid-vignette/</loc>
+      <lastmod>2018-11-10T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/kmer-vignette/</loc>
+      <lastmod>2018-07-06T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/phylogram_blog/</loc>
+      <lastmod>2018-06-26T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/core2018/</loc>
+      <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/joss/</loc>
+      <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/wcmb/</loc>
+      <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,8 +140,8 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/publication/core2016/</loc>
+      <lastmod>2015-09-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -59,8 +149,8 @@
     
     <url>
     
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/publication/bmc/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -68,80 +158,8 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/widgets/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/managing-content/</loc>
-      <lastmod>2016-04-20T11:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-20T10:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/0/</loc>
+      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -151,7 +169,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -169,8 +187,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/clustering/</loc>
+      <lastmod>2018-07-06T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -179,8 +197,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/tags/concerted-evolution/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,8 +207,8 @@
     
     <url>
     
-      <loc>/tags/hugo/</loc>
-      <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+      <loc>/tags/information-theory/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,8 +217,8 @@
     
     <url>
     
-      <loc>/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <loc>/tags/its2/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -209,8 +227,28 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/phylogenetics/</loc>
+      <lastmod>2018-06-26T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/profile-hmm/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/profile-hmms/</loc>
+      <lastmod>2018-11-10T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,7 +258,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -230,7 +268,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -239,28 +277,8 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <loc>/tags/sequence-analysis/</loc>
+      <lastmod>2019-01-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,7 +288,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -281,6 +299,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/taxonomic-classification/</loc>
+      <lastmod>2019-01-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

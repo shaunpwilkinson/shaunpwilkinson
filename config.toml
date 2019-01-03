@@ -1,6 +1,6 @@
 baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
 title = "Shaun Wilkinson"
-copyright = "&copy; 2016 Shaun Wilkinson"
+copyright = "&copy; 2019 Shaun Wilkinson"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,16 +20,16 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Shaun Wilkinson"
-  role = "Rutherford Foundation Postdoctoral Research Fellow"
+  role = "Postdoctoral Research Fellow"
   organization = "Victoria University of Wellington"
   organization_url = "https://www.victoria.ac.nz"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "shaunpwilkinson@gmail.com"
-  address = "Room KK705, Kirk Building, Kelburn Parade, Wellington NZ"
+  address = "Te Toki a Rata Building, Kelburn Parade, Wellington NZ"
   office_hours = ""
-  phone = "+670 77731020"
-  skype = ""
+  phone = "+64 210588068"
+  skype = "shaun-wilkinson"
   telegram = ""
   twitter = "wilkinshau"
   github = "shaunpwilkinson"
@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Shaun Wilkinson</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Shaun Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elevated Symbiodiniaceae richness at Atauro Island (Timor-Leste): a highly biodiverse reef system.</title>
+      <link>/publication/core2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/core2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomic identification of environmental DNA with informatic sequence classification trees.</title>
+      <link>/publication/peerj/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/peerj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

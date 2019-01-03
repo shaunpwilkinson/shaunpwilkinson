@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profile Hmms on Shaun Wilkinson</title>
+    <link>/tags/profile-hmms/</link>
+    <description>Recent content in Profile Hmms on Shaun Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Sat, 10 Nov 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/profile-hmms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The &#39;aphid&#39; package for analysis with profile hidden Markov models</title>
+      <link>/post/aphid-vignette/</link>
+      <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/aphid-vignette/</guid>
+      <description>Introduction aphid is an R package for the development and application of hidden Markov models and profile HMMs for biological sequence analysis. It contains functions for multiple and pairwise sequence alignment, model construction and parameter optimization, file import/export, implementation of the forward, backward and Viterbi algorithms for conditional sequence probabilities, tree-based sequence weighting, and sequence simulation. The package has a wide variety of uses including database searching, gene-finding and annotation, phylogenetic analysis and sequence classification.</description>
+    </item>
+    
+  </channel>
+</rss>

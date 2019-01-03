@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequence Analysis on Shaun Wilkinson</title>
+    <link>/tags/sequence-analysis/</link>
+    <description>Recent content in Sequence Analysis on Shaun Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sequence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The &#39;insect&#39; R package and metabarcoding pipeline</title>
+      <link>/post/insect-vignette/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/post/insect-vignette/</guid>
+      <description>Introduction Welcome to the insect R package, a tool for assigning taxon IDs to amplicon libraries using informatic sequence classification trees. The insect learning algorithm takes a set of reference sequences (obtained from GenBank and/or other sources) to build a classification tree, which is then used to assign taxonomic IDs to a set of query sequences (e.g. those generated from an NGS platform such as Illumina MiSeq). The learning and classification functions are best suited to computing environments with multiple processors and access to large amounts of memory; however, most modest-sized datasets can be processed on standard personal computers if time is available.</description>
+    </item>
+    
+    <item>
+      <title>Accurate supervised classification of environmental DNA</title>
+      <link>/project/edna_classification/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/edna_classification/</guid>
+      <description>Environmental DNA (eDNA) meta-barcoding offers unprecidented insights into the ecology of biological communities, enabling comprehensive assessments of biodiversity from only trace amounts of genetic material. Yet several analytical challenges remain, particularly when incorporating robust statistical inference in the assignment of taxonomic identities. False discovery rates at low taxonomic ranks are often well above those generally considered acceptable in biology, leading to questionable conclusions being reported in the literature. In this project, we focus on developing new supervised machine-learning algorithms that incorporate full probabilistic models to identify the taxonomic sources of environmental DNA amplicon sequences.</description>
+    </item>
+    
+    <item>
+      <title>The &#39;aphid&#39; package for analysis with profile hidden Markov models</title>
+      <link>/post/aphid-vignette/</link>
+      <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/aphid-vignette/</guid>
+      <description>Introduction aphid is an R package for the development and application of hidden Markov models and profile HMMs for biological sequence analysis. It contains functions for multiple and pairwise sequence alignment, model construction and parameter optimization, file import/export, implementation of the forward, backward and Viterbi algorithms for conditional sequence probabilities, tree-based sequence weighting, and sequence simulation. The package has a wide variety of uses including database searching, gene-finding and annotation, phylogenetic analysis and sequence classification.</description>
+    </item>
+    
+    <item>
+      <title>kmer: an R package for fast alignment-free clustering of biological sequences</title>
+      <link>/post/kmer-vignette/</link>
+      <pubDate>Fri, 06 Jul 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/kmer-vignette/</guid>
+      <description>Introduction Agglomerative clustering methods that rely on a multiple sequence alignment and a matrix of pairwise distances can be computationally infeasible for large DNA and amino acid datasets. Alternative k-mer based clustering methods involve enumerating all k-letter words in a sequence through a sliding window of length k. The *n* × 4k matrix of k-mer counts (where n is the number of sequences) can then be used in place of a multiple sequence alignment to calculate distances and/or build a phylogenetic tree.</description>
+    </item>
+    
+    <item>
+      <title>phylogram: dendrograms for evolutionary analysis</title>
+      <link>/post/phylogram_blog/</link>
+      <pubDate>Tue, 26 Jun 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/phylogram_blog/</guid>
+      <description>Introduction Evolutionary biologists are increasingly using R for building, editing and visualizing phylogenetic trees. The reproducible code-based workflow and comprehensive array of tools available in packages such as ape, phangorn and phytools make R an ideal platform for phylogenetic analysis. Yet the many of the different tree formats are not well integrated, as pointed out in a recent post.
+The standard data structure for phylogenies in R is the &amp;ldquo;phylo&amp;rdquo; object, a memory efficient, matrix-based tree representation.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.53" />
+  <meta name="author" content="Shaun Wilkinson">
+  <meta name="description" content="Postdoctoral Research Fellow">
+
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.0/css/academicons.min.css" integrity="sha512-GGGNUPDhnG8LEAEDsjqYIQns+Gu8RBs4j5XGlxl7UfRaZBhCCm5jenJkeJL8uPuOXGqgl8/H1gjlWQDRjd3cUQ==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
+  <link rel="stylesheet" href="/css/hugo-academic.css">
+  
+
+  
+
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Shaun Wilkinson">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Shaun Wilkinson">
+
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="/post/phylogram_blog/">
+
+  
+
+  <title>phylogram: dendrograms for evolutionary analysis | Shaun Wilkinson</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Shaun Wilkinson</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#posts">
+            
+            <span>Posts</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">phylogram: dendrograms for evolutionary analysis</h1>
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2018-06-26 12:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Tue, Jun 26, 2018
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/phylogenetics">phylogenetics</a
+    >, 
+    
+    <a href="/tags/clustering">clustering</a
+    >, 
+    
+    <a href="/tags/sequence-analysis">sequence analysis</a
+    >
+    
+  </span>
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2fphylogram_blog%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=phylogram%3a%20dendrograms%20for%20evolutionary%20analysis&amp;url=%2fpost%2fphylogram_blog%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fphylogram_blog%2f&amp;title=phylogram%3a%20dendrograms%20for%20evolutionary%20analysis"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2fphylogram_blog%2f&amp;title=phylogram%3a%20dendrograms%20for%20evolutionary%20analysis"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=phylogram%3a%20dendrograms%20for%20evolutionary%20analysis&amp;body=%2fpost%2fphylogram_blog%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<hr />
+
+<h3 id="introduction">Introduction</h3>
+
+<p>Evolutionary biologists are increasingly using R for building,
+editing and visualizing phylogenetic trees.
+The reproducible code-based workflow and comprehensive array of tools
+available in packages such as <a href="http://ape-package.ird.fr/" target="_blank">ape</a>,
+<a href="https://github.com/KlausVigo/phangorn" target="_blank">phangorn</a> and
+<a href="http://blog.phytools.org/" target="_blank">phytools</a> make R an ideal platform for
+phylogenetic analysis.
+Yet the many of the different tree formats are not well integrated,
+as pointed out in a recent
+<a href="https://ropensci.org/blog/2018/05/17/treeio/" target="_blank">post</a>.</p>
+
+<p>The standard data structure for phylogenies in R is the &ldquo;phylo&rdquo;
+object, a memory efficient, matrix-based tree representation.
+However, non-biologists have tended to use a tree structure
+called the &ldquo;dendrogram&rdquo;, which is a deeply nested list with
+node properties defined by various attributes stored at each level.
+While certainly not as memory efficient as the matrix-based format,
+dendrograms are versatile and intuitive to manipulate, and hence
+a large number of analytical and visualization functions exist
+for this object type. A good example is the
+<a href="https://github.com/talgalili/dendextend" target="_blank">dendextend</a> package,
+which features an impressive range of options for editing dendrograms
+and plotting publication-quality trees.</p>
+
+<p>To better integrate the phylo and dendrogram object types,
+and hence increase the options available for both camps,
+we developed the <a href="https://github.com/ropensci/phylogram" target="_blank">phylogram</a>
+package, which is now a part of the <a href="https://ropensci.org/" target="_blank">rOpenSci</a>
+project.
+This small package features a handful of functions for tree conversion,
+importing and exporting trees as parenthetic text, and manipulating
+dendrograms for phylogenetic applications.
+The phylogram package draws heavily on <a href="http://ape-package.ird.fr/" target="_blank">ape</a>,
+but currently has no other non-standard dependencies.</p>
+
+<p></p>
+
+<h3 id="installation">Installation</h3>
+
+<p>To download <strong>phylogram</strong> from CRAN and load the package, run</p>
+
+<pre><code class="language-r">install.packages(&quot;phylogram&quot;)
+library(phylogram)
+</code></pre>
+
+<p>Alternatively, to download the latest development version from <a href="https://github.com/ropensci/phylogram" target="_blank">GitHub</a>,
+first ensure that the <a href="https://github.com/r-lib/devtools" target="_blank">devtools</a>,
+<a href="https://CRAN.R-project.org/package=kmer" target="_blank">kmer</a>, and
+<a href="https://CRAN.R-project.org/package=dendextend" target="_blank">dendextend</a>
+packages are installed,
+then run:</p>
+
+<pre><code class="language-r">devtools::install_github(&quot;ropensci/phylogram&quot;, build_vignettes = TRUE) 
+library(phylogram)
+</code></pre>
+
+<p></p>
+
+<h3 id="tree-import-export">Tree import/export</h3>
+
+<p>A wide variety of tree formats can be parsed as phylo objects using either the
+well-optimized <code>ape::read.tree</code> function
+(for <a href="http://evolution.genetics.washington.edu/phylip/newicktree.html" target="_blank">Newick</a>
+strings),
+or the suite of specialized functions in the versatile
+<a href="https://ropensci.org/blog/2018/05/17/treeio/" target="_blank">treeio</a> package.
+To convert a phylo object to a dendrogram, the <strong>phylogram</strong> package includes
+the function <code>as.dendrogram</code>, which retains node height attributes and can handle
+non-ultrametric trees.</p>
+
+<p>For single-line parsing of dendrograms from Newick text,
+the <code>read.dendrogram</code> function wraps <code>ape::read.tree</code>
+and converts the resulting phylo class object to a dendrogram using <code>as.dendrogram</code>.</p>
+
+<p>Similarly, the functions <code>write.dendrogram</code> and <code>as.phylo</code> are used to
+export dendrogram objects to parenthetic text and phylo objects, respectively.</p>
+
+<p></p>
+
+<h3 id="tree-editing">Tree editing</h3>
+
+<p>The <strong>phylogram</strong> package includes some new functions for manipulating
+trees in dendrogram format.
+Leaf nodes and internal branching nodes can be removed
+using the function <code>prune</code>, which identifies and
+recursively deletes nodes based on pattern
+matching of &ldquo;label&rdquo; attributes.
+This is slower than <code>ape::drop.tip</code>, but offers
+the benefits of versatile string matching using regular expressions,
+and the ability to remove inner nodes (and by extension all subnodes)
+that feature matching &ldquo;label&rdquo; attributes.
+To aid visualization, the function <code>ladder</code> rearranges
+the tree, sorting nodes by the number of members
+(analogous to <code>ape::ladderize</code>).</p>
+
+<p>For more controlled subsetting or when creating trees from scratch
+(e.g. from a standard nested list), the function <code>remidpoint</code>
+recursively corrects all &ldquo;midpoint&rdquo;, &ldquo;members&rdquo; and &ldquo;leaf&rdquo; attributes.
+Node heights can then be manipulated using either <code>reposition</code>, which
+scales the heights of all nodes in a tree by a given constant, or
+<code>as.cladogram</code>, which resets the &ldquo;height&rdquo; attributes of all terminal
+leaf nodes to zero and progressively resets the heights of the inner nodes
+in single incremental units.</p>
+
+<p>As an example, a simple three-leaf dendrogram can be created from
+a nested list as follows:</p>
+
+<pre><code class="language-r">x &lt;- list(1, list(2, 3))
+## set class, midpoint, members and leaf attributes for each node
+x &lt;- remidpoint(x)
+## set height attributes for each node
+x &lt;- as.cladogram(x)
+</code></pre>
+
+<p>A nice feature of the dendrogram object type that tree
+editing operations can be carried out recursively
+using fast inbuilt functions in the &ldquo;apply&rdquo; family such as <code>dendrapply</code>
+and <code>lapply</code>.</p>
+
+<p>For example, to label each leaf node of the tree alphabetically we can
+create a simple labeling function and apply it to the tree nodes recursively using
+<code>dendrapply</code>.</p>
+
+<pre><code class="language-r">set_label &lt;- function(node){
+  if(is.leaf(node)) attr(node, &quot;label&quot;) &lt;- LETTERS[node]
+  return(node)
+}
+x &lt;- dendrapply(x, set_label)
+plot(x, horiz = TRUE)
+</code></pre>
+
+<p><img src="/img/unnamed-chunk-6-1.png" width="1000px" style="display: block; margin: auto auto auto 0;" /></p>
+
+<h3 id="applications">Applications</h3>
+
+<p>One application motivating bi-directional conversion between phylo and
+dendrogram objects involves creating publication-quality &lsquo;tanglegrams&rsquo; using
+the <a href="https://github.com/talgalili/dendextend" target="_blank">dendextend</a> package.
+For example, to see how well the fast, alignment-free <em>k</em>-mer distance
+from the <a href="https://CRAN.R-project.org/package=kmer" target="_blank">kmer</a> package
+performs in comparison to the standard Kimura 1980 distance measure,
+we can create neighbor-joining trees using each method and plot them side by side
+to check for incongruent nodes.</p>
+
+<pre><code class="language-r">## load woodmouse data and remove columns with ambiguities
+data(woodmouse, package = &quot;ape&quot;)
+woodmouse &lt;- woodmouse[, apply(woodmouse, 2, function(v) !any(v == 0xf0))]
+## compute Kimura 1980 pairwise distance matrix
+dist1 &lt;- ape::dist.dna(woodmouse, model = &quot;K80&quot;)
+## deconstruct alignment (not strictly necessary)
+woodmouse &lt;- as.list(as.data.frame(unclass(t(woodmouse))))
+## compute kmer distance matrix 
+dist2 &lt;- kmer::kdistance(woodmouse, k = 7) 
+## build and ladderize neighbor-joining trees
+phy1 &lt;- ape::nj(dist1)
+phy2 &lt;- ape::nj(dist2)
+phy1 &lt;- ape::ladderize(phy1)
+phy2 &lt;- ape::ladderize(phy2)
+## convert phylo objects to dendrograms
+dnd1 &lt;- as.dendrogram(phy1)
+dnd2 &lt;- as.dendrogram(phy2)
+## plot the tanglegram
+dndlist &lt;- dendextend::dendlist(dnd1, dnd2)
+dendextend::tanglegram(dndlist, fast = TRUE, margin_inner = 5)
+</code></pre>
+
+<p><img src="/img/unnamed-chunk-7-1.png" width="1000px" style="display: block; margin: auto auto auto 0;" /></p>
+
+<p></p>
+
+<p>In this case, the trees are congruent and branch lengths are similar.
+However, if we reduce the <em>k</em>-mer size from 7 to 6,
+the accuracy of the tree reconstruction is affected:</p>
+
+<pre><code class="language-r">## compute kmer distance matrix 
+dist3 &lt;- kmer::kdistance(woodmouse, k = 6) 
+phy3 &lt;- ape::nj(dist3)
+phy3 &lt;- ape::ladderize(phy3)
+dnd3 &lt;- as.dendrogram(phy3)
+dndlist &lt;- dendextend::dendlist(dnd1, dnd3)
+dendextend::tanglegram(dndlist, fast = TRUE, margin_inner = 5)
+</code></pre>
+
+<p><img src="/img/unnamed-chunk-8-1.png" width="1000px" style="display: block; margin: auto auto auto 0;" /></p>
+
+<p></p>
+
+<p>Hopefully users will find the package useful for a range of other applications,
+and I look forward to receiving feedback from the community.
+Thanks to <a href="https://github.com/wcornwell" target="_blank">wcornwell</a> and
+<a href="https://github.com/BenJWard" target="_blank">BenJWard</a>
+for reviewing the code and suggesting improvements,
+and to <a href="https://github.com/sckott" target="_blank">sckott</a>
+for handling the <a href="https://github.com/ropensci" target="_blank">rOpenSci</a> onboarding process.</p>
+
+<p>The phylogram package is available for download from
+<a href="https://github.com/ropensci/phylogram" target="_blank">GitHub</a> and
+<a href="https://CRAN.R-project.org/package=phylogram" target="_blank">CRAN</a>,
+and a summary of the package is published in the
+<a href="https://joss.theoj.org/papers/6773f7e7465b5068fc5654018c1a33b8" target="_blank">Journal of Open Source Software</a>.</p>
+
+    </div>
+  </div>
+
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+
+    
+    <li class="next"><a href="/post/kmer-vignette/">kmer: an R package for fast alignment-free clustering of biological sequences <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<div class="article-container">
+  
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2019 Shaun Wilkinson &middot; 
+
+      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
+      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" integrity="sha512-jGsMH83oKe9asCpkOVkBnUrDDTp8wl+adkB2D+//JtlxO4SrLoJdhbOysIFQJloQFD+C4Fl1rMsQZF76JjV0eQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.2/imagesloaded.pkgd.min.js" integrity="sha512-iHzEu7GbSc705hE2skyH6/AlTpOfBmkx7nUqTLGzPYR+C1tRaItbRlJ7hT/D3YQ9SV0fqLKzp4XY9wKulTBGTw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js" integrity="sha512-Z5heTz36xTemt1TbtbfXtTq5lMfYnOkXM2/eWcTTiLU01+Sw4ku1i7vScDc8fWhrP2abz9GQzgKH5NGBLoYlAw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/plugins/ScrollToPlugin.min.js" integrity="sha512-CDeU7pRtkPX6XJtF/gcFWlEwyaX7mcAp5sO3VIu/ylsdR74wEw4wmBpD5yYTrmMAiAboi9thyBUr1vXRPA7t0Q==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    
+    
+
+  </body>
+</html>
+

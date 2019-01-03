@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clustering on Shaun Wilkinson</title>
+    <link>/tags/clustering/</link>
+    <description>Recent content in Clustering on Shaun Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Fri, 06 Jul 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/clustering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>kmer: an R package for fast alignment-free clustering of biological sequences</title>
+      <link>/post/kmer-vignette/</link>
+      <pubDate>Fri, 06 Jul 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/kmer-vignette/</guid>
+      <description>Introduction Agglomerative clustering methods that rely on a multiple sequence alignment and a matrix of pairwise distances can be computationally infeasible for large DNA and amino acid datasets. Alternative k-mer based clustering methods involve enumerating all k-letter words in a sequence through a sliding window of length k. The *n* × 4k matrix of k-mer counts (where n is the number of sequences) can then be used in place of a multiple sequence alignment to calculate distances and/or build a phylogenetic tree.</description>
+    </item>
+    
+    <item>
+      <title>phylogram: dendrograms for evolutionary analysis</title>
+      <link>/post/phylogram_blog/</link>
+      <pubDate>Tue, 26 Jun 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/phylogram_blog/</guid>
+      <description>Introduction Evolutionary biologists are increasingly using R for building, editing and visualizing phylogenetic trees. The reproducible code-based workflow and comprehensive array of tools available in packages such as ape, phangorn and phytools make R an ideal platform for phylogenetic analysis. Yet the many of the different tree formats are not well integrated, as pointed out in a recent post.
+The standard data structure for phylogenies in R is the &amp;ldquo;phylo&amp;rdquo; object, a memory efficient, matrix-based tree representation.</description>
+    </item>
+    
+  </channel>
+</rss>

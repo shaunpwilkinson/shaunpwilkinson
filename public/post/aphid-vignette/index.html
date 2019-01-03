@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.53" />
+  <meta name="author" content="Shaun Wilkinson">
+  <meta name="description" content="Postdoctoral Research Fellow">
+
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.0/css/academicons.min.css" integrity="sha512-GGGNUPDhnG8LEAEDsjqYIQns+Gu8RBs4j5XGlxl7UfRaZBhCCm5jenJkeJL8uPuOXGqgl8/H1gjlWQDRjd3cUQ==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
+  <link rel="stylesheet" href="/css/hugo-academic.css">
+  
+
+  
+
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Shaun Wilkinson">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Shaun Wilkinson">
+
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="/post/aphid-vignette/">
+
+  
+
+  <title>The &#39;aphid&#39; package for analysis with profile hidden Markov models | Shaun Wilkinson</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Shaun Wilkinson</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#posts">
+            
+            <span>Posts</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">The &#39;aphid&#39; package for analysis with profile hidden Markov models</h1>
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2018-11-10 12:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Sat, Nov 10, 2018
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/profile-hmms">profile HMMs</a
+    >, 
+    
+    <a href="/tags/sequence-analysis">sequence analysis</a
+    >
+    
+  </span>
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2faphid-vignette%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=The%20%27aphid%27%20package%20for%20analysis%20with%20profile%20hidden%20Markov%20models&amp;url=%2fpost%2faphid-vignette%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2faphid-vignette%2f&amp;title=The%20%27aphid%27%20package%20for%20analysis%20with%20profile%20hidden%20Markov%20models"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2faphid-vignette%2f&amp;title=The%20%27aphid%27%20package%20for%20analysis%20with%20profile%20hidden%20Markov%20models"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=The%20%27aphid%27%20package%20for%20analysis%20with%20profile%20hidden%20Markov%20models&amp;body=%2fpost%2faphid-vignette%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<hr />
+
+<h3 id="introduction">Introduction</h3>
+
+<p><strong>aphid</strong> is an R package for the development and application of hidden
+Markov models and profile HMMs for biological sequence analysis. It
+contains functions for multiple and pairwise sequence alignment, model
+construction and parameter optimization, file import/export,
+implementation of the forward, backward and Viterbi algorithms for
+conditional sequence probabilities, tree-based sequence weighting, and
+sequence simulation. The package has a wide variety of uses including
+database searching, gene-finding and annotation, phylogenetic analysis
+and sequence classification.</p>
+
+<p>Hidden Markov models (HMMs) underlie many of the most important tasks in
+computational biology, including multiple sequence alignment, genome
+annotation, and increasingly, sequence database searching. Originally
+developed for speech recognition algorithms, their application to the
+field of molecular biology has increased dramatically since advances in
+computational capacity have enabled full probabilistic analysis in place
+of heuristic approximations. Pioneering this transition are two groups
+lead by Anders Krogh and Sean Eddy, whose respective software packages
+<a href="https://compbio.soe.ucsc.edu/sam.html" target="_blank">SAM</a> and
+<a href="http://www.hmmer.org" target="_blank">HMMER</a> have underpinned HMM-based bioinformatic
+analysis for over two decades.</p>
+
+<p>Here, we present the <strong>aphid</strong> package for analysis with profile hidden
+Markov models in the R environment (R Core Team 2017). The package
+contains functions for developing, plotting, importing and exporting
+both standard and profile HMMs, as well as implementations of the
+forward, backward and Viterbi algorithms for computing full and optimal
+conditional sequence probabilities. The package also features a multiple
+sequence alignment tool that produces high quality alignments <em>via</em>
+profile HMM training.</p>
+
+<h3 id="dependencies">Dependencies</h3>
+
+<p>The <strong>aphid</strong> package is designed to work in conjunction with the
+&ldquo;DNAbin&rdquo; and &ldquo;AAbin&rdquo; object types produced using the <strong>ape</strong> package
+(Paradis, Claude, and Strimmer 2004; Paradis 2012). These object types,
+in which sequences are represented in a bit-level coding scheme, are
+preferred over standard character-type sequences for maximizing memory
+and speed efficiency. While we recommend using <strong>ape</strong> alongside
+<strong>aphid</strong>, it is not a requisite and as such is listed in the &ldquo;Suggests&rdquo;
+rather than &ldquo;Imports&rdquo; section of the package description. Indeed, any
+sequence of standard ASCII characters is supported, making <strong>aphid</strong>
+suitable for other applications outside of biological sequence analysis.
+However, it should be noted that if DNA and/or amino acid sequences are
+input as character vectors, the functions may not recognize the
+ambiguity codes and therefore are not guaranteed to treat them
+appropriately.</p>
+
+<p>To maximize speed, the low-level dynamic programming functions
+(including the forward, backward, Viterbi, and maximum <em>a posteriori</em>
+algorithms) are written in C++ linking to the Rcpp package (Eddelbuettel
+and Francois 2011). R versions of these functions are also maintained
+for the purposes of debugging, experimentation and code interpretation.
+This package also relies on the <strong>openssl</strong> package (Ooms 2016) for
+sequence and alignment comparisons using the MD5 hash algorithm.</p>
+
+<h3 id="classes">Classes</h3>
+
+<p>Two primary object classes, &ldquo;HMM&rdquo; (hidden Markov model) and &ldquo;PHMM&rdquo;
+(profile hidden Markov model) are generated using the <strong>aphid</strong>
+functions deriveHMM and derivePHMM, respectively. These objects are
+lists consisting of emission and transition probability matrices
+(elements named &ldquo;E&rdquo; and &ldquo;A&rdquo;), and non-mandatory elements that may
+include vectors of background emission and transition probabilities
+(&ldquo;qe&rdquo; and &ldquo;qa&rdquo;, respectively) and other model metadata including &ldquo;name&rdquo;,
+&ldquo;description&rdquo;, &ldquo;size&rdquo; (the number of modules in the model), and
+&ldquo;alphabet&rdquo; (the set of symbols/residues emitted by the model). Objects
+of class &ldquo;DPA&rdquo; (dynamic programming array) are also generated by the
+Viterbi and forward/backward functions. These are predominantly created
+for the purposes of succinct console-printing.</p>
+
+<h3 id="functions">Functions</h3>
+
+<p>HMMs and PHMMs are explained in more detail throughout the following
+sections using <strong>aphid</strong> package functions to demonstrate their utility.
+The examples are borrowed from Durbin et al (1998), to which users are
+encouraged to refer for a more in-depth explanation on the theory and
+application of these models. Book chapter numbers are provided wherever
+possible for ease of reference.</p>
+
+<h4 id="hidden-markov-models">Hidden Markov Models</h4>
+
+<p>A hidden Markov model is a hypothetical data-generating mechanism for a
+sequence or set of sequences. It is depicted by a network of <em>states</em>
+each emitting symbols from a finite <em>alphabet</em> according to a set of
+<em>emission probabilities</em>, whose values are specific to each state. The
+states are traversed by an interconnecting set of <em>transition
+probabilities</em>, that include the probability of remaining in any given
+state and those of transitioning to each of the other connected states.</p>
+
+<p>An example of a simple HMM is given in Durbin et al (1998) chapter 3.2.
+An imaginary casino has two dice, one fair and one weighted. The fair
+dice emits residues from the alphabet {1, 2, 3, 4, 5, 6} with equal
+probabilities (<sup>1</sup>&frasl;<sub>6</sub> for each residue). The probability of rolling a &ldquo;6&rdquo;
+with the loaded dice is 0.5, while that of each of the other five
+residues is 0.1. If the dealer has the fair dice, he may secretly switch
+to the loaded dice with a probability of 0.05 after each roll, leaving a
+95% chance that he will retain the fair dice. Alternatively, if he has
+the loaded dice, he will switch back to the fair dice with a probability
+of 0.1, or more likely, retain the loaded dice with a probability of
+0.9.</p>
+
+<p>This example can be represented by a simple two-state hidden Markov
+model. The following code manually builds and plots the &ldquo;HMM&rdquo; object.</p>
+
+<pre><code>library(&quot;aphid&quot;)
+states &lt;- c(&quot;Begin&quot;, &quot;Fair&quot;, &quot;Loaded&quot;)
+residues &lt;- paste(1:6)
+### Define transition probability matrix A
+A &lt;- matrix(c(0, 0, 0, 0.99, 0.95, 0.1, 0.01, 0.05, 0.9), nrow = 3)
+dimnames(A) &lt;- list(from = states, to = states)
+### Define emission probability matrix E
+E &lt;- matrix(c(rep(1/6, 6), rep(1/10, 5), 1/2), nrow = 2, byrow = TRUE)
+dimnames(E) &lt;- list(states = states[-1], residues = residues)
+### Create the HMM object
+x &lt;- structure(list(A = A, E = E), class = &quot;HMM&quot;)
+### Plot the model
+plot(x, textexp = 1.5)
+### Optionally add the transition probabilities as text
+text(x = 0.02, y = 0.5, labels = &quot;0.95&quot;)
+text(x = 0.51, y = 0.5, labels = &quot;0.90&quot;)
+text(x = 0.5, y = 0.9, labels = &quot;0.05&quot;)
+text(x = 0.5, y = 0.1, labels = &quot;0.10&quot;)
+</code></pre>
+
+<p><img src="/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-2-1.png" alt="" />
+<strong>Figure 1: A simple hidden Markov model for the dishonest casino
+example.</strong> The plot.HMM method depicts the transition probabilities as
+weighted lines, and emission probabilities as horizontal grey bars. No
+begin/end state is modeled in this example; however, this can be
+achieved by entering non-zero probabilities in the first row and column
+of the transition matrix and passing &ldquo;begin = TRUE&rdquo; to <code>plot.HMM</code>.</p>
+
+<p>For a sequence of observed rolls, we can establish the most likely
+sequence of hidden states (including when the dice-switching most likely
+occurred) using the Viterbi algorithm. In the example given in Durbin et
+al (1998) chapter 3.2, the observed sequence of 300 rolls is:</p>
+
+<pre><code>##  31511624644664424531132163116415213362514454363165 
+##  66265666666511664531326512456366646316366631623264 
+##  55236266666625151631222555441666566563564324364131 
+##  51346514635341112641462625335636616366646623253441 
+##  36616611632525624622552652522664353533362331216253 
+##  64414432335163243633665562566662632666612355245242
+</code></pre>
+
+<p>Some observable clusters of 6&rsquo;s suggest that the loaded dice made an
+appearance at some stage, but when did the dice-switching occur? In the
+following code, the Viterbi algorithm is used to find the most likely
+sequence of hidden states given the model.</p>
+
+<pre><code>data(casino)
+### The actual path is stored in the names attribute of the sequence
+actual &lt;- c(&quot;F&quot;, &quot;L&quot;)[match(names(casino), c(&quot;Fair&quot;, &quot;Loaded&quot;))]
+### Find the predicted path
+vit1 &lt;- Viterbi(x, casino)
+predicted &lt;- c(&quot;F&quot;, &quot;L&quot;)[vit1$path + 1]
+### Note the path element of the output Viterbi object is an integer vector
+### the addition of 1 to the path converts from C/C++ to R's indexing style
+</code></pre>
+
+<p>Comparing the predicted path with the actual hidden sequence, the
+Viterbi algorithm wasn&rsquo;t far off:</p>
+
+<pre><code>##  Actual     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFLLLLL 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFLL 
+## 
+##  Actual     LLLLLLLLLLLLLLLLFFFFFFFFFFFFLLLLLLLLLLLLLLLLFFFLLL 
+##  Predicted  LLLLLLLLLLLLLLLLFFFFFFFFFFFFLLLLLLLLLLLLLLLLLLLLLL 
+## 
+##  Actual     LLLLLLLLLLLFFFFFFFFFFFFFFFFFLLLLLLLLLLLLLFFFFFFFFF 
+##  Predicted  LLLLLLLLLLLLFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 
+## 
+##  Actual     FFFFFFFFFFFFFFFFFFFFFFFFFFFFLLLLLLLLLLFFFFFFFFFFFF 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFLLLLLLLLLLLLLFFFFFFFF 
+## 
+##  Actual     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 
+## 
+##  Actual     FFFFFFFFFFFFFFFFFLLLLLLLLLLLLLLLLLLLLLLFFFFFFFFFFF 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFLLLLLLLLLLLLLLLLLLLFFFFFFFFFFF
+</code></pre>
+
+<p>We can also calculate the full and posterior probabilities of the
+sequence given the model using the <code>forward</code> and/or <code>backward</code>
+algorithms:</p>
+
+<pre><code>casino.post &lt;- posterior(x, casino)
+plot(1:300, seq(0, 1, length.out = 300), type = &quot;n&quot;, xlab = &quot;Roll number&quot;,
+     ylab = &quot;Posterior probability of dice being fair&quot;)
+starts &lt;- which(c(&quot;L&quot;, actual) == &quot;F&quot; &amp; c(actual, &quot;F&quot;) == &quot;L&quot;)
+ends &lt;- which(c(&quot;F&quot;, actual) == &quot;L&quot; &amp; c(actual, &quot;L&quot;) == &quot;F&quot;) - 1
+for(i in 1:6) rect(starts[i], 0, ends[i], 1, col = &quot;grey&quot;, border = NA)
+lines(1:300, casino.post[1, ])
+</code></pre>
+
+<p><img src="/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-6-1.png" alt="" />
+<strong>Figure 2: Posterior state probabilities for the 300 dice rolls.</strong> The
+line shows the posterior probability that the dice was fair at each
+roll, while the grey rectangles show the actual periods for which the
+loaded dice was being used. See Durbin et al (1998) chapter 3.2 for more
+details.</p>
+
+<h5 id="deriving-hmms-from-sequence-data">Deriving HMMs from sequence data</h5>
+
+<p>The <strong>aphid</strong> package features the function <code>deriveHMM</code> for building an
+HMM from a set of training sequences. The following code derives a
+simple HMM from our single sequence of dice rolls with its known state
+path (stored as the &lsquo;names&rsquo; attribute of the sequence).</p>
+
+<pre><code>y &lt;- deriveHMM(list(casino), logspace = FALSE)
+plot(y, textexp = 1.5)
+
+### Optionally add the transition probabilities as text
+text(x = 0.02, y = 0.5, labels = round(y$A[&quot;Fair&quot;, &quot;Fair&quot;], 2))
+text(x = 0.51, y = 0.5, labels = round(y$A[&quot;Loaded&quot;, &quot;Loaded&quot;], 2))
+text(x = 0.5, y = 0.9, labels = round(y$A[&quot;Fair&quot;, &quot;Loaded&quot;], 2))
+text(x = 0.5, y = 0.1, labels = round(y$A[&quot;Loaded&quot;, &quot;Fair&quot;], 2))
+</code></pre>
+
+<p><img src="/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-7-1.png" alt="" /></p>
+
+<p><strong>Figure 3: A simple HMM derived from the sequence of 300 dice rolls.</strong>
+As in Fig. 1, transition probabilities are shown as weighted lines and
+emission probabilities as horizontal grey bars.</p>
+
+<p>This appears to be fairly close to the actual model, despite the fact
+that the training data consisted of just a single sequence. One would
+typically derive an HMM from a list of many such sequences (hence why
+the input argument is a list and not a vector) but this example is
+simplified for clarity.</p>
+
+<h4 id="profile-hidden-markov-models">Profile Hidden Markov Models</h4>
+
+<p>A profile hidden Markov model is an extension of a standard HMM, where
+the emission and transition probabilities are <em>position specific</em>. That
+is, they can change at each point along the sequence. These models
+typically have many more parameters than their simpler HMM counterparts,
+but can be very powerful for sequence analysis. The precursor to a
+profile HMM is normally a multiple sequence alignment. Each column in
+the alignment will often (but not always) be represented by one internal
+position or &ldquo;module&rdquo; in the model, with each module consisting of three
+states:</p>
+
+<ul>
+<li>a silent <em>delete</em> state that does not emit residues.</li>
+<li>an <em>insert</em> state with emission probabilities reflecting the
+background residue frequencies averaged over the entire alignment.</li>
+<li>a <em>match</em> state with emission probabilities reflecting the residue
+frequencies in the alignment column.</li>
+</ul>
+
+<p>Figure 4 shows the three state types listed above as circles diamonds
+and rectangles, respectively. The states are linked by transition
+probabilities shown as weighted lines in the graph.</p>
+
+<p>Consider this small partial alignment of amino acid sequences from
+Durbin et al (1998) chapter 5.3:</p>
+
+<pre><code>data(globins)
+globins
+
+##            [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [,9] [,10]
+## HBA_HUMAN  &quot;V&quot;  &quot;G&quot;  &quot;A&quot;  &quot;-&quot;  &quot;-&quot;  &quot;H&quot;  &quot;A&quot;  &quot;G&quot;  &quot;E&quot;  &quot;Y&quot;  
+## HBB_HUMAN  &quot;V&quot;  &quot;-&quot;  &quot;-&quot;  &quot;-&quot;  &quot;-&quot;  &quot;N&quot;  &quot;V&quot;  &quot;D&quot;  &quot;E&quot;  &quot;V&quot;  
+## MYG_PHYCA  &quot;V&quot;  &quot;E&quot;  &quot;A&quot;  &quot;-&quot;  &quot;-&quot;  &quot;D&quot;  &quot;V&quot;  &quot;A&quot;  &quot;G&quot;  &quot;H&quot;  
+## GLB3_CHITP &quot;V&quot;  &quot;K&quot;  &quot;G&quot;  &quot;-&quot;  &quot;-&quot;  &quot;-&quot;  &quot;-&quot;  &quot;-&quot;  &quot;-&quot;  &quot;D&quot;  
+## GLB5_PETMA &quot;V&quot;  &quot;Y&quot;  &quot;S&quot;  &quot;-&quot;  &quot;-&quot;  &quot;T&quot;  &quot;Y&quot;  &quot;E&quot;  &quot;T&quot;  &quot;S&quot;  
+## LGB2_LUPLU &quot;F&quot;  &quot;N&quot;  &quot;A&quot;  &quot;-&quot;  &quot;-&quot;  &quot;N&quot;  &quot;I&quot;  &quot;P&quot;  &quot;K&quot;  &quot;H&quot;  
+## GLB1_GLYDI &quot;I&quot;  &quot;A&quot;  &quot;G&quot;  &quot;A&quot;  &quot;D&quot;  &quot;N&quot;  &quot;G&quot;  &quot;A&quot;  &quot;G&quot;  &quot;V&quot;
+</code></pre>
+
+<p>Position-specific patterns include a high probability of observing a &ldquo;V&rdquo;
+at position 1 and an &ldquo;A&rdquo; or &ldquo;G&rdquo; at position 3. When tabulating the
+frequencies it is also prudent to add pseudo-counts, since the absence
+of a particular transition or emission type does not preclude the
+possibility of it occurring in another (unobserved) sequence.
+Pseudo-counts can be Laplacean (adds one of each emission and transition
+type), background (adjusts the Laplacean pseudo-counts to reflect the
+background frequencies derived from the entire alignment), or user
+defined, which can include more complex pseudo-count schemes such as
+Dirichlet mixtures (Durbin et al. 1998).<br />
+The default option for the derivePHMM function is &ldquo;background&rdquo;.</p>
+
+<p>The following code derives a profile HMM from the globin data and plots
+the model:</p>
+
+<pre><code>globins.PHMM &lt;- derivePHMM(globins, residues = &quot;AMINO&quot;, seqweights = NULL)
+plot(globins.PHMM)
+</code></pre>
+
+<p><img src="/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-9-1.png" alt="" /></p>
+
+<p><strong>Figure 4: Profile HMM derived from a partial globin sequence
+alignment.</strong> Match states are shown as rectangles, insert states as
+diamonds, and delete states as circles. Grey horizontal bars represent
+the emission probabilities for each residue in the alphabet (in this
+case the amino acid alphabet) at each position in the model. Numbers in
+the delete states are simply model module numbers, while those in the
+insert states are the probabilities of remaining in the current insert
+state at the next emission cycle. Lines are weighted and directed where
+necessary to reflect the transition probabilities between states. The
+large &ldquo;B&rdquo; and &ldquo;E&rdquo; labels represent are the silent begin and end states,
+respectively.</p>
+
+<p>Note that there are only 8 internal modules (excluding the begin and end
+states), while the alignment had 10 columns. The <code>derivePHMM</code> function
+decided (using the maximum <em>a posteriori</em> algorithm) that there was not
+enough residue information in columns 4 and 5 of the alignment to
+warrant assigning them internal modules in the model. Instead, the last
+sequence in the alignment (GLB1_GLYDI) was considered to have entered
+the insert state at position 3 where it remained for two emission cycles
+(emitting an &ldquo;A&rdquo; and a &ldquo;D&rdquo;) before transitioning to the match state in
+module 4. We can show this by calculating the optimal path of that
+sequence through the model, again using the Viterbi algorithm:</p>
+
+<pre><code>path &lt;- Viterbi(globins.PHMM, globins[&quot;GLB1_GLYDI&quot;, ])$path
+path
+
+##  [1] 1 1 1 2 2 1 1 1 1 1
+</code></pre>
+
+<p>The &ldquo;path&rdquo; element of the Viterbi object is an integer vector with
+elements taking values 0 (&ldquo;delete&rdquo;), 1 (&ldquo;match&rdquo;) or 2 (&ldquo;insert&rdquo;). The
+path can be expressed more intuitively as characters instead of indices
+as follows:</p>
+
+<pre><code>c(&quot;D&quot;, &quot;M&quot;, &quot;I&quot;)[path + 1]
+
+##  [1] &quot;M&quot; &quot;M&quot; &quot;M&quot; &quot;I&quot; &quot;I&quot; &quot;M&quot; &quot;M&quot; &quot;M&quot; &quot;M&quot; &quot;M&quot;
+</code></pre>
+
+<p>Note that the addition of 1 to each path element is simply to convert
+from the C/C++ indexing style (which begins at 0) to R&rsquo;s style.</p>
+
+<p>Sequences do not need to be aligned to produce a profile HMM. The
+function <code>derivePHMM</code> can optionally take a list of unaligned sequences,
+in which case the longest sequence is used as a &lsquo;seed&rsquo; to create a
+preliminary profile HMM, and the model is iteratively trained with the
+sequence list using either the Baum Welch or Viterbi training algorithm
+(see model training section below).</p>
+
+<h5 id="file-i-o">File I/O</h5>
+
+<p>Profile HMMs can be exported as text files in the HMMER v3 format
+(<a href="http://www.hmmer.org/" target="_blank">http://www.hmmer.org/</a>) using the function <code>writePHMM</code>. For example,
+the small globin profile HMM can be exported by running
+<code>writePHMM(globins.PHMM)</code>. Similarly, a HMMER v3 text file can be parsed
+into R as an object of class &ldquo;PHMM&rdquo; with the function <code>readPHMM</code>.</p>
+
+<h5 id="sequence-simulation">Sequence Simulation</h5>
+
+<p>To simulate data with random variation, the <strong>aphid</strong> package features
+the function <code>generate</code> with methods for both HMMs and PHMM objects.
+Sequences are generated recursively using the transition and emission
+probabilities from within the model. There are two compulsory arguments,
+a model (object class &ldquo;HMM&rdquo; or &ldquo;PHMM&rdquo;) and the &ldquo;size&rdquo; argument, which
+specifies the maximum length of the sequence (this prevent an overflow
+situation that can occur if insert-insert transition probabilities are
+relatively high). For example, the following code simulates a list of 10
+random sequences from the small globin profile HMM:</p>
+
+<pre><code>sim &lt;- list(length = 10)
+set.seed(9999)
+for(i in 1:10) sim[[i]] &lt;- generate(globins.PHMM, size = 20)
+sim
+
+## $length
+##   M   M   M   M   I   I   M   M   M   M 
+## &quot;N&quot; &quot;G&quot; &quot;T&quot; &quot;K&quot; &quot;K&quot; &quot;V&quot; &quot;H&quot; &quot;F&quot; &quot;G&quot; &quot;V&quot; 
+## 
+## [[2]]
+##   D   M   M   M   M   M   M   I   M 
+## &quot;-&quot; &quot;N&quot; &quot;V&quot; &quot;N&quot; &quot;G&quot; &quot;P&quot; &quot;G&quot; &quot;V&quot; &quot;L&quot; 
+## 
+## [[3]]
+##   M   D   D   M   M   M   M   M 
+## &quot;N&quot; &quot;-&quot; &quot;-&quot; &quot;H&quot; &quot;Y&quot; &quot;E&quot; &quot;V&quot; &quot;V&quot; 
+## 
+## [[4]]
+##   M   M   M   M   M   M   M   M 
+## &quot;A&quot; &quot;W&quot; &quot;A&quot; &quot;N&quot; &quot;R&quot; &quot;P&quot; &quot;T&quot; &quot;G&quot; 
+## 
+## [[5]]
+##   M   M   M   M   M   M   M   M 
+## &quot;G&quot; &quot;V&quot; &quot;A&quot; &quot;V&quot; &quot;E&quot; &quot;D&quot; &quot;T&quot; &quot;V&quot; 
+## 
+## [[6]]
+##   M   M   M   M   M   M   M   M 
+## &quot;T&quot; &quot;G&quot; &quot;G&quot; &quot;Y&quot; &quot;A&quot; &quot;G&quot; &quot;S&quot; &quot;Y&quot; 
+## 
+## [[7]]
+##   M   M   M   M   M   M   I   M   M 
+## &quot;I&quot; &quot;W&quot; &quot;A&quot; &quot;T&quot; &quot;A&quot; &quot;P&quot; &quot;K&quot; &quot;Y&quot; &quot;P&quot; 
+## 
+## [[8]]
+##   M   M   M   M   M   M   M   M 
+## &quot;V&quot; &quot;N&quot; &quot;G&quot; &quot;D&quot; &quot;A&quot; &quot;G&quot; &quot;R&quot; &quot;Y&quot; 
+## 
+## [[9]]
+##   M   M   M   D   D   D   D   M 
+## &quot;V&quot; &quot;N&quot; &quot;W&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;H&quot; 
+## 
+## [[10]]
+##   D   D   D   M   M   M   M   M 
+## &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;D&quot; &quot;K&quot; &quot;N&quot; &quot;A&quot; &quot;V&quot;
+</code></pre>
+
+<p>Note that the names attributes specify which state each residue was
+emitted from, and gap symbols are emitted from delete states. If these
+gaps are not required they can be removed as follows:</p>
+
+<pre><code>sim &lt;- lapply(sim, function(s) s[names(s) != &quot;D&quot;])
+</code></pre>
+
+<h5 id="model-training">Model Training</h5>
+
+<p>The <strong>aphid</strong> package offers the function <code>train</code> for optimizing model
+parameters using either the Baum Welch or Viterbi training algorithm.
+Both are iterative refinement algorithms; the former does not rely on a
+multiple sequence alignment but is generally much slower than the
+latter. The Viterbi training operation can be sped up further on
+multi-CPU machines by specifying the &ldquo;cores&rdquo; argument for parallel
+processing. The best choice of training algorithm will generally depend
+on the nature of the problem and the computing resources available. For
+more information see Durbin et al (1998) chapter 3.3 for standard HMMs
+and chapter 6.5 for profile HMMs.</p>
+
+<p>The following code trains the small globin profile HMM with the
+sequences simulated in the previous step using the Baum Welch algorithm.</p>
+
+<pre><code>globins2.PHMM &lt;- train(globins.PHMM, sim, method = &quot;BaumWelch&quot;, 
+                       deltaLL = 0.01, seqweights = NULL)
+
+## Iteration 1 log likelihood = -213.8818 
+## Iteration 2 log likelihood = -187.5671 
+## Iteration 3 log likelihood = -186.2003 
+## Iteration 4 log likelihood = -185.4684 
+## Iteration 5 log likelihood = -185.0501 
+## Iteration 6 log likelihood = -184.8302 
+## Iteration 7 log likelihood = -184.7419 
+## Iteration 8 log likelihood = -184.7162 
+## Iteration 9 log likelihood = -184.6974 
+## Iteration 10 log likelihood = -184.6543 
+## Iteration 11 log likelihood = -184.5744 
+## Iteration 12 log likelihood = -184.4634 
+## Iteration 13 log likelihood = -184.3386 
+## Iteration 14 log likelihood = -184.2147 
+## Iteration 15 log likelihood = -184.1037 
+## Iteration 16 log likelihood = -184.0166 
+## Iteration 17 log likelihood = -183.9569 
+## Iteration 18 log likelihood = -183.9197 
+## Iteration 19 log likelihood = -183.8976 
+## Iteration 20 log likelihood = -183.8846 
+## Iteration 21 log likelihood = -183.8769 
+## Convergence threshold reached after 21 EM iterations
+</code></pre>
+
+<p>As shown in the feedback (which can be switched off by setting &ldquo;quiet =
+TRUE&rdquo;), this operation took 7 expectation-maximization iterations to
+converge to the specified delta log-likelihood threshold of 0.01.</p>
+
+<h2 id="sequence-alignment">Sequence Alignment</h2>
+
+<p>The <strong>aphid</strong> package can be used to produce high-quality multiple
+sequence alignments using the iterative model training method outlined
+above. The function <code>align</code> takes as its primary argument a list of
+sequences either as a &ldquo;DNAbin&rdquo; object, an &ldquo;AAbin&rdquo; object, or a list of
+character sequences. An object of class &ldquo;PHMM&rdquo; can be passed to the
+function as an optional secondary argument (&ldquo;model&rdquo;), in which case the
+sequences are simply aligned to the model to produce the alignment
+matrix. If &ldquo;model&rdquo; is NULL, a preliminary model is first derived using
+the &lsquo;seed&rsquo; sequence method outlined above, after which the model is
+trained using either the Baum Welch or Viterbi training algorithm
+(specified <em>via</em> the &ldquo;method&rdquo; argument). The sequences are then aligned
+to the model in the usual fashion to produce the alignment. Note that if
+only two sequences are present inthe input list, the <code>align</code> function
+will perform a pairwise alignment without a profile HMM (Smith-Waterman
+or Needleman-Wunch alignment).</p>
+
+<p>In this final example, we will deconstruct the original globin alignment
+and re-align the sequences using the original PHMM as a guide.</p>
+
+<pre><code>globins &lt;- unalign(globins)
+align(globins, model = globins.PHMM, seqweights = NULL, residues = &quot;AMINO&quot;)
+
+##            1   2   3   I   I   4   5   6   7   8  
+## HBA_HUMAN  &quot;V&quot; &quot;G&quot; &quot;A&quot; &quot;-&quot; &quot;-&quot; &quot;H&quot; &quot;A&quot; &quot;G&quot; &quot;E&quot; &quot;Y&quot;
+## HBB_HUMAN  &quot;V&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;N&quot; &quot;V&quot; &quot;D&quot; &quot;E&quot; &quot;V&quot;
+## MYG_PHYCA  &quot;V&quot; &quot;E&quot; &quot;A&quot; &quot;-&quot; &quot;-&quot; &quot;D&quot; &quot;V&quot; &quot;A&quot; &quot;G&quot; &quot;H&quot;
+## GLB3_CHITP &quot;V&quot; &quot;K&quot; &quot;G&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;D&quot;
+## GLB5_PETMA &quot;V&quot; &quot;Y&quot; &quot;S&quot; &quot;-&quot; &quot;-&quot; &quot;T&quot; &quot;Y&quot; &quot;E&quot; &quot;T&quot; &quot;S&quot;
+## LGB2_LUPLU &quot;F&quot; &quot;N&quot; &quot;A&quot; &quot;-&quot; &quot;-&quot; &quot;N&quot; &quot;I&quot; &quot;P&quot; &quot;K&quot; &quot;H&quot;
+## GLB1_GLYDI &quot;I&quot; &quot;A&quot; &quot;G&quot; &quot;A&quot; &quot;D&quot; &quot;N&quot; &quot;G&quot; &quot;A&quot; &quot;G&quot; &quot;V&quot;
+</code></pre>
+
+<p>Note that the column names show the progressive positions along the
+model and where residues were predicted to have been emitted by insert
+states (e.g. the 4th and 5th residues of sequence 7).</p>
+
+<h2 id="further-reading">Further Reading</h2>
+
+<p>This package was written based on the algorithms described in Durbin et
+al (1998). This book offers an in depth explanation of hidden Markov
+models and profile HMMs for users of all levels of familiarity. Many of
+the examples and datasets in the package are directly derived from the
+text, which serves as a useful primer for this package. There are also
+excellent resources available for those wishing to use profile HMMs
+outside of the R environment. The aphid package maintains compatibility
+with the HMMER software suite through the file input and output
+functions readPHMM and writePHMM. Those interested are further
+encouraged to check out the SAM software package, which also features a
+comprehensive suite of functions and tutorials.</p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<p>This software was developed at Victoria University of Wellington, NZ,
+with funding from a Rutherford Foundation Postdoctoral Research
+Fellowship award from the Royal Society of New Zealand.</p>
+
+<h2 id="references">References</h2>
+
+<p>Durbin, Richard, Sean Eddy, Anders Krogh, and Graeme Mitchison. 1998.
+<em>Biological Sequence Analysis: Probabilistic Models of Proteins and
+Nucleic Acids</em>. Cambridge: Cambridge University Press.</p>
+
+<p>Eddelbuettel, Dirk, and Romain Francois. 2011. “Rcpp: seamless R and C++
+integration.” <em>Journal of Statistical Software</em> 40 (8): 1–18.
+<a href="http://www.jstatsoft.org/v40/i08/" target="_blank">http://www.jstatsoft.org/v40/i08/</a>.</p>
+
+<p>Ooms, Jeroen. 2016. <em>openssl: toolkit for encryption, signatures and
+certificates based on OpenSSL</em>. R package.
+<a href="https://cran.r-project.org/package=openssl" target="_blank">https://cran.r-project.org/package=openssl</a>.</p>
+
+<p>Paradis, Emmanuel. 2012. <em>Analysis of Phylogenetics and Evolution with
+R</em>. Second Edi. New York: Springer.</p>
+
+<p>Paradis, Emmanuel, Julien Claude, and Korbinian Strimmer. 2004. “APE:
+analyses of phylogenetics and evolution in R language.” <em>Bioinformatics</em>
+20: 289–90.
+doi:<a href="https://doi.org/10.1093/bioinformatics/btg412" target="_blank">10.1093/bioinformatics/btg412</a>.</p>
+
+<p>R Core Team. 2017. “R: A Language and Environment for Statistical
+Computing.” Vienna, Austria: R Foundation for Statistical Computing.
+<a href="https://cran.r-project.org/" target="_blank">https://cran.r-project.org/</a>.</p>
+
+    </div>
+  </div>
+
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="/post/kmer-vignette/"><span
+      aria-hidden="true">&larr;</span> kmer: an R package for fast alignment-free clustering of biological sequences</a></li>
+    
+
+    
+    <li class="next"><a href="/post/insect-vignette/">The &#39;insect&#39; R package and metabarcoding pipeline <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<div class="article-container">
+  
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2019 Shaun Wilkinson &middot; 
+
+      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
+      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" integrity="sha512-jGsMH83oKe9asCpkOVkBnUrDDTp8wl+adkB2D+//JtlxO4SrLoJdhbOysIFQJloQFD+C4Fl1rMsQZF76JjV0eQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.2/imagesloaded.pkgd.min.js" integrity="sha512-iHzEu7GbSc705hE2skyH6/AlTpOfBmkx7nUqTLGzPYR+C1tRaItbRlJ7hT/D3YQ9SV0fqLKzp4XY9wKulTBGTw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js" integrity="sha512-Z5heTz36xTemt1TbtbfXtTq5lMfYnOkXM2/eWcTTiLU01+Sw4ku1i7vScDc8fWhrP2abz9GQzgKH5NGBLoYlAw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/plugins/ScrollToPlugin.min.js" integrity="sha512-CDeU7pRtkPX6XJtF/gcFWlEwyaX7mcAp5sO3VIu/ylsdR74wEw4wmBpD5yYTrmMAiAboi9thyBUr1vXRPA7t0Q==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    
+    
+
+  </body>
+</html>
+

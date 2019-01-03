@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concerted Evolution on Shaun Wilkinson</title>
+    <link>/tags/concerted-evolution/</link>
+    <description>Recent content in Concerted Evolution on Shaun Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/concerted-evolution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intragenomic variation in Symbiodiniaceae</title>
+      <link>/project/symbiodiniaceae_igv/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/symbiodiniaceae_igv/</guid>
+      <description>The symbiosis between corals and dinoflagellate algae of the family Symbiodiniaceae is essential for the development and survival of coral reefs. Yet this fragile association is highly vulnerable to environmental disturbance. A coral’s ability to tolerate temperature stress depends on the fitness of its resident symbionts, whose thermal optima vary extensively between lineages. However, the in hospite population genetic structure of Symbiodiniaceae is poorly understood and mostly based on analysis of bulk DNA extracted from thousands to millions of cells.</description>
+    </item>
+    
+  </channel>
+</rss>

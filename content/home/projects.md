@@ -2,7 +2,7 @@
 # Projects widget.
 # This widget displays all projects from `content/project/`.
 
-date = "2016-04-20T00:00:00"
+date = "2019-01-01T00:00:00"
 draft = false
 
 title = "Projects"
@@ -15,7 +15,7 @@ weight = 50
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 1
+view = 0
 
 # Filter toolbar.
 # Add or remove as many filters (`[[filter]]` instances) as you like.
@@ -26,12 +26,12 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Symbiont IGV"
+  tag = ".symbiont_IGV"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "eDNA classification"
+  tag = ".eDNA_classification"
 
 +++
 

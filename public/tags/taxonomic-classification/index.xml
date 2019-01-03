@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taxonomic Classification on Shaun Wilkinson</title>
+    <link>/tags/taxonomic-classification/</link>
+    <description>Recent content in Taxonomic Classification on Shaun Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/taxonomic-classification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The &#39;insect&#39; R package and metabarcoding pipeline</title>
+      <link>/post/insect-vignette/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/post/insect-vignette/</guid>
+      <description>Introduction Welcome to the insect R package, a tool for assigning taxon IDs to amplicon libraries using informatic sequence classification trees. The insect learning algorithm takes a set of reference sequences (obtained from GenBank and/or other sources) to build a classification tree, which is then used to assign taxonomic IDs to a set of query sequences (e.g. those generated from an NGS platform such as Illumina MiSeq). The learning and classification functions are best suited to computing environments with multiple processors and access to large amounts of memory; however, most modest-sized datasets can be processed on standard personal computers if time is available.</description>
+    </item>
+    
+  </channel>
+</rss>

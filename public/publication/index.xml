@@ -6,28 +6,64 @@
     <description>Recent content in Publications on Shaun Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Shaun Wilkinson</copyright>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Elevated Symbiodiniaceae richness at Atauro Island (Timor-Leste): a highly biodiverse reef system.</title>
+      <link>/publication/core2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/core2019/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Taxonomic identification of environmental DNA with informatic sequence classification trees.</title>
+      <link>/publication/peerj/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/publication/peerj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-genomic variation in Symbiodinium correlates negatively with photosynthetic efficiency and coral host performance.</title>
+      <link>/publication/core2018/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/core2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogram: an R package for phylogenetic analysis with nested lists</title>
+      <link>/publication/joss/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/joss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The distribution of intra-genomically variable dinoflagellate symbionts at Lord Howe Island, Australia.</title>
+      <link>/publication/core2016/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/core2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-genomic variation in symbiotic dinoflagellates: recent divergence or recombination between lineages?</title>
+      <link>/publication/bmc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bmc/</guid>
+      <description></description>
     </item>
     
   </channel>

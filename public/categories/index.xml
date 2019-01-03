@@ -6,17 +6,10 @@
     <description>Recent content in Categories on Shaun Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Shaun Wilkinson</copyright>
-    <atom:link href="/categories/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
     
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

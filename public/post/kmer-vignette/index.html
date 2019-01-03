@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.53" />
+  <meta name="author" content="Shaun Wilkinson">
+  <meta name="description" content="Postdoctoral Research Fellow">
+
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.0/css/academicons.min.css" integrity="sha512-GGGNUPDhnG8LEAEDsjqYIQns+Gu8RBs4j5XGlxl7UfRaZBhCCm5jenJkeJL8uPuOXGqgl8/H1gjlWQDRjd3cUQ==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
+  <link rel="stylesheet" href="/css/hugo-academic.css">
+  
+
+  
+
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Shaun Wilkinson">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Shaun Wilkinson">
+
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="/post/kmer-vignette/">
+
+  
+
+  <title>kmer: an R package for fast alignment-free clustering of biological sequences | Shaun Wilkinson</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Shaun Wilkinson</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#publications">
+            
+            <span>Publications</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#posts">
+            
+            <span>Posts</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#projects">
+            
+            <span>Projects</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">kmer: an R package for fast alignment-free clustering of biological sequences</h1>
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2018-07-06 12:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Fri, Jul 6, 2018
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/clustering">clustering</a
+    >, 
+    
+    <a href="/tags/sequence-analysis">sequence analysis</a
+    >
+    
+  </span>
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpost%2fkmer-vignette%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=kmer%3a%20an%20R%20package%20for%20fast%20alignment-free%20clustering%20of%20biological%20sequences&amp;url=%2fpost%2fkmer-vignette%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fkmer-vignette%2f&amp;title=kmer%3a%20an%20R%20package%20for%20fast%20alignment-free%20clustering%20of%20biological%20sequences"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpost%2fkmer-vignette%2f&amp;title=kmer%3a%20an%20R%20package%20for%20fast%20alignment-free%20clustering%20of%20biological%20sequences"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=kmer%3a%20an%20R%20package%20for%20fast%20alignment-free%20clustering%20of%20biological%20sequences&amp;body=%2fpost%2fkmer-vignette%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<hr />
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Agglomerative clustering methods that rely on a multiple sequence
+alignment and a matrix of pairwise distances can be computationally
+infeasible for large DNA and amino acid datasets. Alternative k-mer
+based clustering methods involve enumerating all <em>k</em>-letter words in a
+sequence through a sliding window of length <em>k</em>. The
+*n* × 4<sup><em>k</em></sup> matrix of <em>k</em>-mer counts (where <em>n</em> is the number
+of sequences) can then be used in place of a multiple sequence alignment
+to calculate distances and/or build a phylogenetic tree. <strong>kmer</strong> is an
+R package for clustering large sequence datasets using fast
+alignment-free <em>k</em>-mer counting. This can be achieved with or without a
+multiple sequence alignment, and with or without a matrix of pairwise
+distances. These functions are detailed below with examples of their
+utility.</p>
+
+<h2 id="distance-matrix-computation">Distance matrix computation</h2>
+
+<p>The function <code>kcount</code> is used to enumerate all <em>k</em>-mers within a
+sequence or set of sequences, by sliding a window of length <em>k</em> along
+each sequence and counting the number of times each <em>k</em>-mer appears (for
+example, the 4<sup>3</sup> = 64 possible DNA 3-mers: AAA, AAC, AAG, &hellip;,
+TTT). The <code>kdistance</code> function can then compute an alignment-free
+distance matrix, using a matrix of <em>k</em>-mer counts to derive the pairwise
+distances. The default distance metric used by <code>kdistance</code> is the
+<em>k</em>-mer (<em>k</em>-tuple) distance measure outlined in Edgar (2004). For two
+DNA sequences <em>a</em> and <em>b</em>, the fractional common <em>k</em>-mer count over the
+4<sup><em>k</em></sup> possible words of length <em>k</em> is calculated as:
+$$F  = \sum\limits_{\tau}\frac{min (n_a(\tau), n_b (\tau))}{min (L_a , L_b ) - k + 1} \tag{1}$$</p>
+
+<p>where <em>τ</em> represents each possible <em>k</em>-mer, <em>n</em><sub><em>a</em></sub>(<em>τ</em>) and
+<em>n</em><sub><em>b</em></sub>(<em>τ</em>) are the number of times <em>τ</em> appears in each
+sequence, <em>k</em> is the <em>k</em>-mer length and <em>L</em> is the sequence length. The
+pairwise distance between <em>a</em> and <em>b</em> is then calculated as:</p>
+
+<p>$$d = \frac{log(0.1 + F) - log(1.1)}{log(0.1)} \tag{2}$$</p>
+
+<p>For <em>n</em> sequences, the <code>kdistance</code> operation has time and memory
+complexity <em>O</em>(<em>n</em><sup>2</sup>) and thus can become computationally
+infeasible when the sequence set is large (e.g. &gt; 10,000 sequences).
+As such, the <strong>kmer</strong> package also offers the function <code>mbed</code>, that only
+computes the distances from each sequence to a smaller (or equal) sized
+subset of &lsquo;seed&rsquo; sequences (Blackshields <em>et al.</em>, 2010). The default
+behavior of the <code>mbed</code> function is to select
+*t* = (*l<strong>o</strong>g*<sub>2</sub><em>n</em>)<sup>2</sup> seeds by clustering the
+sequences (<em>k</em>-means algorithm with *k* = <em>t</em>), and selecting one
+representative sequence from each cluster.</p>
+
+<p>DNA and amino acid sequences can be passed to <code>kcount</code>, <code>kdistance</code> and
+<code>mbed</code> either as a list of non-aligned sequences or a matrix of aligned
+sequences, preferably in either the &ldquo;DNAbin&rdquo; or &ldquo;AAbin&rdquo; raw-byte format
+(see the <strong>ape</strong> package documentation for more information on these S3
+classes). Character sequences are supported; however ambiguity codes may
+not be recognized or treated appropriately, since raw ambiguities are
+counted according to their underlying residue frequencies (e.g. the
+5-mer &ldquo;ACRGT&rdquo; would contribute 0.5 to the tally for &ldquo;ACAGT&rdquo; and 0.5 to
+that of &ldquo;ACGGT&rdquo;). This excludes the ambiguity code &ldquo;N&rdquo;, which is
+ignored.</p>
+
+<h4 id="example-1-compute-k-mer-distance-matrices-for-the-woodmouse-dataset">Example 1: Compute k-mer distance matrices for the woodmouse dataset</h4>
+
+<p>The <strong>ape</strong> R package (Paradis <em>et al.</em>, 2004) contains a dataset of 15
+aligned mitochondrial cytochrome <em>b</em> gene DNA sequences from the
+woodmouse <em>Apodemus sylvaticus</em>, originally published in Michaux et al.
+(2003). While the <strong>kmer</strong> distance functions do not require sequences
+to be aligned, this example will enable us to compare the performance of
+the <em>k</em>-mer distances with the alignment-dependent distances produced by
+<code>ape::dist.dna</code>. First, load the dataset and view the first few rows and
+columns as follows:</p>
+
+<pre><code>data(woodmouse, package = &quot;ape&quot;)
+ape::as.character.DNAbin(woodmouse[1:5, 1:5])
+#&gt;         [,1] [,2] [,3] [,4] [,5]
+#&gt; No305   &quot;n&quot;  &quot;t&quot;  &quot;t&quot;  &quot;c&quot;  &quot;g&quot; 
+#&gt; No304   &quot;a&quot;  &quot;t&quot;  &quot;t&quot;  &quot;c&quot;  &quot;g&quot; 
+#&gt; No306   &quot;a&quot;  &quot;t&quot;  &quot;t&quot;  &quot;c&quot;  &quot;g&quot; 
+#&gt; No0906S &quot;a&quot;  &quot;t&quot;  &quot;t&quot;  &quot;c&quot;  &quot;g&quot; 
+#&gt; No0908S &quot;a&quot;  &quot;t&quot;  &quot;t&quot;  &quot;c&quot;  &quot;g&quot;
+</code></pre>
+
+<p>This is a semi-global (&lsquo;glocal&rsquo;) alignment featuring some incomplete
+sequences, with unknown characters represented by the ambiguity code &ldquo;n&rdquo;
+(e.g. No305). To avoid artificially inflating the distances between
+these partial sequences and the others, we first trim the gappy ends by
+subsetting the global alignment (note that the <strong>ape</strong> function
+<code>dist.dna</code> also removes columns with ambiguity codes prior to distance
+computation by default).</p>
+
+<pre><code>woodmouse &lt;- woodmouse[, apply(woodmouse, 2, function(v) !any(v == 0xf0))]
+</code></pre>
+
+<p>The following code first computes the full *n* × <em>n</em> distance matrix,
+and then the embedded distances of each sequence to three randomly
+selected seed sequences. In both cases the <em>k</em>-mer size is set to 6.</p>
+
+<pre><code>### Compute the full distance matrix and print the first few rows and columns
+library(kmer)
+woodmouse.kdist &lt;- kdistance(woodmouse, k = 6)
+print(as.matrix(woodmouse.kdist)[1:7, 1:7], digits = 2)
+#&gt;         No305  No304  No306 No0906S No0908S No0909S No0910S
+#&gt; No305   0.000 0.0322 0.0295   0.033   0.036   0.037   0.037
+#&gt; No304   0.032 0.0000 0.0051   0.020   0.022   0.032   0.023
+#&gt; No306   0.030 0.0051 0.0000   0.016   0.017   0.026   0.018
+#&gt; No0906S 0.033 0.0202 0.0162   0.000   0.024   0.033   0.014
+#&gt; No0908S 0.036 0.0224 0.0171   0.024   0.000   0.033   0.025
+#&gt; No0909S 0.037 0.0322 0.0264   0.033   0.033   0.000   0.034
+#&gt; No0910S 0.037 0.0233 0.0176   0.014   0.025   0.034   0.000
+
+### Compute and print the embedded distance matrix
+set.seed(999)
+seeds &lt;- sample(1:15, size = 3)
+woodmouse.mbed &lt;- mbed(woodmouse, seeds = seeds, k = 6)
+print(woodmouse.mbed[,], digits = 2)
+#&gt;         No0909S No0913S  No304
+#&gt; No305    0.0368  0.0391 0.0322
+#&gt; No304    0.0322  0.0102 0.0000
+#&gt; No306    0.0264  0.0098 0.0051
+#&gt; No0906S  0.0332  0.0215 0.0202
+#&gt; No0908S  0.0332  0.0273 0.0224
+#&gt; No0909S  0.0000  0.0368 0.0322
+#&gt; No0910S  0.0341  0.0176 0.0233
+#&gt; No0912S  0.0242  0.0322 0.0273
+#&gt; No0913S  0.0368  0.0000 0.0102
+#&gt; No1103S  0.0171  0.0251 0.0202
+#&gt; No1007S  0.0046  0.0368 0.0322
+#&gt; No1114S  0.0451  0.0428 0.0373
+#&gt; No1202S  0.0345  0.0176 0.0233
+#&gt; No1206S  0.0304  0.0251 0.0202
+#&gt; No1208S  0.0046  0.0409 0.0359
+</code></pre>
+
+<h4 id="example-2-alignment-free-tree-building">Example 2: Alignment-free tree-building</h4>
+
+<p>In this example the alignment-free <em>k</em>-mer distances calculated in
+Example 1 are compared with the Kimura (1980) distance metric as
+featured in the <strong>ape</strong> package examples. The resulting neighbor-joining
+trees are visualized using the <code>tanglegram</code> function from the
+<strong>dendextend</strong> package.</p>
+
+<pre><code>## compute pairwise distance matrices
+dist1 &lt;- ape::dist.dna(woodmouse, model = &quot;K80&quot;) 
+dist2 &lt;- kdistance(woodmouse, k = 7) 
+
+## build neighbor-joining trees
+phy1 &lt;- ape::nj(dist1)
+phy2 &lt;- ape::nj(dist2)
+
+## rearrange trees in ladderized fashion
+phy1 &lt;- ape::ladderize(phy1)
+phy2 &lt;- ape::ladderize(phy2)
+
+## convert phylo objects to dendrograms
+dnd1 &lt;- as.dendrogram(phy1)
+dnd2 &lt;- as.dendrogram(phy2)
+
+## plot the tanglegram
+dndlist &lt;- dendextend::dendlist(dnd1, dnd2)
+dendextend::tanglegram(dndlist, fast = TRUE, margin_inner = 5)
+</code></pre>
+
+<p><img src="/img/kmer-vignette_files/figure-markdown_strict/unnamed-chunk-5-1.png" width="700px" style="display: block; margin: auto auto auto 0;" /></p>
+
+<p><strong>Figure 1:</strong> Tanglegram comparing distance measures for the woodmouse
+sequences. Neighbor-joining trees derived from the alignment-dependent
+(left) and alignment-free (right) distances show relatively congruent
+fine-scale topologies, with the exception of the single sequence
+No0908S.</p>
+
+<h2 id="clustering-without-a-distance-matrix">Clustering without a distance matrix</h2>
+
+<p>To avoid excessive time and memory use when building large trees (e.g.
+<em>n</em> &gt; 10,000), the <strong>kmer</strong> package features the function <code>cluster</code>
+for fast divisive clustering, free of both alignment and distance matrix
+computation. This function first generates a matrix of <em>k</em>-mer counts,
+and then recursively partitions the matrix row-wise using successive
+k-means clustering (<em>k</em> = 2). While this method may not necessarily
+reconstruct sufficiently accurate phylogenetic trees for taxonomic
+purposes, it offers a fast and efficient means of producing large trees
+for a variety of other applications such as tree-based sequence
+weighting (e.g. Gerstein et al. (1994)), guide trees for progressive
+multiple sequence alignment (e.g. Sievers et al. (2011)), and other
+recursive operations such as classification and regression tree (CART)
+learning.</p>
+
+<p>The package also features the function <code>otu</code> for rapid clustering of
+sequences into operational taxonomic units based on a genetic distance
+(k-mer distance) threshold. This function performs a similar operation
+to <code>cluster</code> in that it recursively partitions a k-mer count matrix to
+assign sequences to groups. However, the top-down splitting only
+continues while the highest k-mer distance within each cluster is above
+a defined threshold value. Rather than returning a dendrogram, <code>otu</code>
+returns a named integer vector of cluster membership, with asterisks
+indicating the representative sequences within each cluster.</p>
+
+<h4 id="example-3-otu-clustering-with-k-mers">Example 3: OTU clustering with <em>k</em>-mers</h4>
+
+<p>In this final example, the woodmouse dataset is clustered into
+operational taxonomic units (OTUs) with a maximum within-cluster <em>k</em>-mer
+distance of 0.03 and with 20 random starts per k-means split
+(recommended for improved accuracy).</p>
+
+<pre><code>set.seed(999)
+woodmouse.OTUs &lt;- otu(woodmouse, k = 5, threshold = 0.97, method = &quot;farthest&quot;, nstart = 20)
+woodmouse.OTUs
+#&gt;   No305*    No304   No306*  No0906S  No0908S No0909S*  No0910S  No0912S 
+#&gt;        3        1        1        1        1        2        1        2 
+#&gt;  No0913S  No1103S  No1007S  No1114S  No1202S  No1206S  No1208S 
+#&gt;        1        2        2        3        1        1        2
+</code></pre>
+
+<p>The function outputs a named integer vector of OTU membership, with
+asterisks indicating the representative sequence from each cluster (i.e.
+the most &ldquo;central&rdquo; sequence). In this case, three distinct OTUs were
+found, with No305 and N01114S forming one cluster (3), No0909S, No0912S,
+No1103S, No1007S and No1208S forming another (2) and the remainder
+belonging to cluster 1 in concordance with the consensus topology of
+Figure 1.</p>
+
+<h2 id="concluding-remarks">Concluding remarks</h2>
+
+<p>The <strong>kmer</strong> package is released under the GPL-3 license. Please direct
+bug reports to the GitHub issues page at
+<a href="http://github.com/shaunpwilkinson/kmer/issues" target="_blank">http://github.com/shaunpwilkinson/kmer/issues</a>. Any feedback is greatly
+appreciated.</p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<p>This software was developed with funding from a Rutherford Foundation
+Postdoctoral Research Fellowship from the Royal Society of New Zealand.</p>
+
+<h2 id="references">References</h2>
+
+<p>Blackshields,G. <em>et al.</em> (2010) Sequence embedding for fast construction
+of guide trees for multiple sequence alignment. <em>Algorithms for
+Molecular Biology</em>, <strong>5</strong>, 21.</p>
+
+<p>Edgar,R.C. (2004) Local homology recognition and distance measures in
+linear time using compressed amino acid alphabets. <em>Nucleic Acids
+Research</em>, <strong>32</strong>, 380–385.</p>
+
+<p>Gerstein,M. <em>et al.</em> (1994) Volume changes in protein evolution.
+<em>Journal of Molecular Biology</em>, <strong>236</strong>, 1067–1078.</p>
+
+<p>Kimura,M. (1980) A simple method for estimating evolutionary rates of
+base substitutions through comparative studies of nucleotide sequences.
+<em>Journal of Molecular Evolution</em>, <strong>16</strong>, 111–120.</p>
+
+<p>Michaux,J.R. <em>et al.</em> (2003) Mitochondrial phylogeography of the
+woodmouse (Apodemus sylvaticus) in the Western Palearctic region.
+<em>Molecular Ecology</em>, <strong>12</strong>, 685–697.</p>
+
+<p>Paradis,E. <em>et al.</em> (2004) APE: analyses of phylogenetics and evolution
+in R language. <em>Bioinformatics</em>, <strong>20</strong>, 289–290.</p>
+
+<p>Sievers,F. <em>et al.</em> (2011) Fast, scalable generation of high-quality
+protein multiple sequence alignments using Clustal Omega. <em>Molecular
+Systems Biology</em>, <strong>7</strong>, 539.</p>
+
+    </div>
+  </div>
+
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="/post/phylogram_blog/"><span
+      aria-hidden="true">&larr;</span> phylogram: dendrograms for evolutionary analysis</a></li>
+    
+
+    
+    <li class="next"><a href="/post/aphid-vignette/">The &#39;aphid&#39; package for analysis with profile hidden Markov models <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<div class="article-container">
+  
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2019 Shaun Wilkinson &middot; 
+
+      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
+      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" integrity="sha512-jGsMH83oKe9asCpkOVkBnUrDDTp8wl+adkB2D+//JtlxO4SrLoJdhbOysIFQJloQFD+C4Fl1rMsQZF76JjV0eQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.2/imagesloaded.pkgd.min.js" integrity="sha512-iHzEu7GbSc705hE2skyH6/AlTpOfBmkx7nUqTLGzPYR+C1tRaItbRlJ7hT/D3YQ9SV0fqLKzp4XY9wKulTBGTw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js" integrity="sha512-Z5heTz36xTemt1TbtbfXtTq5lMfYnOkXM2/eWcTTiLU01+Sw4ku1i7vScDc8fWhrP2abz9GQzgKH5NGBLoYlAw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/plugins/ScrollToPlugin.min.js" integrity="sha512-CDeU7pRtkPX6XJtF/gcFWlEwyaX7mcAp5sO3VIu/ylsdR74wEw4wmBpD5yYTrmMAiAboi9thyBUr1vXRPA7t0Q==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    
+    
+
+  </body>
+</html>
+

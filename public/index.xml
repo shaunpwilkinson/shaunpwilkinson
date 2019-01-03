@@ -6,912 +6,1994 @@
     <description>Recent content in Shaun Wilkinson on Shaun Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Shaun Wilkinson</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Elevated Symbiodiniaceae richness at Atauro Island (Timor-Leste): a highly biodiverse reef system.</title>
+      <link>/publication/core2019/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
+      <guid>/publication/core2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Getting started with the Academic framework for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <title>The &#39;insect&#39; R package and metabarcoding pipeline</title>
+      <link>/post/insect-vignette/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>/post/insect-vignette/</guid>
       <description>
-
-&lt;p&gt;The Academic framework enables you to easily create a beautifully simple personal or academic website using the &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage your homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact&lt;/li&gt;
-&lt;li&gt;Need a different section? Just use the Custom widget!&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/#installing-hugo&#34; target=&#34;_blank&#34;&gt;Install Hugo&lt;/a&gt; and create a new website by typing the following commands in your &lt;em&gt;Terminal&lt;/em&gt; or &lt;em&gt;Command Prompt&lt;/em&gt; app:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new site my_website
-cd my_website
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Install Academic with &lt;a href=&#34;https://help.github.com/articles/set-up-git/&#34; target=&#34;_blank&#34;&gt;git&lt;/a&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/gcushen/hugo-academic.git themes/academic
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Or alternatively, &lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;download Academic&lt;/a&gt; and extract it into a &lt;code&gt;themes/academic&lt;/code&gt; folder within your Hugo website.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;If you are creating a new website, copy the contents of the &lt;code&gt;exampleSite&lt;/code&gt; folder to your website root folder, overwriting existing files if necessary. The &lt;code&gt;exampleSite&lt;/code&gt; folder contains an example config file and content to help you get started.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cp -av themes/academic/exampleSite/* .
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Start the Hugo server from your website root folder:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server --watch
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now you can go to &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website should appear.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Customize your website - refer to the &lt;em&gt;Getting Started&lt;/em&gt; section below&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt;. Or alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as your university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
-
-&lt;p&gt;Assuming you created a new website with the example content following the installation steps above, this section explores just a few more steps in order to customize it.&lt;/p&gt;
-
-&lt;h3 id=&#34;core-parameters&#34;&gt;Core parameters&lt;/h3&gt;
-
-&lt;p&gt;The core parameters for the website can be edited in the &lt;code&gt;config.toml&lt;/code&gt; configuration file:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Set &lt;code&gt;baseurl&lt;/code&gt; to your website URL (we recommend &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; for free hosting)&lt;/li&gt;
-&lt;li&gt;Set &lt;code&gt;title&lt;/code&gt; to your desired website title such as your name&lt;/li&gt;
-&lt;li&gt;The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; shortname to enable commenting&lt;/li&gt;
-&lt;li&gt;Edit your details under &lt;code&gt;[params]&lt;/code&gt;; these will be displayed mainly in the homepage &lt;em&gt;about&lt;/em&gt; and &lt;em&gt;contact&lt;/em&gt; widgets (if used). To disable a contact field, simply clear the value to &lt;code&gt;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Place a square cropped portrait photo named &lt;code&gt;portrait.jpg&lt;/code&gt; into the &lt;code&gt;static/img/&lt;/code&gt; folder, overwriting any defaults. Alternatively, you can edit the &lt;code&gt;avatar&lt;/code&gt; filepath to point to a different image name or clear the value to disable the avatar feature.&lt;/li&gt;
-&lt;li&gt;To enable LaTeX math for your site, set &lt;code&gt;math = true&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Social/academic networking links are defined as multiples of &lt;code&gt;[[params.social]]&lt;/code&gt;. They can be created or deleted as necessary.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;introduce-yourself&#34;&gt;Introduce yourself&lt;/h3&gt;
-
-&lt;p&gt;Edit your biography in the &lt;em&gt;about&lt;/em&gt; widget &lt;code&gt;content/home/about.md&lt;/code&gt; that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables. The academic qualifications are defined as multiples of &lt;code&gt;[[education.courses]]&lt;/code&gt; and can be created or deleted as necessary. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
-
-&lt;h3 id=&#34;customize-the-homepage&#34;&gt;Customize the homepage&lt;/h3&gt;
-
-&lt;p&gt;Refer to our guide on using &lt;a href=&#34;/post/widgets/&#34; target=&#34;_blank&#34;&gt;widgets&lt;/a&gt; to customize your homepage.&lt;/p&gt;
-
-&lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-
-&lt;p&gt;Refer to our guide on &lt;a href=&#34;/post/managing-content/&#34; target=&#34;_blank&#34;&gt;managing content&lt;/a&gt; to create your own publications, blog posts, talks, and projects.&lt;/p&gt;
-
-&lt;h3 id=&#34;remove-unused-widgets-and-pages&#34;&gt;Remove unused widgets and pages&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;/post/managing-content/#removing-content&#34; target=&#34;_blank&#34;&gt;How to remove unused widgets and content pages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;customization-upgrading&#34;&gt;Customization &amp;amp; Upgrading&lt;/h3&gt;
-
-&lt;p&gt;Continue reading below for advanced customization tips and instructions for keeping the framework up-to-date with any improvements that become available.&lt;/p&gt;
-
-&lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
-
-&lt;p&gt;It is possible to carry out many customizations without touching any files in &lt;code&gt;themes/academic&lt;/code&gt;, making it easier to upgrade the framework in the future.&lt;/p&gt;
-
-&lt;h3 id=&#34;navigation-menu&#34;&gt;Navigation menu&lt;/h3&gt;
-
-&lt;p&gt;The &lt;code&gt;[[menu.main]]&lt;/code&gt; entries towards the bottom of &lt;code&gt;config.toml&lt;/code&gt; define the navigation links at the top of the website. They can be added or removed as desired.&lt;/p&gt;
-
-&lt;p&gt;To create a dropdown sub-menu, add &lt;code&gt;identifier = &amp;quot;something&amp;quot;&lt;/code&gt; to the parent item and &lt;code&gt;parent = &amp;quot;something&amp;quot;&lt;/code&gt; to the child item.&lt;/p&gt;
-
-&lt;h3 id=&#34;website-icon&#34;&gt;Website icon&lt;/h3&gt;
-
-&lt;p&gt;Save your main icon and mobile icon as square PNG images named &lt;code&gt;icon.png&lt;/code&gt; and &lt;code&gt;apple-touch-icon.png&lt;/code&gt;, respectively. Place them in your root &lt;code&gt;static/img/&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;h3 id=&#34;theme-color-css&#34;&gt;Theme color (CSS)&lt;/h3&gt;
-
-&lt;p&gt;You can link custom CSS assets (relative to your root &lt;code&gt;static/css&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_css = [&amp;quot;custom.css&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;For example, lets make a green theme. First, define &lt;code&gt;custom_css = [&amp;quot;green.css&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. Then we can download the example &lt;a href=&#34;https://gist.github.com/gcushen/d5525a4506b9ccf83f2bce592a895495&#34; target=&#34;_blank&#34;&gt;green theme&lt;/a&gt; and save it as &lt;code&gt;static/css/green.css&lt;/code&gt;, relative to your website root (i.e. &lt;strong&gt;not&lt;/strong&gt; in the &lt;code&gt;themes&lt;/code&gt; directory).&lt;/p&gt;
-
-&lt;h3 id=&#34;analytics&#34;&gt;Analytics&lt;/h3&gt;
-
-&lt;p&gt;To enable &lt;a href=&#34;http://www.google.com/analytics&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, add your tracking code in &lt;code&gt;config.toml&lt;/code&gt; similarly to &lt;code&gt;googleAnalytics = &amp;quot;UA-12345678-9&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;third-party-and-local-scripts-js&#34;&gt;Third party and local scripts (JS)&lt;/h3&gt;
-
-&lt;p&gt;To add a third party script, create a file named &lt;code&gt;head_custom.html&lt;/code&gt; in a &lt;code&gt;layouts/partials/&lt;/code&gt; folder at the root of your website (not in the &lt;code&gt;themes&lt;/code&gt; folder). Any HTML code added to this file will be included within your website&amp;rsquo;s &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;. Therefore, it&amp;rsquo;s suitable for adding custom metadata or third party scripts specified with the &lt;em&gt;async&lt;/em&gt; attribute.&lt;/p&gt;
-
-&lt;p&gt;Whereas for your own local scripts, you can link your local JS assets (relative to your root &lt;code&gt;static/js&lt;/code&gt;) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_js  = [&amp;quot;custom.js&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;language-and-translation&#34;&gt;Language and translation&lt;/h3&gt;
-
-&lt;p&gt;The interface text (e.g. buttons) is stored in language files which are collected from Academic&amp;rsquo;s &lt;code&gt;themes/academic/i18n/&lt;/code&gt; folder, as well as an &lt;code&gt;i18n/&lt;/code&gt; folder at the root of your project.&lt;/p&gt;
-
-&lt;p&gt;To edit the interface text, copy &lt;code&gt;themes/academic/i18n/en.yaml&lt;/code&gt; to &lt;code&gt;i18n/en.yaml&lt;/code&gt; (relative to the root of your website). Open the new file and make any desired changes to the text appearing after &lt;code&gt;translation:&lt;/code&gt;. Note that the language files are formatted in YAML syntax.&lt;/p&gt;
-
-&lt;p&gt;To translate the interface text to another language, follow the above instructions, but name the new file in the form &lt;code&gt;i18n/X.yaml&lt;/code&gt; where &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then follow the brief instructions in the &lt;em&gt;Language&lt;/em&gt; section at the bottom of your &lt;code&gt;config.toml&lt;/code&gt;. To change the default language used by Academic, set &lt;code&gt;defaultContentLanguage&lt;/code&gt; to the desired language identifier in your configuration file.&lt;/p&gt;
-
-&lt;p&gt;To translate the navigation bar, you can edit the default &lt;code&gt;[[menu.main]]&lt;/code&gt; instances in &lt;code&gt;config.toml&lt;/code&gt;. However, for a multilingual site, you will need to duplicate all of the &lt;code&gt;[[menu.main]]&lt;/code&gt; instances and rename the new instances from &lt;code&gt;[[menu.main]]&lt;/code&gt; to &lt;code&gt;[[languages.X.menu.main]]&lt;/code&gt;, where &lt;code&gt;X&lt;/code&gt; is the language identifier (e.g. &lt;code&gt;[[languages.zh.menu.main]]&lt;/code&gt; for Simplified Chinese). Thus, the navigation bar can be displayed in multiple languages.&lt;/p&gt;
-
-&lt;p&gt;To translate a content file in your &lt;code&gt;content/&lt;/code&gt; folder into another language, copy the file to &lt;code&gt;filename.X.md&lt;/code&gt; where &lt;code&gt;filename&lt;/code&gt; is your existing filename and &lt;code&gt;X&lt;/code&gt; is the appropriate &lt;a href=&#34;http://www.w3schools.com/tags/ref_language_codes.asp&#34; target=&#34;_blank&#34;&gt;ISO/RFC5646 language identifier&lt;/a&gt; for the translation. Then translate the content in the new file to the specified language.&lt;/p&gt;
-
-&lt;p&gt;For further details on Hugo&amp;rsquo;s internationalization and multilingual features, refer to the &lt;a href=&#34;https://gohugo.io/content/multilingual/&#34; target=&#34;_blank&#34;&gt;associated Hugo documentation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;permalinks&#34;&gt;Permalinks&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Permalinks&lt;/em&gt;, or &lt;em&gt;permanent links&lt;/em&gt;, are URLs to individual pages and posts on your website. They are permanent web addresses which can be used to link to your content. Using Hugo&amp;rsquo;s &lt;em&gt;permalinks&lt;/em&gt; option these can be easily customized. For example, the blog post URL can be changed to the form &lt;em&gt;yourURL/2016/05/01/my-post-slug&lt;/em&gt; by adding the following near the top of your &lt;code&gt;config.toml&lt;/code&gt; (before &lt;code&gt;[params]&lt;/code&gt; settings):&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[permalinks]
-    post = &amp;quot;/:year/:month/:day/:slug&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Where &lt;code&gt;:slug&lt;/code&gt; defaults to the filename of the post, excluding the file extension. However, slug may be overridden on a per post basis if desired, simply by setting &lt;code&gt;slug = &amp;quot;my-short-post-title&amp;quot;&lt;/code&gt; in your post preamble.&lt;/p&gt;
-
-&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; and monitor the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/commits/master&#34; target=&#34;_blank&#34;&gt;commits&lt;/a&gt; for updates.&lt;/p&gt;
-
-&lt;p&gt;Before upgrading the framework, it is recommended to make a backup of your entire website directory, or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory. You can also read about the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/releases&#34; target=&#34;_blank&#34;&gt;most recent milestones&lt;/a&gt; (but this doesn&amp;rsquo;t necessarily reflect the latest &lt;em&gt;master&lt;/em&gt; release).&lt;/p&gt;
-
-&lt;p&gt;Before upgrading for the first time, the remote &lt;em&gt;origin&lt;/em&gt; repository should be renamed to &lt;em&gt;upstream&lt;/em&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ cd themes/academic
-$ git remote rename origin upstream
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;To list available updates:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ cd themes/academic
-$ git fetch upstream
-$ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then, upgrade by running:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ git pull upstream
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If you have modified files in &lt;code&gt;themes/academic&lt;/code&gt;, git will attempt to auto-merge changes. If conflicts are reported, you will need to manually edit the files with conflicts and add them back (&lt;code&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;).&lt;/p&gt;
-
-&lt;p&gt;If there are any issues after upgrading, you may wish to compare your site with the latest &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;example site&lt;/a&gt; to check if any settings changed.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For general questions about Hugo, there is a &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016 &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Customizing the homepage with widgets</title>
-      <link>/post/widgets/</link>
-      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      
-      <guid>/post/widgets/</guid>
-      <description>
-
-&lt;p&gt;Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;About/biography&lt;/li&gt;
-&lt;li&gt;Selected publications&lt;/li&gt;
-&lt;li&gt;Recent publications&lt;/li&gt;
-&lt;li&gt;Recent news/blog posts&lt;/li&gt;
-&lt;li&gt;Projects&lt;/li&gt;
-&lt;li&gt;Selected talks&lt;/li&gt;
-&lt;li&gt;Recent talks&lt;/li&gt;
-&lt;li&gt;Contact&lt;/li&gt;
-&lt;li&gt;Custom widget (demonstrated with the &lt;em&gt;teaching&lt;/em&gt; example)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.&lt;/p&gt;
-
-&lt;p&gt;The parameters for each widget vary. They can be found in the preamble/frontmatter (between the pair of &lt;code&gt;+++&lt;/code&gt;) for each widget installed in the &lt;code&gt;content/home/&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting &lt;code&gt;detailed_list = true&lt;/code&gt; in &lt;code&gt;content/home/publications.md&lt;/code&gt;.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;add-a-widget-to-the-homepage&#34;&gt;Add a widget to the homepage&lt;/h2&gt;
-
-&lt;p&gt;To add a widget manually, copy the relevant widget from &lt;code&gt;themes/academic/exampleSite/content/home/&lt;/code&gt; to your &lt;code&gt;content/home/&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;p&gt;Widget identifiers are set to their respective filenames, so a &lt;code&gt;content/home/about.md&lt;/code&gt; widget can be linked from the navigation bar by setting the relevant URL as &lt;code&gt;&amp;quot;#about&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;This means that if you want to use multiple instances of a widget, each widget will be assigned a unique ID based on the filename that you set. You can then use that ID for linking, like in the above example.&lt;/p&gt;
-
-&lt;h2 id=&#34;using-the-custom-widget&#34;&gt;Using the custom widget&lt;/h2&gt;
-
-&lt;p&gt;You can use the custom widget to create your own home page sections.&lt;/p&gt;
-
-&lt;p&gt;Simply duplicate (copy/paste) and rename the example &lt;em&gt;teaching&lt;/em&gt; file at &lt;code&gt;content/home/teaching.md&lt;/code&gt;. Then edit the section title, weight (refer to &lt;em&gt;Ordering sections&lt;/em&gt; below), and content as desired.&lt;/p&gt;
-
-&lt;p&gt;You may also wish to add a navigation link to the top of the page that points to the new section. This can be achieved by adding something similar to the following lines to your &lt;code&gt;config.toml&lt;/code&gt;, where the URL will consist of the first title word in lowercase:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[[menu.main]]
-    name = &amp;quot;Research&amp;quot;
-    url = &amp;quot;#research&amp;quot;
-    weight = 10
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;remove-a-widget-from-the-homepage&#34;&gt;Remove a widget from the homepage&lt;/h2&gt;
-
-&lt;p&gt;If you do not require a particular widget, you can simply delete any associated files from the &lt;code&gt;content/home/&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;p&gt;To remove a navigation link from the top of the page, remove the associated &lt;code&gt;[[menu.main]]&lt;/code&gt; entry in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;ordering-widgets&#34;&gt;Ordering widgets&lt;/h2&gt;
-
-&lt;p&gt;The order that the homepage widgets are displayed in is defined by the &lt;code&gt;weight&lt;/code&gt; parameter in each of the files in the &lt;code&gt;content/home/&lt;/code&gt; directory. The widgets are displayed in ascending order of their &lt;code&gt;weight&lt;/code&gt;, so you can simply edit the &lt;code&gt;weight&lt;/code&gt; parameters as desired.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Managing content</title>
-      <link>/post/managing-content/</link>
-      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      
-      <guid>/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;To disable source code highlighting by default for all pages, set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. You can then enable source code highlighting only on pages that need it by setting &lt;code&gt;highlight = true&lt;/code&gt; in that page&amp;rsquo;s preamble. See the &lt;a href=&#34;/post/writing-markdown-latex/#code-highlighting&#34; target=&#34;_blank&#34;&gt;code-highlighting docs&lt;/a&gt; for more details.&lt;/p&gt;
-
-&lt;p&gt;To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble. It is assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder, so the full path in the example below will be &lt;code&gt;static/img/headers/getting-started.png&lt;/code&gt;. The &lt;code&gt;caption&lt;/code&gt; parameter can be used to write an image caption or credit.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[header]
-image = &amp;quot;headers/getting-started.png&amp;quot;
-caption = &amp;quot;Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)&amp;quot;
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;If you wish to prevent a featured image automatically being used for a post&amp;rsquo;s thumbnail on the homepage, the &lt;code&gt;preview = false&lt;/code&gt; parameter can be added to &lt;code&gt;[header]&lt;/code&gt;.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;create-a-publication&#34;&gt;Create a publication&lt;/h2&gt;
-
-&lt;p&gt;To create a new publication:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new publication/my-paper-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the default variables at the top of &lt;code&gt;content/publication/my-paper-name.md&lt;/code&gt; to include the details of your publication. The &lt;code&gt;url_&lt;/code&gt; variables are used to generate links associated with your publication, such as for viewing PDFs of papers. Here is an example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;+++
-abstract = &amp;quot;An abstract...&amp;quot;
-authors = [&amp;quot;First author&#39;s name&amp;quot;, &amp;quot;Second author&#39;s name&amp;quot;]
-date = &amp;quot;2013-07-01&amp;quot;
-image = &amp;quot;&amp;quot;
-image_preview = &amp;quot;&amp;quot;
-math = false
-publication = &amp;quot;The publishing part of the citation goes here. You may use *Markdown* for italics etc.&amp;quot;
-title = &amp;quot;A publication title, such as title of a paper&amp;quot;
-url_code = &amp;quot;&amp;quot;
-url_dataset = &amp;quot;&amp;quot;
-url_pdf = &amp;quot;pdf/my-paper-name.pdf&amp;quot;
-url_project = &amp;quot;&amp;quot;
-url_slides = &amp;quot;&amp;quot;
-url_video = &amp;quot;&amp;quot;
-+++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The &lt;code&gt;url_&lt;/code&gt; links can either point to local or web content. Associated local publication content, such as PDFs, may be copied to a &lt;code&gt;static/pdf/&lt;/code&gt; folder and referenced like &lt;code&gt;url_pdf = &amp;quot;pdf/my-paper-name.pdf&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can also associate custom link buttons with the publication by adding the following block(s) within the variable preamble above, which is denoted by &lt;code&gt;+++&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[[url_custom]]
-    name = &amp;quot;Custom Link&amp;quot;
-    url = &amp;quot;http://www.example.org&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If you enabled &lt;code&gt;detailed_list&lt;/code&gt; for publications in &lt;code&gt;config.toml&lt;/code&gt;, then there are a few more optional variables that you can include in the publication page preamble. You may use &lt;code&gt;abstract_short = &amp;quot;friendly summary of abstract&amp;quot;&lt;/code&gt; and &lt;code&gt;publication_short = &amp;quot;abbreviated publication details&amp;quot;&lt;/code&gt; to display a friendly summary of the abstract and abbreviate the publication details, respectively. Furthermore, there is the option to display a different image on the homepage to the publication detail page by setting &lt;code&gt;image_preview = &amp;quot;my-image.jpg&amp;quot;&lt;/code&gt;. This can be useful if you wish to scale down the image for the homepage or simply if you just wish to show a different image for the preview.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;p&gt;Any double quotes (&lt;code&gt;&amp;quot;&lt;/code&gt;) or backslashes (e.g. LaTeX &lt;code&gt;\times&lt;/code&gt;) occurring within the value of any frontmatter parameter (such as the &lt;em&gt;abstract&lt;/em&gt;) should be escaped with a backslash (&lt;code&gt;\&lt;/code&gt;). For example, the symbol &lt;code&gt;&amp;quot;&lt;/code&gt; and LaTeX text &lt;code&gt;\times&lt;/code&gt; become &lt;code&gt;\&amp;quot;&lt;/code&gt; and &lt;code&gt;\\times&lt;/code&gt;, respectively. Refer to the &lt;a href=&#34;https://github.com/toml-lang/toml#user-content-string&#34; target=&#34;_blank&#34;&gt;TOML documentation&lt;/a&gt; for more info.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;post-an-article&#34;&gt;Post an article&lt;/h2&gt;
-
-&lt;p&gt;To create a blog/news article:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new post/my-article-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the newly created file &lt;code&gt;content/post/my-article-name.md&lt;/code&gt; with your full title and content.&lt;/p&gt;
-
-&lt;p&gt;Hugo will automatically generate summaries of posts that appear on the homepage. If you are dissatisfied with an automated summary, you can either limit the summary length by appropriately placing &lt;code&gt;&amp;#60;&amp;#33;&amp;#45;&amp;#45;more&amp;#45;&amp;#45;&amp;#62;&lt;/code&gt; in the article body, or completely override the automated summary by adding a &lt;code&gt;summary&lt;/code&gt; parameter to the &lt;code&gt;+++&lt;/code&gt; preamble such that:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;summary = &amp;quot;Summary of my post.&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;To disable commenting for a specific post, you can add &lt;code&gt;disable_comments = true&lt;/code&gt; to the post &lt;code&gt;+++&lt;/code&gt; preamble. Or to disable commenting for all posts, you can either set &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt; or &lt;code&gt;disable_comments = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-project&#34;&gt;Create a project&lt;/h2&gt;
-
-&lt;p&gt;To create a project:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new project/my-project-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the newly created file &lt;code&gt;content/project/my-project-name.md&lt;/code&gt;. Either you can link the project to an external project website by setting the &lt;code&gt;external_link = &amp;quot;http://external-project.com&amp;quot;&lt;/code&gt; variable at the top of the file, or you can add content (below the final &lt;code&gt;+++&lt;/code&gt;) in order to render a project page on your website.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-talk&#34;&gt;Create a talk&lt;/h2&gt;
-
-&lt;p&gt;To create a talk:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new talk/my-talk-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the newly created file &lt;code&gt;content/talk/my-talk-name.md&lt;/code&gt; with your full talk title and details. Note that many of the talk parameters are similar to the publication parameters.&lt;/p&gt;
-
-&lt;h2 id=&#34;manage-node-index-pages&#34;&gt;Manage node index pages&lt;/h2&gt;
-
-&lt;p&gt;The node index pages (e.g. &lt;code&gt;/post/&lt;/code&gt;) are the special pages which list all of your content. They can exist for blog posts, publications, and talks. The homepage widgets will automatically link to the node index pages when you have more items of content than can be displayed in the widget. Therefore, if you don&amp;rsquo;t have much content, you may not see the automatic links yet - but you can also manually link to them using a normal Markdown formatted link in your content.&lt;/p&gt;
-
-&lt;p&gt;You can edit the title and add your own content, such as an introduction, by creating and editing the following content files for the node indexes:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new post/_index.md
-hugo new publication/_index.md
-hugo new talk/_index.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then remove all parameters except for &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;math&lt;/code&gt;, &lt;code&gt;highlight&lt;/code&gt;, and &lt;code&gt;date&lt;/code&gt;. Edit the &lt;code&gt;title&lt;/code&gt; parameter as desired and add any content after the &lt;code&gt;+++&lt;/code&gt; preamble/frontmatter ends. For example, you should have something similar to:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;+++
-title = &amp;quot;List of my posts&amp;quot;
-date = &amp;quot;2017-01-01T00:00:00Z&amp;quot;
-math = false
-highlight = false
-+++
-
-Below is an automatically generated list of all my blog posts!
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;removing-content&#34;&gt;Removing content&lt;/h2&gt;
-
-&lt;p&gt;Generally, to remove content, simply delete the relevant file from your &lt;code&gt;content/post&lt;/code&gt;, &lt;code&gt;content/publication&lt;/code&gt;, &lt;code&gt;content/project&lt;/code&gt;, or &lt;code&gt;content/talk&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;h2 id=&#34;view-your-updated-site&#34;&gt;View your updated site&lt;/h2&gt;
-
-&lt;p&gt;After you have made changes to your site, you can view it by running the &lt;code&gt;hugo server --watch&lt;/code&gt; command and then opening &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; in your web browser.&lt;/p&gt;
-
-&lt;h2 id=&#34;deploy-your-site&#34;&gt;Deploy your site&lt;/h2&gt;
-
-&lt;p&gt;Finally, you can build the static website to a &lt;code&gt;public/&lt;/code&gt; folder ready for deployment using the &lt;code&gt;hugo&lt;/code&gt; command.&lt;/p&gt;
-
-&lt;p&gt;You may then deploy your site by copying the &lt;code&gt;public/&lt;/code&gt; directory (by FTP, SFTP, WebDAV, Rsync, git push, etc.) to your production web server.&lt;/p&gt;
-
-&lt;p&gt;Note that running &lt;code&gt;hugo&lt;/code&gt; does not remove any previously generated files before building. Therefore, it&amp;rsquo;s best practice to delete your &lt;code&gt;public/&lt;/code&gt; directory prior to running &lt;code&gt;hugo&lt;/code&gt; to ensure no old or interim files are deployed to your server.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>/post/writing-markdown-latex/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
-      
-      <guid>/post/writing-markdown-latex/</guid>
-      <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
-
-&lt;h2 id=&#34;sub-headings&#34;&gt;Sub-headings&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;Italics with *asterisks* or _underscores_.
-
-Bold with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough with ~~two tildes~~.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;ordered-lists&#34;&gt;Ordered lists&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;1. First item
-2. Another item
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;unordered-lists&#34;&gt;Unordered lists&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;* First item
-* Another item
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
-
-&lt;p&gt;Images may be added to a page by placing them in your &lt;code&gt;static/img/&lt;/code&gt; folder and referencing them using one of the following two notations:&lt;/p&gt;
-
-&lt;p&gt;A general image:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;![alternative text for search engines](/img/screenshot.png)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;A numbered figure with caption:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; figure src=&amp;quot;/img/screenshot.png&amp;quot; title=&amp;quot;Figure Caption&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;[I&#39;m a link](https://www.google.com)
-[A post]({{&amp;lt; ref &amp;quot;post/hi.md&amp;quot; &amp;gt;}})
-[A publication]({{&amp;lt; ref &amp;quot;publication/hi.md&amp;quot; &amp;gt;}})
-[A project]({{&amp;lt; ref &amp;quot;project/hi.md&amp;quot; &amp;gt;}})
-[Another section]({{&amp;lt; relref &amp;quot;hi.md#who&amp;quot; &amp;gt;}})
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;emojis&#34;&gt;Emojis&lt;/h2&gt;
-
-&lt;p&gt;See the &lt;a href=&#34;http://www.webpagefx.com/tools/emoji-cheat-sheet/&#34; target=&#34;_blank&#34;&gt;Emoji cheat sheet&lt;/a&gt; for available emoticons. The following serves as an example, but you should remove the spaces between each emoji name and pair of semicolons:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;I : heart : Academic : smile :
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;I ❤️ Academic 😄&lt;/p&gt;
-
-&lt;h2 id=&#34;blockquote&#34;&gt;Blockquote&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;gt; This is a blockquote.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This is a blockquote.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;I have more [^1] to say.
-
-[^1]: Footnote example.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;I have more &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to say.&lt;/p&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code highlighting&lt;/h2&gt;
-
-&lt;p&gt;Pass the &lt;em&gt;language&lt;/em&gt; of the code, such as &lt;code&gt;python&lt;/code&gt;, as a parameter after three backticks:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```python
-# Example of code highlighting
-input_string_var = input(&amp;quot;Enter some data: &amp;quot;)
-print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Result:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Example of code highlighting
-input_string_var = input(&amp;quot;Enter some data: &amp;quot;)
-print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;highlighting-options&#34;&gt;Highlighting options&lt;/h3&gt;
-
-&lt;p&gt;The Academic theme uses &lt;a href=&#34;https://highlightjs.org&#34; target=&#34;_blank&#34;&gt;highlight.js&lt;/a&gt; for source code highlighting, and highlighting is enabled by default for all pages. However, several configuration options are supported that allow finer-grained control over highlight.js.&lt;/p&gt;
-
-&lt;p&gt;The following table lists the supported options for configuring highlight.js, along with their expected type and a short description. A &amp;ldquo;yes&amp;rdquo; in the &lt;strong&gt;config.toml&lt;/strong&gt; column means the value can be set globally in &lt;code&gt;config.toml&lt;/code&gt;, and a &amp;ldquo;yes&amp;rdquo; in the &lt;strong&gt;preamble&lt;/strong&gt; column means that the value can be set locally in a particular page&amp;rsquo;s preamble.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;option&lt;/th&gt;
-&lt;th&gt;type&lt;/th&gt;
-&lt;th&gt;description&lt;/th&gt;
-&lt;th&gt;config.toml&lt;/th&gt;
-&lt;th&gt;preamble&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;highlight&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;boolean&lt;/td&gt;
-&lt;td&gt;enable/disable highlighting&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;highlight_languages&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;slice&lt;/td&gt;
-&lt;td&gt;choose additional languages&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;highlight_style&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;string&lt;/td&gt;
-&lt;td&gt;choose a highlighting style&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;td&gt;no&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;highlight_version&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;string&lt;/td&gt;
-&lt;td&gt;choose the highlight.js version&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;td&gt;no&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&#34;option-highlight&#34;&gt;Option &lt;code&gt;highlight&lt;/code&gt;&lt;/h4&gt;
-
-&lt;p&gt;The &lt;code&gt;highlight&lt;/code&gt; option allows enabling or disabling the inclusion of highlight.js, either globally or for a particular page. If the option is unset, it has the same effect as if you had specified &lt;code&gt;highlight = true&lt;/code&gt;. That is, the highlight.js javascript and css files will be included in every page. If you&amp;rsquo;d like to only include highlight.js files on pages that actually require source code highlighting, you can set &lt;code&gt;highlight = false&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;, and then override it by setting &lt;code&gt;highlight = true&lt;/code&gt; in the preamble of any pages that require source code highlighting. Conversely, you could enable highlighting globally, and disable it locally for pages that do not require it. Here is a table that shows whether highlighting will be enabled for a page, based on the values of &lt;code&gt;highlight&lt;/code&gt; set in &lt;code&gt;config.toml&lt;/code&gt; and/or the page&amp;rsquo;s preamble.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;config.toml&lt;/th&gt;
-&lt;th&gt;page preamble&lt;/th&gt;
-&lt;th&gt;highlighting enabled for page?&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;unset or true&lt;/td&gt;
-&lt;td&gt;unset or true&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;unset or true&lt;/td&gt;
-&lt;td&gt;false&lt;/td&gt;
-&lt;td&gt;no&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;false&lt;/td&gt;
-&lt;td&gt;unset or false&lt;/td&gt;
-&lt;td&gt;no&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;false&lt;/td&gt;
-&lt;td&gt;true&lt;/td&gt;
-&lt;td&gt;yes&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&#34;option-highlight-languages&#34;&gt;Option &lt;code&gt;highlight_languages&lt;/code&gt;&lt;/h4&gt;
-
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option allows you to specify additional languages that are supported by highlight.js, but are not considered &amp;ldquo;common&amp;rdquo; and therefore are not supported by default. For example, if you want source code highlighting for Go and clojure in all pages, set &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;, &amp;quot;clojure&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. If, on the other hand, you want to enable a language only for a specific page, you can set &lt;code&gt;highlight_languages&lt;/code&gt; in that page&amp;rsquo;s preamble.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; options specified in &lt;code&gt;config.toml&lt;/code&gt; and in a page&amp;rsquo;s preamble are additive. That is, if &lt;code&gt;config.toml&lt;/code&gt; contains, &lt;code&gt;highlight_languages = [&amp;quot;go&amp;quot;]&lt;/code&gt; and the page&amp;rsquo;s preamble contains &lt;code&gt;highlight_languages = [&amp;quot;ocaml&amp;quot;]&lt;/code&gt;, then javascript files for &lt;em&gt;both&lt;/em&gt; go and ocaml will be included for that page.&lt;/p&gt;
-
-&lt;p&gt;If the &lt;code&gt;highlight_languages&lt;/code&gt; option is set, then the corresponding javascript files will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available languages, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;languages&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code&gt;highlight_languages&lt;/code&gt; option provides an easy and convenient way to include support for additional languages to be severed from a CDN. If serving unmodified files from cdnjs doesn&amp;rsquo;t meet your needs, you can include javascript files for additional language support via one of the methods described in the &lt;a href=&#34;/post/getting-started/#third-party-and-local-scripts-js&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&#34;option-highlight-style&#34;&gt;Option &lt;code&gt;highlight_style&lt;/code&gt;&lt;/h4&gt;
-
-&lt;p&gt;The &lt;code&gt;highlight_style&lt;/code&gt; option allows you to select an alternate css style for highlighted code. For example, if you wanted to use the solarized-dark style, you could set &lt;code&gt;highlight_style = &amp;quot;solarized-dark&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;If the &lt;code&gt;highlight_style&lt;/code&gt; option is unset, the default is to use the file &lt;code&gt;/css/highlight.min.css&lt;/code&gt;, either the one provided by the Academic theme, or else the one in your local &lt;code&gt;static&lt;/code&gt; directory.  The &lt;code&gt;/css/highlight.min.css&lt;/code&gt; file provided by Academic is equivalent to the &lt;code&gt;github&lt;/code&gt; style from highlight.js.&lt;/p&gt;
-
-&lt;p&gt;If the &lt;code&gt;highlight_style&lt;/code&gt; option &lt;em&gt;is&lt;/em&gt; set, then &lt;code&gt;/css/highlight.min.css&lt;/code&gt; is ignored, and the corresponding css file will be served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. To see a list of available styles, visit the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs page&lt;/a&gt; and search for links with the word &amp;ldquo;styles&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;See the &lt;a href=&#34;https://highlightjs.org/static/demo/&#34; target=&#34;_blank&#34;&gt;highlight.js demo page&lt;/a&gt; for examples of available styles.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Not all styles listed on the &lt;a href=&#34;https://highlightjs.org/static/demo/&#34; target=&#34;_blank&#34;&gt;highlight.js demo page&lt;/a&gt; are available from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;. If you want to use a style that is not served by cdnjs, just leave &lt;code&gt;highlight_style&lt;/code&gt; unset, and place the corresponding css file in &lt;code&gt;/static/css/highlight.min.css&lt;/code&gt;.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;If you don&amp;rsquo;t want to change the default style that ships with Academic but you do want the style file served from the &lt;a href=&#34;https://cdnjs.com/libraries/highlight.js/&#34; target=&#34;_blank&#34;&gt;cdnjs server&lt;/a&gt;, set &lt;code&gt;highlight_style = &amp;quot;github&amp;quot;&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;The &lt;code&gt;highlight_style&lt;/code&gt; option is only recognized when set in &lt;code&gt;config.toml&lt;/code&gt;. Setting &lt;code&gt;highlight_style&lt;/code&gt; in your page&amp;rsquo;s preamble has no effect.&lt;/p&gt;
-
-&lt;h4 id=&#34;option-highlight-version&#34;&gt;Option &lt;code&gt;highlight_version&lt;/code&gt;&lt;/h4&gt;
-
-&lt;p&gt;The &lt;code&gt;highlight_version&lt;/code&gt; option, as the name implies, allows you to select the version of highlight.js you want to use. The default value is &amp;ldquo;9.9.0&amp;rdquo;. The &lt;code&gt;highlight_version&lt;/code&gt; option is only recognized when set in &lt;code&gt;config.toml&lt;/code&gt;. Setting &lt;code&gt;highlight_version&lt;/code&gt; in your page&amp;rsquo;s preamble has no effect.&lt;/p&gt;
-
-&lt;h2 id=&#34;twitter-tweet&#34;&gt;Twitter tweet&lt;/h2&gt;
-
-&lt;p&gt;To include a single tweet, pass the tweet’s ID from the tweet&amp;rsquo;s URL as parameter to the shortcode:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; tweet 666616452582129664 &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;youtube&#34;&gt;Youtube&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;vimeo&#34;&gt;Vimeo&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;github-gist&#34;&gt;GitHub gist&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; gist USERNAME GIST-ID  &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;speaker-deck&#34;&gt;Speaker Deck&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; speakerdeck 4e8126e72d853c0060001f97 &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;rm-latex-math&#34;&gt;$\rm \LaTeX$ math&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-TeX&#34;&gt;$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$&lt;/p&gt;
-
-&lt;p&gt;Alternatively, inline math can be written by wrapping the formula with only a single &lt;code&gt;$&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This is inline: $\mathbf{y} = \mathbf{X}\boldsymbol\beta + \boldsymbol\varepsilon$&lt;/p&gt;
-
-&lt;h2 id=&#34;table&#34;&gt;Table&lt;/h2&gt;
-
-&lt;p&gt;Code:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-Markdown&#34;&gt;| Command           | Description                    |
-| ------------------| ------------------------------ |
-| `hugo`            | Build your website.            |
-| `hugo serve -w`   | View your website.             |
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Result:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Command&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;Build your website.&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;View your website.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;alerts&#34;&gt;Alerts&lt;/h2&gt;
-
-&lt;p&gt;Alerts are a useful feature that add side content such as tips, notes, or warnings to your articles. They are especially handy when writing educational tutorial-style articles. Use the corresponding shortcodes to enable alerts inside your content:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% alert note %}}
-Here&#39;s a tip or note...
-{{% /alert %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This will display the following &lt;em&gt;note&lt;/em&gt; block:&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Here&amp;rsquo;s a tip or note&amp;hellip;&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;pre&gt;&lt;code&gt;{{% alert warning %}}
-Here&#39;s some important information...
-{{% /alert %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This will display the following &lt;em&gt;warning&lt;/em&gt; block:&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;p&gt;Here&amp;rsquo;s some important information&amp;hellip;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&#34;footnotes&#34;&gt;
 
 &lt;hr /&gt;
 
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Footnote example.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Welcome to the &lt;strong&gt;insect&lt;/strong&gt; R package, a tool for assigning taxon IDs to
+amplicon libraries using &lt;strong&gt;in&lt;/strong&gt;formatic &lt;strong&gt;se&lt;/strong&gt;quence &lt;strong&gt;c&lt;/strong&gt;lassification
+&lt;strong&gt;t&lt;/strong&gt;rees. The &lt;strong&gt;insect&lt;/strong&gt; learning algorithm takes a set of reference
+sequences (obtained from GenBank and/or other sources) to build a
+classification tree, which is then used to assign taxonomic IDs to a set
+of query sequences (e.g. those generated from an NGS platform such as
+Illumina MiSeq). The learning and classification functions are best
+suited to computing environments with multiple processors and access to
+large amounts of memory; however, most modest-sized datasets can be
+processed on standard personal computers if time is available. While not
+a prerequisite, &lt;strong&gt;insect&lt;/strong&gt; is designed to be used in conjunction with
+the &lt;strong&gt;ape&lt;/strong&gt; package (Paradis &lt;em&gt;et al.&lt;/em&gt;, 2004; Paradis, 2012), which
+features memory-efficient binary formats for DNA and amino acid
+sequences (&amp;ldquo;DNAbin&amp;rdquo; and &amp;ldquo;AAbin&amp;rdquo; object types), and the &lt;strong&gt;dada2&lt;/strong&gt; package
+(Callahan &lt;em&gt;et al.&lt;/em&gt;, 2016) which contains essential functions for
+de-noising high-throughput sequencing data and other important
+pre-processing steps.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;insect&lt;/strong&gt; package can be used to analyze environmental DNA (eDNA)
+meta-barcode libraries as well as single-source NGS/Sanger amplicon
+sequences.&lt;/p&gt;
+
+&lt;p&gt;The most time-consuming and memory-intensive stage of the &lt;strong&gt;insect&lt;/strong&gt;
+work-flow generally involves training the classifier. For example, the
+COI classifier used in this tutorial, which was built from the &lt;a href=&#34;http://reference-midori.info/download.php&#34; target=&#34;_blank&#34;&gt;MIDORI
+UNIQUE&lt;/a&gt; reference trainingset
+consisting of nearly a million COI barcode sequences, took around three
+days to run on a 24 x multithread. The &lt;strong&gt;insect&lt;/strong&gt; classification trees
+are amplicon specific, so a unique tree is generally required for each
+primer set. However, trees are already available for some of the more
+commonly used barcoding primers here:&lt;/p&gt;
+
+&lt;!-- note newlines needed between html tags and code chunk --&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;left&#34;&gt;Marker&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Target&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Primers&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Source&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Version&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Date&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Download&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;12S&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fish&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;MiFishUF/MiFishUR (&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/26587265&#34;&gt;Miya et al 2015&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GenBank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20181111&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/fv3dpvws6zjvtib/classifier.rds?dl=1&#34;&gt;RDS (9MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;16S&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Marine crustaceans&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Crust16S_F/Crust16S_R (&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5528208/&#34;&gt;Berry et al 2017&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GenBank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20180626&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/9vl9gj3frw7ng1m/classifier.rds?dl=1&#34;&gt;RDS (7.1 MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;16S&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Marine fish&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Fish16sF/16s2R (&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5528208/&#34;&gt;Berry et al 2017&lt;/a&gt;; &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1959119/&#34;&gt;Deagle et al 2007&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GenBank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20180627&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/fvfrd46exdah037/classifier.rds?dl=1&#34;&gt;RDS (6.8MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;18S&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Marine eukaryotes&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;18S_1F/18S_400R (&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/24023913&#34;&gt;Pochon et al 2017&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;SILVA_132_LSUParc, GenBank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20180709&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/rmhh1g73jtipagu/classifier.rds?dl=1&#34;&gt;RDS (11.8 MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;18S&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Marine eukaryotes&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;18S_V4F/18S_V4R (&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmed/28947818&#34;&gt;Stat et al 2017&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GenBank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20180525&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/s315gxuo4p24kx8/classifier.rds?dl=1&#34;&gt;RDS (11.5 MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;23S&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Algae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;p23SrV_f1/p23SrV_r1 (&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1529-8817.2007.00341.x&#34;&gt;Sherwood &amp;amp; Presting 2007&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;SILVA_132_LSUParc&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20180715&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/6o8cauqrlgnmwp5/classifier.rds?dl=1&#34;&gt;RDS (26.9MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;COI&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoans&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;mlCOIintF/jgHCO2198 (&lt;a href=&#34;https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-10-34&#34;&gt;Leray et al 2013&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Midori, GenBank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20181124&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/dvnrhnfmo727774/classifier.rds?dl=1&#34;&gt;RDS (140 MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ITS2&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Cnidarians and sponges&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;scl58SF/scl28SR (&lt;a href=&#34;https://www.dropbox.com/s/6hcs1goju60wqi4/README.txt?dl=1&#34;&gt;Wilkinson et al in prep&lt;/a&gt;)&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;GenBank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20180920&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://www.dropbox.com/s/f07cka6308ebk2o/classifier.rds?dl=1&#34;&gt;RDS (6.6 MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The insect package also includes functions for downloading, trimming and
+filtering reference datasets (including a &amp;ldquo;virtual PCR&amp;rdquo; tool and an
+annotation quality filter), building a hierarchical taxonomy database,
+and training the classifier; however, these methods are beyond the scope
+of this introductory tutorial. New classification trees and updates are
+frequently added to the collection, so please feel free to suggest a
+barcoding primer set with which to train a classifier and we will
+endeavor to add it to the list.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-insect-learning-and-classification-algorithms&#34;&gt;The INSECT learning and classification algorithms&lt;/h2&gt;
+
+&lt;p&gt;To learn a classification tree, a reference sequence dataset is first
+obtained from GenBank and/or other sources from which barcode sequences
+with accurate taxon IDs are available. These sequences are filtered to
+remove any with obvious taxonomic labeling issues, and trimmed to retain
+only the region of interest using the &lt;code&gt;virtualPCR&lt;/code&gt; function (sequences
+that do not span the entire amplicon region are removed). the &lt;code&gt;learn&lt;/code&gt;
+function then splits the training sequences into two subsets, maximizing
+the dissimilarity between the two groups. A profile hidden Markov model
+is then derived for each group (see Durbin et al. (1998) for a detailed
+description of these models). The partitioning and model training
+procedure then continues recursively, splitting the reference sequences
+into smaller and smaller subsets while adding new nodes and models to
+the classification tree.&lt;/p&gt;
+
+&lt;p&gt;Once the classifier has been trained, query sequences obtained from the
+specified primer set can be assigned taxonomic IDs along with
+probabilistic confidence values. The classification algorithm works as
+follows: starting from the root node of the classification tree, the
+&lt;em&gt;likelihood&lt;/em&gt; of the query sequence (the full probability of the sequence
+given a particular model) is computed for each of the models at the two
+immediate child nodes using the forward algorithm (see Durbin et al.
+(1998)). The competing likelihood values are then compared by computing
+their Akaike weights (see Johnson and Omland, 2004). If one model is
+overwhelmingly more likely to have produced the sequence than the other,
+that child node is selected and the classification is updated to reflect
+the lowest common taxonomic rank of the training sequences belonging to
+the node.&lt;/p&gt;
+
+&lt;p&gt;This procedure is repeated recursively, descending down the tree until
+either an inconclusive result is returned from a model comparison test
+(i.e. the Akaike weight is lower than a pre-defined threshold, e.g.
+0.9), or a terminal leaf node is reached, at which point a species-level
+ID is generally returned. The &lt;code&gt;classify&lt;/code&gt; function outputs the taxon
+name, rank and ID number (i.e. NCBI taxon ID, WoRMS aphia ID, or other
+identifier depending on the taxonomy database used in the training
+step), along with the final Akaike weight value, which can be
+interpreted as a confidence score (between 0 and 1, with values close to
+1 indicating high confidence). Note that the default behavior is for the
+Akaike weight to &amp;lsquo;decay&amp;rsquo; as it moves down the tree, by computing the
+cumulative product of all preceding Akaike weight values. This is
+perhaps an overly conservative approach, but it minimizes the chance of
+mis-classifying or over-classifying the query sequences.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-worked-example&#34;&gt;A worked example&lt;/h2&gt;
+
+&lt;p&gt;This tutorial demonstrates the &lt;strong&gt;insect&lt;/strong&gt; work-flow using an example
+dataset of COI sequences derived from autonomous reef monitoring
+structures (ARMS) in Ofu, American Samoa, amplified using the metazoan
+COI barcoding primers mlCOIintF and jgHCO2198
+(GGWACWGGWTGAACWGTWTAYCCYCC and TAIACYTCIGGRTGICCRAARAAYCA,
+respectively; Leray et al. (2013)).&lt;/p&gt;
+
+&lt;p&gt;The dataset was first de-noised and tabulated using the
+&lt;a href=&#34;https://benjjneb.github.io/dada2/tutorial.html&#34; target=&#34;_blank&#34;&gt;DADA2&lt;/a&gt; pipeline, to
+produce a table of chimera-free amplicon sequence variants (ASVs). The
+most abundant 16 ASVs are included in the &lt;strong&gt;insect&lt;/strong&gt; package as an
+example dataset (see below).&lt;/p&gt;
+
+&lt;p&gt;If using other tools for de-noising, trimming, merging, etc, the data
+can be read in using either the &lt;code&gt;readFASTA&lt;/code&gt; or &lt;code&gt;readFASTQ&lt;/code&gt; functions to
+produce a &amp;ldquo;DNAbin&amp;rdquo; object compatible with the &lt;strong&gt;insect&lt;/strong&gt; classifier.&lt;/p&gt;
+
+&lt;h3 id=&#34;loading-the-package-and-data&#34;&gt;Loading the package and data&lt;/h3&gt;
+
+&lt;p&gt;First, make sure that the &lt;strong&gt;devtools&lt;/strong&gt;, &lt;strong&gt;ape&lt;/strong&gt; and &lt;strong&gt;seqinr&lt;/strong&gt; packages
+are installed and up to date. Then install and load the latest
+development version of the &lt;strong&gt;insect&lt;/strong&gt; package from GitHub as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;devtools::install_github(&amp;quot;shaunpwilkinson/insect&amp;quot;)
+library(insect)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The COI classifier was trained on the &lt;a href=&#34;http://reference-midori.info/download.php&#34; target=&#34;_blank&#34;&gt;MIDORI UNIQUE
+20180221&lt;/a&gt; dataset, and uses
+information from both the DNA read and the translated amino acid
+sequence (&lt;a href=&#34;https://www.ebi.ac.uk/ena/browse/translation-tables&#34; target=&#34;_blank&#34;&gt;EBI5&lt;/a&gt;
+invertebrate mitochondrial translation table) to assign taxonomy to
+query sequences. You can download the classifier from the link in the
+table above; the file is quite large (~ 140 MB), so make sure there is a
+good internet connection available.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, the classifier can be downloaded to the current working
+directory as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;download.file(&amp;quot;https://www.dropbox.com/s/dvnrhnfmo727774/classifier.rds?dl=1&amp;quot;, 
+              destfile = &amp;quot;classifier.rds&amp;quot;, mode = &amp;quot;wb&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;classifying-sequences&#34;&gt;Classifying sequences&lt;/h3&gt;
+
+&lt;p&gt;To assign taxon IDs to the table of amplicon sequence variants (ASVs)
+produced by DADA2, we first extract the sequences stored as column names
+in the &lt;code&gt;seqtab.nochim&lt;/code&gt; matrix (see the &lt;a href=&#34;https://benjjneb.github.io/dada2/tutorial.html&#34; target=&#34;_blank&#34;&gt;DADA2
+tutorial&lt;/a&gt; for
+instructions on how to produce this table).&lt;/p&gt;
+
+&lt;p&gt;Once the sequences are stored in memory as a &amp;ldquo;DNAbin&amp;rdquo; object, we can
+optionally nullify the column names in the table to avoid flooding the
+console with long sequence strings:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## read in the example seqtab.nochim ASV table
+data(samoa)
+## get sequences from table column names
+x &amp;lt;- char2dna(colnames(samoa))
+## name the sequences sequentially
+names(x) &amp;lt;- paste0(&amp;quot;ASV&amp;quot;, seq_along(x))
+## optionally remove column names that can flood the console when printed
+colnames(samoa) &amp;lt;- NULL 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The next step is to load the classifier. Note that this &amp;lsquo;insect&amp;rsquo; class
+object is just a large dendrogram with additional attributes for
+classifying sequences including profile HMMs and taxonomic information:&lt;/p&gt;
+
+&lt;!-- Prior to training the classifier, the sequences were trimmed to only 
+include the amplicon produced by the mlCOIintF/jgHCO2198 primers, 
+and further quality filtered to include only
+sequences translating to functional proteins by aligning each sequence to 
+a COI profile hidden Markov model using the **aphid** R package 
+(https://CRAN.R-project.org/package=aphid). --&gt;
+
+&lt;pre&gt;&lt;code&gt;classifier &amp;lt;- readRDS(&amp;quot;classifier.rds&amp;quot;)
+classifier
+names(attributes(classifier))
+
+#&amp;gt; &#39;dendrogram&#39; with 2 branches and 113833 members total, at height 70
+#&amp;gt;  [1] &amp;quot;k&amp;quot;           &amp;quot;height&amp;quot;      &amp;quot;midpoint&amp;quot;    &amp;quot;members&amp;quot;     &amp;quot;class&amp;quot;      
+#&amp;gt;  [6] &amp;quot;taxonomy&amp;quot;    &amp;quot;clade&amp;quot;       &amp;quot;frame&amp;quot;       &amp;quot;remainder&amp;quot;   &amp;quot;sequences&amp;quot;  
+#&amp;gt; [11] &amp;quot;minscore&amp;quot;    &amp;quot;seqlengths&amp;quot;  &amp;quot;pointers&amp;quot;    &amp;quot;key&amp;quot;         &amp;quot;kmers&amp;quot;      
+#&amp;gt; [16] &amp;quot;minlength&amp;quot;   &amp;quot;maxlength&amp;quot;   &amp;quot;model&amp;quot;       &amp;quot;trainingset&amp;quot; &amp;quot;alternative&amp;quot;
+#&amp;gt; [21] &amp;quot;nunique&amp;quot;     &amp;quot;ntotal&amp;quot;      &amp;quot;taxID&amp;quot;       &amp;quot;numcode&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The final step is to assign taxon IDs and confidence values to each ASV.
+The &lt;code&gt;classify&lt;/code&gt; function may take a minute or so to process these
+sequences, since it uses a computationally intensive dynamic programming
+algorithm to find the likelihood values of each sequence given the
+models at each node of the tree. The exception is when &lt;code&gt;ping&lt;/code&gt; is not
+&lt;code&gt;FALSE&lt;/code&gt; and there is an exact match or high similarity&lt;br /&gt;
+between the query sequence and at least one of the sequences in the
+training dataset (e.g. &amp;gt;= 99% if &lt;code&gt;ping = 0.99&lt;/code&gt;). In this case the
+function simply returns the common ancestor of the matching sequences
+without a confidence score. To stay on the safe side, we will keep
+&lt;code&gt;ping = 1&lt;/code&gt; (i.e. only sequences with 100% identity are considered
+matches).&lt;/p&gt;
+
+&lt;p&gt;The &lt;code&gt;classify&lt;/code&gt; function can also be run in parallel by setting the
+&lt;code&gt;cores&lt;/code&gt; argument to 2 or more depending on the number available (setting
+&lt;code&gt;cores = &amp;quot;autodetect&amp;quot;&lt;/code&gt; will automatically run on one less than the
+number available). If choosing this option for the large COI classifier,
+please ensure that there is at least 2 GB of available RAM per
+processor. Classification times can vary, and depend on several factors
+including the number of unique sequences in the dataset, the size of the
+classifier, the length of the input sequences, the processing speed,
+number of processors used, etc. The average time to ID COI sequences
+using the classifier above is approximately 3 - 4 seconds per unique
+sequence per processor. For example, a dataset containing 1000 unique
+sequences would take around an hour to process on a single processor,
+half an hour on two, and so on.&lt;/p&gt;
+
+&lt;p&gt;In the following code we set &lt;code&gt;tabulize = FALSE&lt;/code&gt; (the default setting)
+since the DADA2 output table already contains the sequence counts and we
+are only classifying the unique sequence variants. In the case where a
+list of sequences containing replicates is to be processed, users can
+prefix the sequence names with their respective sample names, delimited
+with an underscore (e.g. &amp;ldquo;sample001_sequence001&amp;rdquo;) and set
+&lt;code&gt;tabulize = TRUE&lt;/code&gt;. In this case, the &lt;code&gt;classify&lt;/code&gt; function will
+automatically count and dereplicate the sequences, producing an output
+table with one column of sequence counts for each sample.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;longDF &amp;lt;- classify(x, classifier, threshold = 0.8)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For DADA2 users, the ASV abundance table can now be transposed and
+appended to the table of taxonomic information if required:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;longDF &amp;lt;- cbind(longDF, t(samoa))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;!-- note newlines needed between html tags and code chunk --&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;left&#34;&gt;representative&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;taxID&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;taxon&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;rank&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;score&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;kingdom&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;phylum&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;class&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;order&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;family&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;genus&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;species&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;OFU04A-100_S64&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;OFU04A-1_S13&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV1&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2806&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;class&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9981&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;156&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;5600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV2&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;6379&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Chaetopterus&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;genus&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Annelida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polychaeta&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Spionida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Chaetopteridae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Chaetopterus&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4496&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV3&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2806&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;class&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9989&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;28&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;3267&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV4&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2172821&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Multicrustacea&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;superclass&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arthropoda&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;3203&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV5&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;131567&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;cellular organisms&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;no rank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9952&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;3024&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV6&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2806&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;class&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9981&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;20&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2409&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV7&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;39820&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Nereididae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;family&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Annelida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polychaeta&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Phyllodocida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Nereididae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2379&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV8&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;116571&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Podoplea&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;superorder&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9995&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arthropoda&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hexanauplia&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2156&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;104&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV9&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2806&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;class&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9482&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2149&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV10&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;root&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;no rank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;NA&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2091&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV11&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;115834&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hesionidae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;family&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Annelida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polychaeta&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Phyllodocida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hesionidae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1905&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV12&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1443949&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Corallinophycidae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;subclass&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9910&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;87&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1757&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV13&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;33213&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Bilateria&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;no rank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;27&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1800&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV14&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;131567&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;cellular organisms&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;no rank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9952&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1729&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV15&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2806&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;class&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9993&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1725&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;left&#34;&gt;ASV16&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;39820&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Nereididae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;family&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Annelida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polychaeta&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Phyllodocida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Nereididae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1481&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;!--
+The function produces a data frame with one row for each ASV
+Assuming `ping` is not `FALSE`, query sequences that have 
+exact or close matches in the training dataset 
+(and hence bypass the recursive classification procedure)
+are assigned a score of `NA`.
+--&gt;
+
+&lt;p&gt;Any sequences that return exact hits with at least one training sequence
+(or near matches if &lt;code&gt;ping = 0.99&lt;/code&gt; or similar) are assigned a score of
+&lt;code&gt;NA&lt;/code&gt;. For hybrid DNA/AA classifiers such as the COI version used above,
+non-translatable sequences are also automatically assigned a score of
+&lt;code&gt;NA&lt;/code&gt;, as is the case for ASV10 in the table above.&lt;/p&gt;
+
+&lt;p&gt;For a more succinct output we can aggregate the table to only include
+one row for each unique taxon as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;taxa &amp;lt;- aggregate(longDF[3:12], longDF[&amp;quot;taxID&amp;quot;], head, 1)
+counts &amp;lt;- aggregate(longDF[13:ncol(longDF)], longDF[&amp;quot;taxID&amp;quot;], sum)
+shortDF &amp;lt;- merge(taxa, counts, by = &amp;quot;taxID&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;!-- note newlines needed between html tags and code chunk --&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;right&#34;&gt;taxID&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;taxon&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;rank&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;score&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;kingdom&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;phylum&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;class&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;order&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;family&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;genus&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;species&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;OFU04A-100_S64&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;OFU04A-1_S13&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;root&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;no rank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;NA&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2091&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;2806&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;class&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9981&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;204&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;15150&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;6379&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Chaetopterus&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;genus&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Annelida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polychaeta&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Spionida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Chaetopteridae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Chaetopterus&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4496&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;33213&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Bilateria&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;no rank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;27&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1800&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;39820&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Nereididae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;family&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Annelida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polychaeta&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Phyllodocida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Nereididae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;3860&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;115834&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hesionidae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;family&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Annelida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polychaeta&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Phyllodocida&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hesionidae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1905&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;116571&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Podoplea&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;superorder&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9995&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arthropoda&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Hexanauplia&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;2156&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;104&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;131567&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;cellular organisms&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;no rank&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9952&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;4753&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;1443949&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Corallinophycidae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;subclass&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0.9910&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Florideophyceae&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;87&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1757&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;2172821&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Multicrustacea&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;superclass&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;1.0000&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Metazoa&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Arthropoda&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;3203&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;As shown in the above example, many of the sequences return fairly
+uninformative taxon IDs (e.g. &amp;lsquo;cellular organisms&amp;rsquo;). This is a fairly
+typical feature of eDNA datasets that can contain a large number of
+novel sequences that are dissimilar to anything recorded in the
+reference database(s). Note that query sequences with high similarity to
+reference sequences can also occasionally produce uninformative
+classifications due to inconclusive model comparison tests at top-level
+nodes. This may be circumvented by reducing the &lt;code&gt;threshold&lt;/code&gt; parameter or
+setting &lt;code&gt;decay = FALSE&lt;/code&gt;; however, users are advised against the
+excessive relaxation of these parameters since it may increase the
+chance of returning erroneous classifications (these tend to be very
+rare when using the default values). Further testing and optimization
+may help to address some of these best-practice considerations, and will
+be a focus of future research.&lt;/p&gt;
+
+&lt;p&gt;This introduction to the &lt;strong&gt;insect&lt;/strong&gt; package has outlined the steps
+involved in taxonomic identification of amplicon sequence variants
+(ASVs) using a pre-built classification tree. The next tutorial will
+deal with downloading and curating a primer-specific local sequence
+database and using it to build a classification tree.&lt;/p&gt;
+
+&lt;p&gt;Please feel free to email the author directly with any feedback or
+questions at shaunpwilkinson AT gmail DOT com. Bug reports can also be
+directed to the &lt;a href=&#34;http://github.com/shaunpwilkinson/insect/issues&#34; target=&#34;_blank&#34;&gt;GitHub issues
+page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+
+&lt;p&gt;This software was developed with funding from a Rutherford Foundation
+Postdoctoral Research Fellowship from the Royal Society of New Zealand.
+Unpublished COI data care of Molly Timmers (NOAA).&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Callahan,B.J. &lt;em&gt;et al.&lt;/em&gt; (2016) DADA2: High-resolution sample inference
+from illumina amplicon data. &lt;em&gt;Nature Methods&lt;/em&gt;, &lt;strong&gt;13&lt;/strong&gt;, 581–583.&lt;/p&gt;
+
+&lt;p&gt;Durbin,R. &lt;em&gt;et al.&lt;/em&gt; (1998) Biological Sequence Analysis: Probabilistic
+Models of Proteins and Nucleic Acids. Cambridge University Press,
+Cambridge.&lt;/p&gt;
+
+&lt;p&gt;Johnson,J.B. and Omland,K.S. (2004) Model selection in ecology and
+evolution. &lt;em&gt;Trends in Ecology and Evolution&lt;/em&gt;, &lt;strong&gt;19&lt;/strong&gt;, 101–108.&lt;/p&gt;
+
+&lt;p&gt;Leray,M. &lt;em&gt;et al.&lt;/em&gt; (2013) A new versatile primer set targeting a short
+fragment of the mitochondrial COI region for metabarcoding metazoan
+diversity: application for characterizing coral reef fish gut contents.
+&lt;em&gt;Frontiers in Zoology&lt;/em&gt;, &lt;strong&gt;10&lt;/strong&gt;, 34.&lt;/p&gt;
+
+&lt;p&gt;Paradis,E. (2012) Analysis of Phylogenetics and Evolution with R. Second
+Edition. Springer, New York.&lt;/p&gt;
+
+&lt;p&gt;Paradis,E. &lt;em&gt;et al.&lt;/em&gt; (2004) APE: analyses of phylogenetics and evolution
+in R language. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;strong&gt;20&lt;/strong&gt;, 289–290.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Accurate supervised classification of environmental DNA</title>
+      <link>/project/edna_classification/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+      <guid>/project/edna_classification/</guid>
+      <description>&lt;p&gt;Environmental DNA (eDNA) meta-barcoding offers unprecidented insights into the ecology of biological communities, enabling comprehensive assessments of biodiversity from only trace amounts of genetic material. Yet several analytical challenges remain, particularly when incorporating robust statistical inference in the assignment of taxonomic identities. False discovery rates at low taxonomic ranks are often well above those generally considered acceptable in biology, leading to questionable conclusions being reported in the literature. In this project, we focus on developing new supervised machine-learning algorithms that incorporate full probabilistic models to identify the taxonomic sources of environmental DNA amplicon sequences. These models offer strict control of false discovery rates, and often improve recall (resolution/sensitivity), but at a cost of computational efficiency. With the increased availability of remote parallel computing services, a shift in focus toward precision and statistical interpretability favors the incorporation of full probabilistic models in the field of supervised taxonomic classification.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Migrate from Jekyll to Hugo</title>
-      <link>/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Intragenomic variation in Symbiodiniaceae</title>
+      <link>/project/symbiodiniaceae_igv/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/migrate-from-jekyll/</guid>
+      <guid>/project/symbiodiniaceae_igv/</guid>
+      <description>&lt;p&gt;The symbiosis between corals and dinoflagellate algae of the family Symbiodiniaceae is essential for the development and survival of coral reefs. Yet this fragile association is highly vulnerable to environmental disturbance. A coral’s ability to tolerate temperature stress depends on the fitness of its resident symbionts, whose thermal optima vary extensively between lineages. However, the in hospite population genetic structure of Symbiodiniaceae is poorly understood and mostly based on analysis of bulk DNA extracted from thousands to millions of cells. Using quantitative single-cell PCR, we enumerated DNA polymorphisms in the symbionts of the reef-building coral Pocillopora damicornis, and investigated the distribution of IGV Symbiodiniaceae at a variety of temporal and spatial scales. We also assessed the associations between IGV Symbiodiniaceae and coral host performance in both artificial and natural settings. We consider the evolutionary origins of prevalent IGV in Symbiodiniaceae, and its possible adaptive implications in a changing climate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taxonomic identification of environmental DNA with informatic sequence classification trees.</title>
+      <link>/publication/peerj/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/peerj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The &#39;aphid&#39; package for analysis with profile hidden Markov models</title>
+      <link>/post/aphid-vignette/</link>
+      <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/aphid-vignette/</guid>
       <description>
 
-&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;aphid&lt;/strong&gt; is an R package for the development and application of hidden
+Markov models and profile HMMs for biological sequence analysis. It
+contains functions for multiple and pairwise sequence alignment, model
+construction and parameter optimization, file import/export,
+implementation of the forward, backward and Viterbi algorithms for
+conditional sequence probabilities, tree-based sequence weighting, and
+sequence simulation. The package has a wide variety of uses including
+database searching, gene-finding and annotation, phylogenetic analysis
+and sequence classification.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
+&lt;p&gt;Hidden Markov models (HMMs) underlie many of the most important tasks in
+computational biology, including multiple sequence alignment, genome
+annotation, and increasingly, sequence database searching. Originally
+developed for speech recognition algorithms, their application to the
+field of molecular biology has increased dramatically since advances in
+computational capacity have enabled full probabilistic analysis in place
+of heuristic approximations. Pioneering this transition are two groups
+lead by Anders Krogh and Sean Eddy, whose respective software packages
+&lt;a href=&#34;https://compbio.soe.ucsc.edu/sam.html&#34; target=&#34;_blank&#34;&gt;SAM&lt;/a&gt; and
+&lt;a href=&#34;http://www.hmmer.org&#34; target=&#34;_blank&#34;&gt;HMMER&lt;/a&gt; have underpinned HMM-based bioinformatic
+analysis for over two decades.&lt;/p&gt;
+
+&lt;p&gt;Here, we present the &lt;strong&gt;aphid&lt;/strong&gt; package for analysis with profile hidden
+Markov models in the R environment (R Core Team 2017). The package
+contains functions for developing, plotting, importing and exporting
+both standard and profile HMMs, as well as implementations of the
+forward, backward and Viterbi algorithms for computing full and optimal
+conditional sequence probabilities. The package also features a multiple
+sequence alignment tool that produces high quality alignments &lt;em&gt;via&lt;/em&gt;
+profile HMM training.&lt;/p&gt;
+
+&lt;h3 id=&#34;dependencies&#34;&gt;Dependencies&lt;/h3&gt;
+
+&lt;p&gt;The &lt;strong&gt;aphid&lt;/strong&gt; package is designed to work in conjunction with the
+&amp;ldquo;DNAbin&amp;rdquo; and &amp;ldquo;AAbin&amp;rdquo; object types produced using the &lt;strong&gt;ape&lt;/strong&gt; package
+(Paradis, Claude, and Strimmer 2004; Paradis 2012). These object types,
+in which sequences are represented in a bit-level coding scheme, are
+preferred over standard character-type sequences for maximizing memory
+and speed efficiency. While we recommend using &lt;strong&gt;ape&lt;/strong&gt; alongside
+&lt;strong&gt;aphid&lt;/strong&gt;, it is not a requisite and as such is listed in the &amp;ldquo;Suggests&amp;rdquo;
+rather than &amp;ldquo;Imports&amp;rdquo; section of the package description. Indeed, any
+sequence of standard ASCII characters is supported, making &lt;strong&gt;aphid&lt;/strong&gt;
+suitable for other applications outside of biological sequence analysis.
+However, it should be noted that if DNA and/or amino acid sequences are
+input as character vectors, the functions may not recognize the
+ambiguity codes and therefore are not guaranteed to treat them
+appropriately.&lt;/p&gt;
+
+&lt;p&gt;To maximize speed, the low-level dynamic programming functions
+(including the forward, backward, Viterbi, and maximum &lt;em&gt;a posteriori&lt;/em&gt;
+algorithms) are written in C++ linking to the Rcpp package (Eddelbuettel
+and Francois 2011). R versions of these functions are also maintained
+for the purposes of debugging, experimentation and code interpretation.
+This package also relies on the &lt;strong&gt;openssl&lt;/strong&gt; package (Ooms 2016) for
+sequence and alignment comparisons using the MD5 hash algorithm.&lt;/p&gt;
+
+&lt;h3 id=&#34;classes&#34;&gt;Classes&lt;/h3&gt;
+
+&lt;p&gt;Two primary object classes, &amp;ldquo;HMM&amp;rdquo; (hidden Markov model) and &amp;ldquo;PHMM&amp;rdquo;
+(profile hidden Markov model) are generated using the &lt;strong&gt;aphid&lt;/strong&gt;
+functions deriveHMM and derivePHMM, respectively. These objects are
+lists consisting of emission and transition probability matrices
+(elements named &amp;ldquo;E&amp;rdquo; and &amp;ldquo;A&amp;rdquo;), and non-mandatory elements that may
+include vectors of background emission and transition probabilities
+(&amp;ldquo;qe&amp;rdquo; and &amp;ldquo;qa&amp;rdquo;, respectively) and other model metadata including &amp;ldquo;name&amp;rdquo;,
+&amp;ldquo;description&amp;rdquo;, &amp;ldquo;size&amp;rdquo; (the number of modules in the model), and
+&amp;ldquo;alphabet&amp;rdquo; (the set of symbols/residues emitted by the model). Objects
+of class &amp;ldquo;DPA&amp;rdquo; (dynamic programming array) are also generated by the
+Viterbi and forward/backward functions. These are predominantly created
+for the purposes of succinct console-printing.&lt;/p&gt;
+
+&lt;h3 id=&#34;functions&#34;&gt;Functions&lt;/h3&gt;
+
+&lt;p&gt;HMMs and PHMMs are explained in more detail throughout the following
+sections using &lt;strong&gt;aphid&lt;/strong&gt; package functions to demonstrate their utility.
+The examples are borrowed from Durbin et al (1998), to which users are
+encouraged to refer for a more in-depth explanation on the theory and
+application of these models. Book chapter numbers are provided wherever
+possible for ease of reference.&lt;/p&gt;
+
+&lt;h4 id=&#34;hidden-markov-models&#34;&gt;Hidden Markov Models&lt;/h4&gt;
+
+&lt;p&gt;A hidden Markov model is a hypothetical data-generating mechanism for a
+sequence or set of sequences. It is depicted by a network of &lt;em&gt;states&lt;/em&gt;
+each emitting symbols from a finite &lt;em&gt;alphabet&lt;/em&gt; according to a set of
+&lt;em&gt;emission probabilities&lt;/em&gt;, whose values are specific to each state. The
+states are traversed by an interconnecting set of &lt;em&gt;transition
+probabilities&lt;/em&gt;, that include the probability of remaining in any given
+state and those of transitioning to each of the other connected states.&lt;/p&gt;
+
+&lt;p&gt;An example of a simple HMM is given in Durbin et al (1998) chapter 3.2.
+An imaginary casino has two dice, one fair and one weighted. The fair
+dice emits residues from the alphabet {1, 2, 3, 4, 5, 6} with equal
+probabilities (&lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt; for each residue). The probability of rolling a &amp;ldquo;6&amp;rdquo;
+with the loaded dice is 0.5, while that of each of the other five
+residues is 0.1. If the dealer has the fair dice, he may secretly switch
+to the loaded dice with a probability of 0.05 after each roll, leaving a
+95% chance that he will retain the fair dice. Alternatively, if he has
+the loaded dice, he will switch back to the fair dice with a probability
+of 0.1, or more likely, retain the loaded dice with a probability of
+0.9.&lt;/p&gt;
+
+&lt;p&gt;This example can be represented by a simple two-state hidden Markov
+model. The following code manually builds and plots the &amp;ldquo;HMM&amp;rdquo; object.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;library(&amp;quot;aphid&amp;quot;)
+states &amp;lt;- c(&amp;quot;Begin&amp;quot;, &amp;quot;Fair&amp;quot;, &amp;quot;Loaded&amp;quot;)
+residues &amp;lt;- paste(1:6)
+### Define transition probability matrix A
+A &amp;lt;- matrix(c(0, 0, 0, 0.99, 0.95, 0.1, 0.01, 0.05, 0.9), nrow = 3)
+dimnames(A) &amp;lt;- list(from = states, to = states)
+### Define emission probability matrix E
+E &amp;lt;- matrix(c(rep(1/6, 6), rep(1/10, 5), 1/2), nrow = 2, byrow = TRUE)
+dimnames(E) &amp;lt;- list(states = states[-1], residues = residues)
+### Create the HMM object
+x &amp;lt;- structure(list(A = A, E = E), class = &amp;quot;HMM&amp;quot;)
+### Plot the model
+plot(x, textexp = 1.5)
+### Optionally add the transition probabilities as text
+text(x = 0.02, y = 0.5, labels = &amp;quot;0.95&amp;quot;)
+text(x = 0.51, y = 0.5, labels = &amp;quot;0.90&amp;quot;)
+text(x = 0.5, y = 0.9, labels = &amp;quot;0.05&amp;quot;)
+text(x = 0.5, y = 0.1, labels = &amp;quot;0.10&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;should become&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-2-1.png&#34; alt=&#34;&#34; /&gt;
+&lt;strong&gt;Figure 1: A simple hidden Markov model for the dishonest casino
+example.&lt;/strong&gt; The plot.HMM method depicts the transition probabilities as
+weighted lines, and emission probabilities as horizontal grey bars. No
+begin/end state is modeled in this example; however, this can be
+achieved by entering non-zero probabilities in the first row and column
+of the transition matrix and passing &amp;ldquo;begin = TRUE&amp;rdquo; to &lt;code&gt;plot.HMM&lt;/code&gt;.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ static/
-        ▾ images/
-            logo.png
+&lt;p&gt;For a sequence of observed rolls, we can establish the most likely
+sequence of hidden states (including when the dice-switching most likely
+occurred) using the Viterbi algorithm. In the example given in Durbin et
+al (1998) chapter 3.2, the observed sequence of 300 rolls is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;##  31511624644664424531132163116415213362514454363165 
+##  66265666666511664531326512456366646316366631623264 
+##  55236266666625151631222555441666566563564324364131 
+##  51346514635341112641462625335636616366646623253441 
+##  36616611632525624622552652522664353533362331216253 
+##  64414432335163243633665562566662632666612355245242
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Some observable clusters of 6&amp;rsquo;s suggest that the loaded dice made an
+appearance at some stage, but when did the dice-switching occur? In the
+following code, the Viterbi algorithm is used to find the most likely
+sequence of hidden states given the model.&lt;/p&gt;
 
-&lt;h2 id=&#34;fix-content&#34;&gt;Fix content&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;data(casino)
+### The actual path is stored in the names attribute of the sequence
+actual &amp;lt;- c(&amp;quot;F&amp;quot;, &amp;quot;L&amp;quot;)[match(names(casino), c(&amp;quot;Fair&amp;quot;, &amp;quot;Loaded&amp;quot;))]
+### Find the predicted path
+vit1 &amp;lt;- Viterbi(x, casino)
+predicted &amp;lt;- c(&amp;quot;F&amp;quot;, &amp;quot;L&amp;quot;)[vit1$path + 1]
+### Note the path element of the output Viterbi object is an integer vector
+### the addition of 1 to the path converts from C/C++ to R&#39;s indexing style
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Depending on the amount of customization that was done for each post in Jekyll, this step will require more or less effort. There are no hard and fast rules here except that &lt;code&gt;hugo server --watch&lt;/code&gt; and the Hugo Academic example site are your friends. Test your changes and fix errors as needed.&lt;/p&gt;
+&lt;p&gt;Comparing the predicted path with the actual hidden sequence, the
+Viterbi algorithm wasn&amp;rsquo;t far off:&lt;/p&gt;
 
-&lt;h2 id=&#34;publish&#34;&gt;Publish&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;##  Actual     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFLLLLL 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFLL 
+## 
+##  Actual     LLLLLLLLLLLLLLLLFFFFFFFFFFFFLLLLLLLLLLLLLLLLFFFLLL 
+##  Predicted  LLLLLLLLLLLLLLLLFFFFFFFFFFFFLLLLLLLLLLLLLLLLLLLLLL 
+## 
+##  Actual     LLLLLLLLLLLFFFFFFFFFFFFFFFFFLLLLLLLLLLLLLFFFFFFFFF 
+##  Predicted  LLLLLLLLLLLLFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 
+## 
+##  Actual     FFFFFFFFFFFFFFFFFFFFFFFFFFFFLLLLLLLLLLFFFFFFFFFFFF 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFLLLLLLLLLLLLLFFFFFFFF 
+## 
+##  Actual     FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF 
+## 
+##  Actual     FFFFFFFFFFFFFFFFFLLLLLLLLLLLLLLLLLLLLLLFFFFFFFFFFF 
+##  Predicted  FFFFFFFFFFFFFFFFFFFFLLLLLLLLLLLLLLLLLLLFFFFFFFFFFF
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;The default is for Jekyll to publish the website to a &lt;code&gt;_site&lt;/code&gt; directory, whereas Hugo publishes to a &lt;code&gt;public&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;We can also calculate the full and posterior probabilities of the
+sequence given the model using the &lt;code&gt;forward&lt;/code&gt; and/or &lt;code&gt;backward&lt;/code&gt;
+algorithms:&lt;/p&gt;
 
-&lt;h2 id=&#34;a-practical-example&#34;&gt;A practical example&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;casino.post &amp;lt;- posterior(x, casino)
+plot(1:300, seq(0, 1, length.out = 300), type = &amp;quot;n&amp;quot;, xlab = &amp;quot;Roll number&amp;quot;,
+     ylab = &amp;quot;Posterior probability of dice being fair&amp;quot;)
+starts &amp;lt;- which(c(&amp;quot;L&amp;quot;, actual) == &amp;quot;F&amp;quot; &amp;amp; c(actual, &amp;quot;F&amp;quot;) == &amp;quot;L&amp;quot;)
+ends &amp;lt;- which(c(&amp;quot;F&amp;quot;, actual) == &amp;quot;L&amp;quot; &amp;amp; c(actual, &amp;quot;L&amp;quot;) == &amp;quot;F&amp;quot;) - 1
+for(i in 1:6) rect(starts[i], 0, ends[i], 1, col = &amp;quot;grey&amp;quot;, border = NA)
+lines(1:300, casino.post[1, ])
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34; target=&#34;_blank&#34;&gt;diff&lt;/a&gt;. However, bear in mind that this example is &lt;strong&gt;not specific to the Academic theme nor does it use the latest version of Hugo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-6-1.png&#34; alt=&#34;&#34; /&gt;
+&lt;strong&gt;Figure 2: Posterior state probabilities for the 300 dice rolls.&lt;/strong&gt; The
+line shows the posterior probability that the dice was fair at each
+roll, while the grey rectangles show the actual periods for which the
+loaded dice was being used. See Durbin et al (1998) chapter 3.2 for more
+details.&lt;/p&gt;
+
+&lt;h5 id=&#34;deriving-hmms-from-sequence-data&#34;&gt;Deriving HMMs from sequence data&lt;/h5&gt;
+
+&lt;p&gt;The &lt;strong&gt;aphid&lt;/strong&gt; package features the function &lt;code&gt;deriveHMM&lt;/code&gt; for building an
+HMM from a set of training sequences. The following code derives a
+simple HMM from our single sequence of dice rolls with its known state
+path (stored as the &amp;lsquo;names&amp;rsquo; attribute of the sequence).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;y &amp;lt;- deriveHMM(list(casino), logspace = FALSE)
+plot(y, textexp = 1.5)
+
+### Optionally add the transition probabilities as text
+text(x = 0.02, y = 0.5, labels = round(y$A[&amp;quot;Fair&amp;quot;, &amp;quot;Fair&amp;quot;], 2))
+text(x = 0.51, y = 0.5, labels = round(y$A[&amp;quot;Loaded&amp;quot;, &amp;quot;Loaded&amp;quot;], 2))
+text(x = 0.5, y = 0.9, labels = round(y$A[&amp;quot;Fair&amp;quot;, &amp;quot;Loaded&amp;quot;], 2))
+text(x = 0.5, y = 0.1, labels = round(y$A[&amp;quot;Loaded&amp;quot;, &amp;quot;Fair&amp;quot;], 2))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-7-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3: A simple HMM derived from the sequence of 300 dice rolls.&lt;/strong&gt;
+As in Fig. 1, transition probabilities are shown as weighted lines and
+emission probabilities as horizontal grey bars.&lt;/p&gt;
+
+&lt;p&gt;This appears to be fairly close to the actual model, despite the fact
+that the training data consisted of just a single sequence. One would
+typically derive an HMM from a list of many such sequences (hence why
+the input argument is a list and not a vector) but this example is
+simplified for clarity.&lt;/p&gt;
+
+&lt;h4 id=&#34;profile-hidden-markov-models&#34;&gt;Profile Hidden Markov Models&lt;/h4&gt;
+
+&lt;p&gt;A profile hidden Markov model is an extension of a standard HMM, where
+the emission and transition probabilities are &lt;em&gt;position specific&lt;/em&gt;. That
+is, they can change at each point along the sequence. These models
+typically have many more parameters than their simpler HMM counterparts,
+but can be very powerful for sequence analysis. The precursor to a
+profile HMM is normally a multiple sequence alignment. Each column in
+the alignment will often (but not always) be represented by one internal
+position or &amp;ldquo;module&amp;rdquo; in the model, with each module consisting of three
+states:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a silent &lt;em&gt;delete&lt;/em&gt; state that does not emit residues.&lt;/li&gt;
+&lt;li&gt;an &lt;em&gt;insert&lt;/em&gt; state with emission probabilities reflecting the
+background residue frequencies averaged over the entire alignment.&lt;/li&gt;
+&lt;li&gt;a &lt;em&gt;match&lt;/em&gt; state with emission probabilities reflecting the residue
+frequencies in the alignment column.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Figure 4 shows the three state types listed above as circles diamonds
+and rectangles, respectively. The states are linked by transition
+probabilities shown as weighted lines in the graph.&lt;/p&gt;
+
+&lt;p&gt;Consider this small partial alignment of amino acid sequences from
+Durbin et al (1998) chapter 5.3:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;data(globins)
+globins
+
+##            [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [,9] [,10]
+## HBA_HUMAN  &amp;quot;V&amp;quot;  &amp;quot;G&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;H&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;G&amp;quot;  &amp;quot;E&amp;quot;  &amp;quot;Y&amp;quot;  
+## HBB_HUMAN  &amp;quot;V&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;N&amp;quot;  &amp;quot;V&amp;quot;  &amp;quot;D&amp;quot;  &amp;quot;E&amp;quot;  &amp;quot;V&amp;quot;  
+## MYG_PHYCA  &amp;quot;V&amp;quot;  &amp;quot;E&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;D&amp;quot;  &amp;quot;V&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;G&amp;quot;  &amp;quot;H&amp;quot;  
+## GLB3_CHITP &amp;quot;V&amp;quot;  &amp;quot;K&amp;quot;  &amp;quot;G&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;D&amp;quot;  
+## GLB5_PETMA &amp;quot;V&amp;quot;  &amp;quot;Y&amp;quot;  &amp;quot;S&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;T&amp;quot;  &amp;quot;Y&amp;quot;  &amp;quot;E&amp;quot;  &amp;quot;T&amp;quot;  &amp;quot;S&amp;quot;  
+## LGB2_LUPLU &amp;quot;F&amp;quot;  &amp;quot;N&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;-&amp;quot;  &amp;quot;N&amp;quot;  &amp;quot;I&amp;quot;  &amp;quot;P&amp;quot;  &amp;quot;K&amp;quot;  &amp;quot;H&amp;quot;  
+## GLB1_GLYDI &amp;quot;I&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;G&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;D&amp;quot;  &amp;quot;N&amp;quot;  &amp;quot;G&amp;quot;  &amp;quot;A&amp;quot;  &amp;quot;G&amp;quot;  &amp;quot;V&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Position-specific patterns include a high probability of observing a &amp;ldquo;V&amp;rdquo;
+at position 1 and an &amp;ldquo;A&amp;rdquo; or &amp;ldquo;G&amp;rdquo; at position 3. When tabulating the
+frequencies it is also prudent to add pseudo-counts, since the absence
+of a particular transition or emission type does not preclude the
+possibility of it occurring in another (unobserved) sequence.
+Pseudo-counts can be Laplacean (adds one of each emission and transition
+type), background (adjusts the Laplacean pseudo-counts to reflect the
+background frequencies derived from the entire alignment), or user
+defined, which can include more complex pseudo-count schemes such as
+Dirichlet mixtures (Durbin et al. 1998).&lt;br /&gt;
+The default option for the derivePHMM function is &amp;ldquo;background&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The following code derives a profile HMM from the globin data and plots
+the model:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;globins.PHMM &amp;lt;- derivePHMM(globins, residues = &amp;quot;AMINO&amp;quot;, seqweights = NULL)
+plot(globins.PHMM)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/aphid-vignette_files/figure-markdown_strict/unnamed-chunk-9-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4: Profile HMM derived from a partial globin sequence
+alignment.&lt;/strong&gt; Match states are shown as rectangles, insert states as
+diamonds, and delete states as circles. Grey horizontal bars represent
+the emission probabilities for each residue in the alphabet (in this
+case the amino acid alphabet) at each position in the model. Numbers in
+the delete states are simply model module numbers, while those in the
+insert states are the probabilities of remaining in the current insert
+state at the next emission cycle. Lines are weighted and directed where
+necessary to reflect the transition probabilities between states. The
+large &amp;ldquo;B&amp;rdquo; and &amp;ldquo;E&amp;rdquo; labels represent are the silent begin and end states,
+respectively.&lt;/p&gt;
+
+&lt;p&gt;Note that there are only 8 internal modules (excluding the begin and end
+states), while the alignment had 10 columns. The &lt;code&gt;derivePHMM&lt;/code&gt; function
+decided (using the maximum &lt;em&gt;a posteriori&lt;/em&gt; algorithm) that there was not
+enough residue information in columns 4 and 5 of the alignment to
+warrant assigning them internal modules in the model. Instead, the last
+sequence in the alignment (GLB1_GLYDI) was considered to have entered
+the insert state at position 3 where it remained for two emission cycles
+(emitting an &amp;ldquo;A&amp;rdquo; and a &amp;ldquo;D&amp;rdquo;) before transitioning to the match state in
+module 4. We can show this by calculating the optimal path of that
+sequence through the model, again using the Viterbi algorithm:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;path &amp;lt;- Viterbi(globins.PHMM, globins[&amp;quot;GLB1_GLYDI&amp;quot;, ])$path
+path
+
+##  [1] 1 1 1 2 2 1 1 1 1 1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &amp;ldquo;path&amp;rdquo; element of the Viterbi object is an integer vector with
+elements taking values 0 (&amp;ldquo;delete&amp;rdquo;), 1 (&amp;ldquo;match&amp;rdquo;) or 2 (&amp;ldquo;insert&amp;rdquo;). The
+path can be expressed more intuitively as characters instead of indices
+as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;c(&amp;quot;D&amp;quot;, &amp;quot;M&amp;quot;, &amp;quot;I&amp;quot;)[path + 1]
+
+##  [1] &amp;quot;M&amp;quot; &amp;quot;M&amp;quot; &amp;quot;M&amp;quot; &amp;quot;I&amp;quot; &amp;quot;I&amp;quot; &amp;quot;M&amp;quot; &amp;quot;M&amp;quot; &amp;quot;M&amp;quot; &amp;quot;M&amp;quot; &amp;quot;M&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that the addition of 1 to each path element is simply to convert
+from the C/C++ indexing style (which begins at 0) to R&amp;rsquo;s style.&lt;/p&gt;
+
+&lt;p&gt;Sequences do not need to be aligned to produce a profile HMM. The
+function &lt;code&gt;derivePHMM&lt;/code&gt; can optionally take a list of unaligned sequences,
+in which case the longest sequence is used as a &amp;lsquo;seed&amp;rsquo; to create a
+preliminary profile HMM, and the model is iteratively trained with the
+sequence list using either the Baum Welch or Viterbi training algorithm
+(see model training section below).&lt;/p&gt;
+
+&lt;h5 id=&#34;file-i-o&#34;&gt;File I/O&lt;/h5&gt;
+
+&lt;p&gt;Profile HMMs can be exported as text files in the HMMER v3 format
+(&lt;a href=&#34;http://www.hmmer.org/&#34; target=&#34;_blank&#34;&gt;http://www.hmmer.org/&lt;/a&gt;) using the function &lt;code&gt;writePHMM&lt;/code&gt;. For example,
+the small globin profile HMM can be exported by running
+&lt;code&gt;writePHMM(globins.PHMM)&lt;/code&gt;. Similarly, a HMMER v3 text file can be parsed
+into R as an object of class &amp;ldquo;PHMM&amp;rdquo; with the function &lt;code&gt;readPHMM&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h5 id=&#34;sequence-simulation&#34;&gt;Sequence Simulation&lt;/h5&gt;
+
+&lt;p&gt;To simulate data with random variation, the &lt;strong&gt;aphid&lt;/strong&gt; package features
+the function &lt;code&gt;generate&lt;/code&gt; with methods for both HMMs and PHMM objects.
+Sequences are generated recursively using the transition and emission
+probabilities from within the model. There are two compulsory arguments,
+a model (object class &amp;ldquo;HMM&amp;rdquo; or &amp;ldquo;PHMM&amp;rdquo;) and the &amp;ldquo;size&amp;rdquo; argument, which
+specifies the maximum length of the sequence (this prevent an overflow
+situation that can occur if insert-insert transition probabilities are
+relatively high). For example, the following code simulates a list of 10
+random sequences from the small globin profile HMM:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sim &amp;lt;- list(length = 10)
+set.seed(9999)
+for(i in 1:10) sim[[i]] &amp;lt;- generate(globins.PHMM, size = 20)
+sim
+
+## $length
+##   M   M   M   M   I   I   M   M   M   M 
+## &amp;quot;N&amp;quot; &amp;quot;G&amp;quot; &amp;quot;T&amp;quot; &amp;quot;K&amp;quot; &amp;quot;K&amp;quot; &amp;quot;V&amp;quot; &amp;quot;H&amp;quot; &amp;quot;F&amp;quot; &amp;quot;G&amp;quot; &amp;quot;V&amp;quot; 
+## 
+## [[2]]
+##   D   M   M   M   M   M   M   I   M 
+## &amp;quot;-&amp;quot; &amp;quot;N&amp;quot; &amp;quot;V&amp;quot; &amp;quot;N&amp;quot; &amp;quot;G&amp;quot; &amp;quot;P&amp;quot; &amp;quot;G&amp;quot; &amp;quot;V&amp;quot; &amp;quot;L&amp;quot; 
+## 
+## [[3]]
+##   M   D   D   M   M   M   M   M 
+## &amp;quot;N&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;H&amp;quot; &amp;quot;Y&amp;quot; &amp;quot;E&amp;quot; &amp;quot;V&amp;quot; &amp;quot;V&amp;quot; 
+## 
+## [[4]]
+##   M   M   M   M   M   M   M   M 
+## &amp;quot;A&amp;quot; &amp;quot;W&amp;quot; &amp;quot;A&amp;quot; &amp;quot;N&amp;quot; &amp;quot;R&amp;quot; &amp;quot;P&amp;quot; &amp;quot;T&amp;quot; &amp;quot;G&amp;quot; 
+## 
+## [[5]]
+##   M   M   M   M   M   M   M   M 
+## &amp;quot;G&amp;quot; &amp;quot;V&amp;quot; &amp;quot;A&amp;quot; &amp;quot;V&amp;quot; &amp;quot;E&amp;quot; &amp;quot;D&amp;quot; &amp;quot;T&amp;quot; &amp;quot;V&amp;quot; 
+## 
+## [[6]]
+##   M   M   M   M   M   M   M   M 
+## &amp;quot;T&amp;quot; &amp;quot;G&amp;quot; &amp;quot;G&amp;quot; &amp;quot;Y&amp;quot; &amp;quot;A&amp;quot; &amp;quot;G&amp;quot; &amp;quot;S&amp;quot; &amp;quot;Y&amp;quot; 
+## 
+## [[7]]
+##   M   M   M   M   M   M   I   M   M 
+## &amp;quot;I&amp;quot; &amp;quot;W&amp;quot; &amp;quot;A&amp;quot; &amp;quot;T&amp;quot; &amp;quot;A&amp;quot; &amp;quot;P&amp;quot; &amp;quot;K&amp;quot; &amp;quot;Y&amp;quot; &amp;quot;P&amp;quot; 
+## 
+## [[8]]
+##   M   M   M   M   M   M   M   M 
+## &amp;quot;V&amp;quot; &amp;quot;N&amp;quot; &amp;quot;G&amp;quot; &amp;quot;D&amp;quot; &amp;quot;A&amp;quot; &amp;quot;G&amp;quot; &amp;quot;R&amp;quot; &amp;quot;Y&amp;quot; 
+## 
+## [[9]]
+##   M   M   M   D   D   D   D   M 
+## &amp;quot;V&amp;quot; &amp;quot;N&amp;quot; &amp;quot;W&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;H&amp;quot; 
+## 
+## [[10]]
+##   D   D   D   M   M   M   M   M 
+## &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;D&amp;quot; &amp;quot;K&amp;quot; &amp;quot;N&amp;quot; &amp;quot;A&amp;quot; &amp;quot;V&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that the names attributes specify which state each residue was
+emitted from, and gap symbols are emitted from delete states. If these
+gaps are not required they can be removed as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sim &amp;lt;- lapply(sim, function(s) s[names(s) != &amp;quot;D&amp;quot;])
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h5 id=&#34;model-training&#34;&gt;Model Training&lt;/h5&gt;
+
+&lt;p&gt;The &lt;strong&gt;aphid&lt;/strong&gt; package offers the function &lt;code&gt;train&lt;/code&gt; for optimizing model
+parameters using either the Baum Welch or Viterbi training algorithm.
+Both are iterative refinement algorithms; the former does not rely on a
+multiple sequence alignment but is generally much slower than the
+latter. The Viterbi training operation can be sped up further on
+multi-CPU machines by specifying the &amp;ldquo;cores&amp;rdquo; argument for parallel
+processing. The best choice of training algorithm will generally depend
+on the nature of the problem and the computing resources available. For
+more information see Durbin et al (1998) chapter 3.3 for standard HMMs
+and chapter 6.5 for profile HMMs.&lt;/p&gt;
+
+&lt;p&gt;The following code trains the small globin profile HMM with the
+sequences simulated in the previous step using the Baum Welch algorithm.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;globins2.PHMM &amp;lt;- train(globins.PHMM, sim, method = &amp;quot;BaumWelch&amp;quot;, 
+                       deltaLL = 0.01, seqweights = NULL)
+
+## Iteration 1 log likelihood = -213.8818 
+## Iteration 2 log likelihood = -187.5671 
+## Iteration 3 log likelihood = -186.2003 
+## Iteration 4 log likelihood = -185.4684 
+## Iteration 5 log likelihood = -185.0501 
+## Iteration 6 log likelihood = -184.8302 
+## Iteration 7 log likelihood = -184.7419 
+## Iteration 8 log likelihood = -184.7162 
+## Iteration 9 log likelihood = -184.6974 
+## Iteration 10 log likelihood = -184.6543 
+## Iteration 11 log likelihood = -184.5744 
+## Iteration 12 log likelihood = -184.4634 
+## Iteration 13 log likelihood = -184.3386 
+## Iteration 14 log likelihood = -184.2147 
+## Iteration 15 log likelihood = -184.1037 
+## Iteration 16 log likelihood = -184.0166 
+## Iteration 17 log likelihood = -183.9569 
+## Iteration 18 log likelihood = -183.9197 
+## Iteration 19 log likelihood = -183.8976 
+## Iteration 20 log likelihood = -183.8846 
+## Iteration 21 log likelihood = -183.8769 
+## Convergence threshold reached after 21 EM iterations
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As shown in the feedback (which can be switched off by setting &amp;ldquo;quiet =
+TRUE&amp;rdquo;), this operation took 7 expectation-maximization iterations to
+converge to the specified delta log-likelihood threshold of 0.01.&lt;/p&gt;
+
+&lt;h2 id=&#34;sequence-alignment&#34;&gt;Sequence Alignment&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;aphid&lt;/strong&gt; package can be used to produce high-quality multiple
+sequence alignments using the iterative model training method outlined
+above. The function &lt;code&gt;align&lt;/code&gt; takes as its primary argument a list of
+sequences either as a &amp;ldquo;DNAbin&amp;rdquo; object, an &amp;ldquo;AAbin&amp;rdquo; object, or a list of
+character sequences. An object of class &amp;ldquo;PHMM&amp;rdquo; can be passed to the
+function as an optional secondary argument (&amp;ldquo;model&amp;rdquo;), in which case the
+sequences are simply aligned to the model to produce the alignment
+matrix. If &amp;ldquo;model&amp;rdquo; is NULL, a preliminary model is first derived using
+the &amp;lsquo;seed&amp;rsquo; sequence method outlined above, after which the model is
+trained using either the Baum Welch or Viterbi training algorithm
+(specified &lt;em&gt;via&lt;/em&gt; the &amp;ldquo;method&amp;rdquo; argument). The sequences are then aligned
+to the model in the usual fashion to produce the alignment. Note that if
+only two sequences are present inthe input list, the &lt;code&gt;align&lt;/code&gt; function
+will perform a pairwise alignment without a profile HMM (Smith-Waterman
+or Needleman-Wunch alignment).&lt;/p&gt;
+
+&lt;p&gt;In this final example, we will deconstruct the original globin alignment
+and re-align the sequences using the original PHMM as a guide.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;globins &amp;lt;- unalign(globins)
+align(globins, model = globins.PHMM, seqweights = NULL, residues = &amp;quot;AMINO&amp;quot;)
+
+##            1   2   3   I   I   4   5   6   7   8  
+## HBA_HUMAN  &amp;quot;V&amp;quot; &amp;quot;G&amp;quot; &amp;quot;A&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;H&amp;quot; &amp;quot;A&amp;quot; &amp;quot;G&amp;quot; &amp;quot;E&amp;quot; &amp;quot;Y&amp;quot;
+## HBB_HUMAN  &amp;quot;V&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;N&amp;quot; &amp;quot;V&amp;quot; &amp;quot;D&amp;quot; &amp;quot;E&amp;quot; &amp;quot;V&amp;quot;
+## MYG_PHYCA  &amp;quot;V&amp;quot; &amp;quot;E&amp;quot; &amp;quot;A&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;D&amp;quot; &amp;quot;V&amp;quot; &amp;quot;A&amp;quot; &amp;quot;G&amp;quot; &amp;quot;H&amp;quot;
+## GLB3_CHITP &amp;quot;V&amp;quot; &amp;quot;K&amp;quot; &amp;quot;G&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;D&amp;quot;
+## GLB5_PETMA &amp;quot;V&amp;quot; &amp;quot;Y&amp;quot; &amp;quot;S&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;T&amp;quot; &amp;quot;Y&amp;quot; &amp;quot;E&amp;quot; &amp;quot;T&amp;quot; &amp;quot;S&amp;quot;
+## LGB2_LUPLU &amp;quot;F&amp;quot; &amp;quot;N&amp;quot; &amp;quot;A&amp;quot; &amp;quot;-&amp;quot; &amp;quot;-&amp;quot; &amp;quot;N&amp;quot; &amp;quot;I&amp;quot; &amp;quot;P&amp;quot; &amp;quot;K&amp;quot; &amp;quot;H&amp;quot;
+## GLB1_GLYDI &amp;quot;I&amp;quot; &amp;quot;A&amp;quot; &amp;quot;G&amp;quot; &amp;quot;A&amp;quot; &amp;quot;D&amp;quot; &amp;quot;N&amp;quot; &amp;quot;G&amp;quot; &amp;quot;A&amp;quot; &amp;quot;G&amp;quot; &amp;quot;V&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Note that the column names show the progressive positions along the
+model and where residues were predicted to have been emitted by insert
+states (e.g. the 4th and 5th residues of sequence 7).&lt;/p&gt;
+
+&lt;h2 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h2&gt;
+
+&lt;p&gt;This package was written based on the algorithms described in Durbin et
+al (1998). This book offers an in depth explanation of hidden Markov
+models and profile HMMs for users of all levels of familiarity. Many of
+the examples and datasets in the package are directly derived from the
+text, which serves as a useful primer for this package. There are also
+excellent resources available for those wishing to use profile HMMs
+outside of the R environment. The aphid package maintains compatibility
+with the HMMER software suite through the file input and output
+functions readPHMM and writePHMM. Those interested are further
+encouraged to check out the SAM software package, which also features a
+comprehensive suite of functions and tutorials.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+
+&lt;p&gt;This software was developed at Victoria University of Wellington, NZ,
+with funding from a Rutherford Foundation Postdoctoral Research
+Fellowship award from the Royal Society of New Zealand.&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Durbin, Richard, Sean Eddy, Anders Krogh, and Graeme Mitchison. 1998.
+&lt;em&gt;Biological Sequence Analysis: Probabilistic Models of Proteins and
+Nucleic Acids&lt;/em&gt;. Cambridge: Cambridge University Press.&lt;/p&gt;
+
+&lt;p&gt;Eddelbuettel, Dirk, and Romain Francois. 2011. “Rcpp: seamless R and C++
+integration.” &lt;em&gt;Journal of Statistical Software&lt;/em&gt; 40 (8): 1–18.
+&lt;a href=&#34;http://www.jstatsoft.org/v40/i08/&#34; target=&#34;_blank&#34;&gt;http://www.jstatsoft.org/v40/i08/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ooms, Jeroen. 2016. &lt;em&gt;openssl: toolkit for encryption, signatures and
+certificates based on OpenSSL&lt;/em&gt;. R package.
+&lt;a href=&#34;https://cran.r-project.org/package=openssl&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/package=openssl&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Paradis, Emmanuel. 2012. &lt;em&gt;Analysis of Phylogenetics and Evolution with
+R&lt;/em&gt;. Second Edi. New York: Springer.&lt;/p&gt;
+
+&lt;p&gt;Paradis, Emmanuel, Julien Claude, and Korbinian Strimmer. 2004. “APE:
+analyses of phylogenetics and evolution in R language.” &lt;em&gt;Bioinformatics&lt;/em&gt;
+20: 289–90.
+doi:&lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btg412&#34; target=&#34;_blank&#34;&gt;10.1093/bioinformatics/btg412&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;R Core Team. 2017. “R: A Language and Environment for Statistical
+Computing.” Vienna, Austria: R Foundation for Statistical Computing.
+&lt;a href=&#34;https://cran.r-project.org/&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>kmer: an R package for fast alignment-free clustering of biological sequences</title>
+      <link>/post/kmer-vignette/</link>
+      <pubDate>Fri, 06 Jul 2018 12:00:00 +0000</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/post/kmer-vignette/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Agglomerative clustering methods that rely on a multiple sequence
+alignment and a matrix of pairwise distances can be computationally
+infeasible for large DNA and amino acid datasets. Alternative k-mer
+based clustering methods involve enumerating all &lt;em&gt;k&lt;/em&gt;-letter words in a
+sequence through a sliding window of length &lt;em&gt;k&lt;/em&gt;. The
+*n* × 4&lt;sup&gt;&lt;em&gt;k&lt;/em&gt;&lt;/sup&gt; matrix of &lt;em&gt;k&lt;/em&gt;-mer counts (where &lt;em&gt;n&lt;/em&gt; is the number
+of sequences) can then be used in place of a multiple sequence alignment
+to calculate distances and/or build a phylogenetic tree. &lt;strong&gt;kmer&lt;/strong&gt; is an
+R package for clustering large sequence datasets using fast
+alignment-free &lt;em&gt;k&lt;/em&gt;-mer counting. This can be achieved with or without a
+multiple sequence alignment, and with or without a matrix of pairwise
+distances. These functions are detailed below with examples of their
+utility.&lt;/p&gt;
+
+&lt;h2 id=&#34;distance-matrix-computation&#34;&gt;Distance matrix computation&lt;/h2&gt;
+
+&lt;p&gt;The function &lt;code&gt;kcount&lt;/code&gt; is used to enumerate all &lt;em&gt;k&lt;/em&gt;-mers within a
+sequence or set of sequences, by sliding a window of length &lt;em&gt;k&lt;/em&gt; along
+each sequence and counting the number of times each &lt;em&gt;k&lt;/em&gt;-mer appears (for
+example, the 4&lt;sup&gt;3&lt;/sup&gt; = 64 possible DNA 3-mers: AAA, AAC, AAG, &amp;hellip;,
+TTT). The &lt;code&gt;kdistance&lt;/code&gt; function can then compute an alignment-free
+distance matrix, using a matrix of &lt;em&gt;k&lt;/em&gt;-mer counts to derive the pairwise
+distances. The default distance metric used by &lt;code&gt;kdistance&lt;/code&gt; is the
+&lt;em&gt;k&lt;/em&gt;-mer (&lt;em&gt;k&lt;/em&gt;-tuple) distance measure outlined in Edgar (2004). For two
+DNA sequences &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt;, the fractional common &lt;em&gt;k&lt;/em&gt;-mer count over the
+4&lt;sup&gt;&lt;em&gt;k&lt;/em&gt;&lt;/sup&gt; possible words of length &lt;em&gt;k&lt;/em&gt; is calculated as:
+$$F  = \sum\limits_{\tau}\frac{min (n_a(\tau), n_b (\tau))}{min (L_a , L_b ) - k + 1} \tag{1}$$&lt;/p&gt;
+
+&lt;p&gt;where &lt;em&gt;τ&lt;/em&gt; represents each possible &lt;em&gt;k&lt;/em&gt;-mer, &lt;em&gt;n&lt;/em&gt;&lt;sub&gt;&lt;em&gt;a&lt;/em&gt;&lt;/sub&gt;(&lt;em&gt;τ&lt;/em&gt;) and
+&lt;em&gt;n&lt;/em&gt;&lt;sub&gt;&lt;em&gt;b&lt;/em&gt;&lt;/sub&gt;(&lt;em&gt;τ&lt;/em&gt;) are the number of times &lt;em&gt;τ&lt;/em&gt; appears in each
+sequence, &lt;em&gt;k&lt;/em&gt; is the &lt;em&gt;k&lt;/em&gt;-mer length and &lt;em&gt;L&lt;/em&gt; is the sequence length. The
+pairwise distance between &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt; is then calculated as:&lt;/p&gt;
+
+&lt;p&gt;$$d = \frac{log(0.1 + F) - log(1.1)}{log(0.1)} \tag{2}$$&lt;/p&gt;
+
+&lt;p&gt;For &lt;em&gt;n&lt;/em&gt; sequences, the &lt;code&gt;kdistance&lt;/code&gt; operation has time and memory
+complexity &lt;em&gt;O&lt;/em&gt;(&lt;em&gt;n&lt;/em&gt;&lt;sup&gt;2&lt;/sup&gt;) and thus can become computationally
+infeasible when the sequence set is large (e.g. &amp;gt; 10,000 sequences).
+As such, the &lt;strong&gt;kmer&lt;/strong&gt; package also offers the function &lt;code&gt;mbed&lt;/code&gt;, that only
+computes the distances from each sequence to a smaller (or equal) sized
+subset of &amp;lsquo;seed&amp;rsquo; sequences (Blackshields &lt;em&gt;et al.&lt;/em&gt;, 2010). The default
+behavior of the &lt;code&gt;mbed&lt;/code&gt; function is to select
+*t* = (*l&lt;strong&gt;o&lt;/strong&gt;g*&lt;sub&gt;2&lt;/sub&gt;&lt;em&gt;n&lt;/em&gt;)&lt;sup&gt;2&lt;/sup&gt; seeds by clustering the
+sequences (&lt;em&gt;k&lt;/em&gt;-means algorithm with *k* = &lt;em&gt;t&lt;/em&gt;), and selecting one
+representative sequence from each cluster.&lt;/p&gt;
+
+&lt;p&gt;DNA and amino acid sequences can be passed to &lt;code&gt;kcount&lt;/code&gt;, &lt;code&gt;kdistance&lt;/code&gt; and
+&lt;code&gt;mbed&lt;/code&gt; either as a list of non-aligned sequences or a matrix of aligned
+sequences, preferably in either the &amp;ldquo;DNAbin&amp;rdquo; or &amp;ldquo;AAbin&amp;rdquo; raw-byte format
+(see the &lt;strong&gt;ape&lt;/strong&gt; package documentation for more information on these S3
+classes). Character sequences are supported; however ambiguity codes may
+not be recognized or treated appropriately, since raw ambiguities are
+counted according to their underlying residue frequencies (e.g. the
+5-mer &amp;ldquo;ACRGT&amp;rdquo; would contribute 0.5 to the tally for &amp;ldquo;ACAGT&amp;rdquo; and 0.5 to
+that of &amp;ldquo;ACGGT&amp;rdquo;). This excludes the ambiguity code &amp;ldquo;N&amp;rdquo;, which is
+ignored.&lt;/p&gt;
+
+&lt;h4 id=&#34;example-1-compute-k-mer-distance-matrices-for-the-woodmouse-dataset&#34;&gt;Example 1: Compute k-mer distance matrices for the woodmouse dataset&lt;/h4&gt;
+
+&lt;p&gt;The &lt;strong&gt;ape&lt;/strong&gt; R package (Paradis &lt;em&gt;et al.&lt;/em&gt;, 2004) contains a dataset of 15
+aligned mitochondrial cytochrome &lt;em&gt;b&lt;/em&gt; gene DNA sequences from the
+woodmouse &lt;em&gt;Apodemus sylvaticus&lt;/em&gt;, originally published in Michaux et al.
+(2003). While the &lt;strong&gt;kmer&lt;/strong&gt; distance functions do not require sequences
+to be aligned, this example will enable us to compare the performance of
+the &lt;em&gt;k&lt;/em&gt;-mer distances with the alignment-dependent distances produced by
+&lt;code&gt;ape::dist.dna&lt;/code&gt;. First, load the dataset and view the first few rows and
+columns as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;data(woodmouse, package = &amp;quot;ape&amp;quot;)
+ape::as.character.DNAbin(woodmouse[1:5, 1:5])
+#&amp;gt;         [,1] [,2] [,3] [,4] [,5]
+#&amp;gt; No305   &amp;quot;n&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;c&amp;quot;  &amp;quot;g&amp;quot; 
+#&amp;gt; No304   &amp;quot;a&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;c&amp;quot;  &amp;quot;g&amp;quot; 
+#&amp;gt; No306   &amp;quot;a&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;c&amp;quot;  &amp;quot;g&amp;quot; 
+#&amp;gt; No0906S &amp;quot;a&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;c&amp;quot;  &amp;quot;g&amp;quot; 
+#&amp;gt; No0908S &amp;quot;a&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;t&amp;quot;  &amp;quot;c&amp;quot;  &amp;quot;g&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is a semi-global (&amp;lsquo;glocal&amp;rsquo;) alignment featuring some incomplete
+sequences, with unknown characters represented by the ambiguity code &amp;ldquo;n&amp;rdquo;
+(e.g. No305). To avoid artificially inflating the distances between
+these partial sequences and the others, we first trim the gappy ends by
+subsetting the global alignment (note that the &lt;strong&gt;ape&lt;/strong&gt; function
+&lt;code&gt;dist.dna&lt;/code&gt; also removes columns with ambiguity codes prior to distance
+computation by default).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;woodmouse &amp;lt;- woodmouse[, apply(woodmouse, 2, function(v) !any(v == 0xf0))]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The following code first computes the full *n* × &lt;em&gt;n&lt;/em&gt; distance matrix,
+and then the embedded distances of each sequence to three randomly
+selected seed sequences. In both cases the &lt;em&gt;k&lt;/em&gt;-mer size is set to 6.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;### Compute the full distance matrix and print the first few rows and columns
+library(kmer)
+woodmouse.kdist &amp;lt;- kdistance(woodmouse, k = 6)
+print(as.matrix(woodmouse.kdist)[1:7, 1:7], digits = 2)
+#&amp;gt;         No305  No304  No306 No0906S No0908S No0909S No0910S
+#&amp;gt; No305   0.000 0.0322 0.0295   0.033   0.036   0.037   0.037
+#&amp;gt; No304   0.032 0.0000 0.0051   0.020   0.022   0.032   0.023
+#&amp;gt; No306   0.030 0.0051 0.0000   0.016   0.017   0.026   0.018
+#&amp;gt; No0906S 0.033 0.0202 0.0162   0.000   0.024   0.033   0.014
+#&amp;gt; No0908S 0.036 0.0224 0.0171   0.024   0.000   0.033   0.025
+#&amp;gt; No0909S 0.037 0.0322 0.0264   0.033   0.033   0.000   0.034
+#&amp;gt; No0910S 0.037 0.0233 0.0176   0.014   0.025   0.034   0.000
+
+### Compute and print the embedded distance matrix
+set.seed(999)
+seeds &amp;lt;- sample(1:15, size = 3)
+woodmouse.mbed &amp;lt;- mbed(woodmouse, seeds = seeds, k = 6)
+print(woodmouse.mbed[,], digits = 2)
+#&amp;gt;         No0909S No0913S  No304
+#&amp;gt; No305    0.0368  0.0391 0.0322
+#&amp;gt; No304    0.0322  0.0102 0.0000
+#&amp;gt; No306    0.0264  0.0098 0.0051
+#&amp;gt; No0906S  0.0332  0.0215 0.0202
+#&amp;gt; No0908S  0.0332  0.0273 0.0224
+#&amp;gt; No0909S  0.0000  0.0368 0.0322
+#&amp;gt; No0910S  0.0341  0.0176 0.0233
+#&amp;gt; No0912S  0.0242  0.0322 0.0273
+#&amp;gt; No0913S  0.0368  0.0000 0.0102
+#&amp;gt; No1103S  0.0171  0.0251 0.0202
+#&amp;gt; No1007S  0.0046  0.0368 0.0322
+#&amp;gt; No1114S  0.0451  0.0428 0.0373
+#&amp;gt; No1202S  0.0345  0.0176 0.0233
+#&amp;gt; No1206S  0.0304  0.0251 0.0202
+#&amp;gt; No1208S  0.0046  0.0409 0.0359
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;example-2-alignment-free-tree-building&#34;&gt;Example 2: Alignment-free tree-building&lt;/h4&gt;
+
+&lt;p&gt;In this example the alignment-free &lt;em&gt;k&lt;/em&gt;-mer distances calculated in
+Example 1 are compared with the Kimura (1980) distance metric as
+featured in the &lt;strong&gt;ape&lt;/strong&gt; package examples. The resulting neighbor-joining
+trees are visualized using the &lt;code&gt;tanglegram&lt;/code&gt; function from the
+&lt;strong&gt;dendextend&lt;/strong&gt; package.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;## compute pairwise distance matrices
+dist1 &amp;lt;- ape::dist.dna(woodmouse, model = &amp;quot;K80&amp;quot;) 
+dist2 &amp;lt;- kdistance(woodmouse, k = 7) 
+
+## build neighbor-joining trees
+phy1 &amp;lt;- ape::nj(dist1)
+phy2 &amp;lt;- ape::nj(dist2)
+
+## rearrange trees in ladderized fashion
+phy1 &amp;lt;- ape::ladderize(phy1)
+phy2 &amp;lt;- ape::ladderize(phy2)
+
+## convert phylo objects to dendrograms
+dnd1 &amp;lt;- as.dendrogram(phy1)
+dnd2 &amp;lt;- as.dendrogram(phy2)
+
+## plot the tanglegram
+dndlist &amp;lt;- dendextend::dendlist(dnd1, dnd2)
+dendextend::tanglegram(dndlist, fast = TRUE, margin_inner = 5)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/kmer-vignette_files/figure-markdown_strict/unnamed-chunk-5-1.png&#34; width=&#34;700px&#34; style=&#34;display: block; margin: auto auto auto 0;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 1:&lt;/strong&gt; Tanglegram comparing distance measures for the woodmouse
+sequences. Neighbor-joining trees derived from the alignment-dependent
+(left) and alignment-free (right) distances show relatively congruent
+fine-scale topologies, with the exception of the single sequence
+No0908S.&lt;/p&gt;
+
+&lt;h2 id=&#34;clustering-without-a-distance-matrix&#34;&gt;Clustering without a distance matrix&lt;/h2&gt;
+
+&lt;p&gt;To avoid excessive time and memory use when building large trees (e.g.
+&lt;em&gt;n&lt;/em&gt; &amp;gt; 10,000), the &lt;strong&gt;kmer&lt;/strong&gt; package features the function &lt;code&gt;cluster&lt;/code&gt;
+for fast divisive clustering, free of both alignment and distance matrix
+computation. This function first generates a matrix of &lt;em&gt;k&lt;/em&gt;-mer counts,
+and then recursively partitions the matrix row-wise using successive
+k-means clustering (&lt;em&gt;k&lt;/em&gt; = 2). While this method may not necessarily
+reconstruct sufficiently accurate phylogenetic trees for taxonomic
+purposes, it offers a fast and efficient means of producing large trees
+for a variety of other applications such as tree-based sequence
+weighting (e.g. Gerstein et al. (1994)), guide trees for progressive
+multiple sequence alignment (e.g. Sievers et al. (2011)), and other
+recursive operations such as classification and regression tree (CART)
+learning.&lt;/p&gt;
+
+&lt;p&gt;The package also features the function &lt;code&gt;otu&lt;/code&gt; for rapid clustering of
+sequences into operational taxonomic units based on a genetic distance
+(k-mer distance) threshold. This function performs a similar operation
+to &lt;code&gt;cluster&lt;/code&gt; in that it recursively partitions a k-mer count matrix to
+assign sequences to groups. However, the top-down splitting only
+continues while the highest k-mer distance within each cluster is above
+a defined threshold value. Rather than returning a dendrogram, &lt;code&gt;otu&lt;/code&gt;
+returns a named integer vector of cluster membership, with asterisks
+indicating the representative sequences within each cluster.&lt;/p&gt;
+
+&lt;h4 id=&#34;example-3-otu-clustering-with-k-mers&#34;&gt;Example 3: OTU clustering with &lt;em&gt;k&lt;/em&gt;-mers&lt;/h4&gt;
+
+&lt;p&gt;In this final example, the woodmouse dataset is clustered into
+operational taxonomic units (OTUs) with a maximum within-cluster &lt;em&gt;k&lt;/em&gt;-mer
+distance of 0.03 and with 20 random starts per k-means split
+(recommended for improved accuracy).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;set.seed(999)
+woodmouse.OTUs &amp;lt;- otu(woodmouse, k = 5, threshold = 0.97, method = &amp;quot;farthest&amp;quot;, nstart = 20)
+woodmouse.OTUs
+#&amp;gt;   No305*    No304   No306*  No0906S  No0908S No0909S*  No0910S  No0912S 
+#&amp;gt;        3        1        1        1        1        2        1        2 
+#&amp;gt;  No0913S  No1103S  No1007S  No1114S  No1202S  No1206S  No1208S 
+#&amp;gt;        1        2        2        3        1        1        2
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The function outputs a named integer vector of OTU membership, with
+asterisks indicating the representative sequence from each cluster (i.e.
+the most &amp;ldquo;central&amp;rdquo; sequence). In this case, three distinct OTUs were
+found, with No305 and N01114S forming one cluster (3), No0909S, No0912S,
+No1103S, No1007S and No1208S forming another (2) and the remainder
+belonging to cluster 1 in concordance with the consensus topology of
+Figure 1.&lt;/p&gt;
+
+&lt;h2 id=&#34;concluding-remarks&#34;&gt;Concluding remarks&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;kmer&lt;/strong&gt; package is released under the GPL-3 license. Please direct
+bug reports to the GitHub issues page at
+&lt;a href=&#34;http://github.com/shaunpwilkinson/kmer/issues&#34; target=&#34;_blank&#34;&gt;http://github.com/shaunpwilkinson/kmer/issues&lt;/a&gt;. Any feedback is greatly
+appreciated.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+
+&lt;p&gt;This software was developed with funding from a Rutherford Foundation
+Postdoctoral Research Fellowship from the Royal Society of New Zealand.&lt;/p&gt;
+
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Blackshields,G. &lt;em&gt;et al.&lt;/em&gt; (2010) Sequence embedding for fast construction
+of guide trees for multiple sequence alignment. &lt;em&gt;Algorithms for
+Molecular Biology&lt;/em&gt;, &lt;strong&gt;5&lt;/strong&gt;, 21.&lt;/p&gt;
+
+&lt;p&gt;Edgar,R.C. (2004) Local homology recognition and distance measures in
+linear time using compressed amino acid alphabets. &lt;em&gt;Nucleic Acids
+Research&lt;/em&gt;, &lt;strong&gt;32&lt;/strong&gt;, 380–385.&lt;/p&gt;
+
+&lt;p&gt;Gerstein,M. &lt;em&gt;et al.&lt;/em&gt; (1994) Volume changes in protein evolution.
+&lt;em&gt;Journal of Molecular Biology&lt;/em&gt;, &lt;strong&gt;236&lt;/strong&gt;, 1067–1078.&lt;/p&gt;
+
+&lt;p&gt;Kimura,M. (1980) A simple method for estimating evolutionary rates of
+base substitutions through comparative studies of nucleotide sequences.
+&lt;em&gt;Journal of Molecular Evolution&lt;/em&gt;, &lt;strong&gt;16&lt;/strong&gt;, 111–120.&lt;/p&gt;
+
+&lt;p&gt;Michaux,J.R. &lt;em&gt;et al.&lt;/em&gt; (2003) Mitochondrial phylogeography of the
+woodmouse (Apodemus sylvaticus) in the Western Palearctic region.
+&lt;em&gt;Molecular Ecology&lt;/em&gt;, &lt;strong&gt;12&lt;/strong&gt;, 685–697.&lt;/p&gt;
+
+&lt;p&gt;Paradis,E. &lt;em&gt;et al.&lt;/em&gt; (2004) APE: analyses of phylogenetics and evolution
+in R language. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;strong&gt;20&lt;/strong&gt;, 289–290.&lt;/p&gt;
+
+&lt;p&gt;Sievers,F. &lt;em&gt;et al.&lt;/em&gt; (2011) Fast, scalable generation of high-quality
+protein multiple sequence alignments using Clustal Omega. &lt;em&gt;Molecular
+Systems Biology&lt;/em&gt;, &lt;strong&gt;7&lt;/strong&gt;, 539.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>phylogram: dendrograms for evolutionary analysis</title>
+      <link>/post/phylogram_blog/</link>
+      <pubDate>Tue, 26 Jun 2018 12:00:00 +0000</pubDate>
+      
+      <guid>/post/phylogram_blog/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Evolutionary biologists are increasingly using R for building,
+editing and visualizing phylogenetic trees.
+The reproducible code-based workflow and comprehensive array of tools
+available in packages such as &lt;a href=&#34;http://ape-package.ird.fr/&#34; target=&#34;_blank&#34;&gt;ape&lt;/a&gt;,
+&lt;a href=&#34;https://github.com/KlausVigo/phangorn&#34; target=&#34;_blank&#34;&gt;phangorn&lt;/a&gt; and
+&lt;a href=&#34;http://blog.phytools.org/&#34; target=&#34;_blank&#34;&gt;phytools&lt;/a&gt; make R an ideal platform for
+phylogenetic analysis.
+Yet the many of the different tree formats are not well integrated,
+as pointed out in a recent
+&lt;a href=&#34;https://ropensci.org/blog/2018/05/17/treeio/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The standard data structure for phylogenies in R is the &amp;ldquo;phylo&amp;rdquo;
+object, a memory efficient, matrix-based tree representation.
+However, non-biologists have tended to use a tree structure
+called the &amp;ldquo;dendrogram&amp;rdquo;, which is a deeply nested list with
+node properties defined by various attributes stored at each level.
+While certainly not as memory efficient as the matrix-based format,
+dendrograms are versatile and intuitive to manipulate, and hence
+a large number of analytical and visualization functions exist
+for this object type. A good example is the
+&lt;a href=&#34;https://github.com/talgalili/dendextend&#34; target=&#34;_blank&#34;&gt;dendextend&lt;/a&gt; package,
+which features an impressive range of options for editing dendrograms
+and plotting publication-quality trees.&lt;/p&gt;
+
+&lt;p&gt;To better integrate the phylo and dendrogram object types,
+and hence increase the options available for both camps,
+we developed the &lt;a href=&#34;https://github.com/ropensci/phylogram&#34; target=&#34;_blank&#34;&gt;phylogram&lt;/a&gt;
+package, which is now a part of the &lt;a href=&#34;https://ropensci.org/&#34; target=&#34;_blank&#34;&gt;rOpenSci&lt;/a&gt;
+project.
+This small package features a handful of functions for tree conversion,
+importing and exporting trees as parenthetic text, and manipulating
+dendrograms for phylogenetic applications.
+The phylogram package draws heavily on &lt;a href=&#34;http://ape-package.ird.fr/&#34; target=&#34;_blank&#34;&gt;ape&lt;/a&gt;,
+but currently has no other non-standard dependencies.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;To download &lt;strong&gt;phylogram&lt;/strong&gt; from CRAN and load the package, run&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&amp;quot;phylogram&amp;quot;)
+library(phylogram)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Alternatively, to download the latest development version from &lt;a href=&#34;https://github.com/ropensci/phylogram&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;,
+first ensure that the &lt;a href=&#34;https://github.com/r-lib/devtools&#34; target=&#34;_blank&#34;&gt;devtools&lt;/a&gt;,
+&lt;a href=&#34;https://CRAN.R-project.org/package=kmer&#34; target=&#34;_blank&#34;&gt;kmer&lt;/a&gt;, and
+&lt;a href=&#34;https://CRAN.R-project.org/package=dendextend&#34; target=&#34;_blank&#34;&gt;dendextend&lt;/a&gt;
+packages are installed,
+then run:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;devtools::install_github(&amp;quot;ropensci/phylogram&amp;quot;, build_vignettes = TRUE) 
+library(phylogram)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;tree-import-export&#34;&gt;Tree import/export&lt;/h3&gt;
+
+&lt;p&gt;A wide variety of tree formats can be parsed as phylo objects using either the
+well-optimized &lt;code&gt;ape::read.tree&lt;/code&gt; function
+(for &lt;a href=&#34;http://evolution.genetics.washington.edu/phylip/newicktree.html&#34; target=&#34;_blank&#34;&gt;Newick&lt;/a&gt;
+strings),
+or the suite of specialized functions in the versatile
+&lt;a href=&#34;https://ropensci.org/blog/2018/05/17/treeio/&#34; target=&#34;_blank&#34;&gt;treeio&lt;/a&gt; package.
+To convert a phylo object to a dendrogram, the &lt;strong&gt;phylogram&lt;/strong&gt; package includes
+the function &lt;code&gt;as.dendrogram&lt;/code&gt;, which retains node height attributes and can handle
+non-ultrametric trees.&lt;/p&gt;
+
+&lt;p&gt;For single-line parsing of dendrograms from Newick text,
+the &lt;code&gt;read.dendrogram&lt;/code&gt; function wraps &lt;code&gt;ape::read.tree&lt;/code&gt;
+and converts the resulting phylo class object to a dendrogram using &lt;code&gt;as.dendrogram&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Similarly, the functions &lt;code&gt;write.dendrogram&lt;/code&gt; and &lt;code&gt;as.phylo&lt;/code&gt; are used to
+export dendrogram objects to parenthetic text and phylo objects, respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;tree-editing&#34;&gt;Tree editing&lt;/h3&gt;
+
+&lt;p&gt;The &lt;strong&gt;phylogram&lt;/strong&gt; package includes some new functions for manipulating
+trees in dendrogram format.
+Leaf nodes and internal branching nodes can be removed
+using the function &lt;code&gt;prune&lt;/code&gt;, which identifies and
+recursively deletes nodes based on pattern
+matching of &amp;ldquo;label&amp;rdquo; attributes.
+This is slower than &lt;code&gt;ape::drop.tip&lt;/code&gt;, but offers
+the benefits of versatile string matching using regular expressions,
+and the ability to remove inner nodes (and by extension all subnodes)
+that feature matching &amp;ldquo;label&amp;rdquo; attributes.
+To aid visualization, the function &lt;code&gt;ladder&lt;/code&gt; rearranges
+the tree, sorting nodes by the number of members
+(analogous to &lt;code&gt;ape::ladderize&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;For more controlled subsetting or when creating trees from scratch
+(e.g. from a standard nested list), the function &lt;code&gt;remidpoint&lt;/code&gt;
+recursively corrects all &amp;ldquo;midpoint&amp;rdquo;, &amp;ldquo;members&amp;rdquo; and &amp;ldquo;leaf&amp;rdquo; attributes.
+Node heights can then be manipulated using either &lt;code&gt;reposition&lt;/code&gt;, which
+scales the heights of all nodes in a tree by a given constant, or
+&lt;code&gt;as.cladogram&lt;/code&gt;, which resets the &amp;ldquo;height&amp;rdquo; attributes of all terminal
+leaf nodes to zero and progressively resets the heights of the inner nodes
+in single incremental units.&lt;/p&gt;
+
+&lt;p&gt;As an example, a simple three-leaf dendrogram can be created from
+a nested list as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;x &amp;lt;- list(1, list(2, 3))
+## set class, midpoint, members and leaf attributes for each node
+x &amp;lt;- remidpoint(x)
+## set height attributes for each node
+x &amp;lt;- as.cladogram(x)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A nice feature of the dendrogram object type that tree
+editing operations can be carried out recursively
+using fast inbuilt functions in the &amp;ldquo;apply&amp;rdquo; family such as &lt;code&gt;dendrapply&lt;/code&gt;
+and &lt;code&gt;lapply&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;For example, to label each leaf node of the tree alphabetically we can
+create a simple labeling function and apply it to the tree nodes recursively using
+&lt;code&gt;dendrapply&lt;/code&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;set_label &amp;lt;- function(node){
+  if(is.leaf(node)) attr(node, &amp;quot;label&amp;quot;) &amp;lt;- LETTERS[node]
+  return(node)
+}
+x &amp;lt;- dendrapply(x, set_label)
+plot(x, horiz = TRUE)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/unnamed-chunk-6-1.png&#34; width=&#34;1000px&#34; style=&#34;display: block; margin: auto auto auto 0;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;applications&#34;&gt;Applications&lt;/h3&gt;
+
+&lt;p&gt;One application motivating bi-directional conversion between phylo and
+dendrogram objects involves creating publication-quality &amp;lsquo;tanglegrams&amp;rsquo; using
+the &lt;a href=&#34;https://github.com/talgalili/dendextend&#34; target=&#34;_blank&#34;&gt;dendextend&lt;/a&gt; package.
+For example, to see how well the fast, alignment-free &lt;em&gt;k&lt;/em&gt;-mer distance
+from the &lt;a href=&#34;https://CRAN.R-project.org/package=kmer&#34; target=&#34;_blank&#34;&gt;kmer&lt;/a&gt; package
+performs in comparison to the standard Kimura 1980 distance measure,
+we can create neighbor-joining trees using each method and plot them side by side
+to check for incongruent nodes.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;## load woodmouse data and remove columns with ambiguities
+data(woodmouse, package = &amp;quot;ape&amp;quot;)
+woodmouse &amp;lt;- woodmouse[, apply(woodmouse, 2, function(v) !any(v == 0xf0))]
+## compute Kimura 1980 pairwise distance matrix
+dist1 &amp;lt;- ape::dist.dna(woodmouse, model = &amp;quot;K80&amp;quot;)
+## deconstruct alignment (not strictly necessary)
+woodmouse &amp;lt;- as.list(as.data.frame(unclass(t(woodmouse))))
+## compute kmer distance matrix 
+dist2 &amp;lt;- kmer::kdistance(woodmouse, k = 7) 
+## build and ladderize neighbor-joining trees
+phy1 &amp;lt;- ape::nj(dist1)
+phy2 &amp;lt;- ape::nj(dist2)
+phy1 &amp;lt;- ape::ladderize(phy1)
+phy2 &amp;lt;- ape::ladderize(phy2)
+## convert phylo objects to dendrograms
+dnd1 &amp;lt;- as.dendrogram(phy1)
+dnd2 &amp;lt;- as.dendrogram(phy2)
+## plot the tanglegram
+dndlist &amp;lt;- dendextend::dendlist(dnd1, dnd2)
+dendextend::tanglegram(dndlist, fast = TRUE, margin_inner = 5)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/unnamed-chunk-7-1.png&#34; width=&#34;1000px&#34; style=&#34;display: block; margin: auto auto auto 0;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;In this case, the trees are congruent and branch lengths are similar.
+However, if we reduce the &lt;em&gt;k&lt;/em&gt;-mer size from 7 to 6,
+the accuracy of the tree reconstruction is affected:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;## compute kmer distance matrix 
+dist3 &amp;lt;- kmer::kdistance(woodmouse, k = 6) 
+phy3 &amp;lt;- ape::nj(dist3)
+phy3 &amp;lt;- ape::ladderize(phy3)
+dnd3 &amp;lt;- as.dendrogram(phy3)
+dndlist &amp;lt;- dendextend::dendlist(dnd1, dnd3)
+dendextend::tanglegram(dndlist, fast = TRUE, margin_inner = 5)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/unnamed-chunk-8-1.png&#34; width=&#34;1000px&#34; style=&#34;display: block; margin: auto auto auto 0;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Hopefully users will find the package useful for a range of other applications,
+and I look forward to receiving feedback from the community.
+Thanks to &lt;a href=&#34;https://github.com/wcornwell&#34; target=&#34;_blank&#34;&gt;wcornwell&lt;/a&gt; and
+&lt;a href=&#34;https://github.com/BenJWard&#34; target=&#34;_blank&#34;&gt;BenJWard&lt;/a&gt;
+for reviewing the code and suggesting improvements,
+and to &lt;a href=&#34;https://github.com/sckott&#34; target=&#34;_blank&#34;&gt;sckott&lt;/a&gt;
+for handling the &lt;a href=&#34;https://github.com/ropensci&#34; target=&#34;_blank&#34;&gt;rOpenSci&lt;/a&gt; onboarding process.&lt;/p&gt;
+
+&lt;p&gt;The phylogram package is available for download from
+&lt;a href=&#34;https://github.com/ropensci/phylogram&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and
+&lt;a href=&#34;https://CRAN.R-project.org/package=phylogram&#34; target=&#34;_blank&#34;&gt;CRAN&lt;/a&gt;,
+and a summary of the package is published in the
+&lt;a href=&#34;https://joss.theoj.org/papers/6773f7e7465b5068fc5654018c1a33b8&#34; target=&#34;_blank&#34;&gt;Journal of Open Source Software&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intra-genomic variation in Symbiodinium correlates negatively with photosynthetic efficiency and coral host performance.</title>
+      <link>/publication/core2018/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/core2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogram: an R package for phylogenetic analysis with nested lists</title>
+      <link>/publication/joss/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/joss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomic identification of environmental DNA with informatic sequence classification trees</title>
+      <link>/talk/wcmb/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/wcmb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The distribution of intra-genomically variable dinoflagellate symbionts at Lord Howe Island, Australia.</title>
+      <link>/publication/core2016/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/core2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-genomic variation in symbiotic dinoflagellates: recent divergence or recombination between lineages?</title>
+      <link>/publication/bmc/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bmc/</guid>
+      <description></description>
     </item>
     
   </channel>

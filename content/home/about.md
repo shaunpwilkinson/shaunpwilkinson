@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2019-01-01T00:00:00"
 draft = false
 
 widget = "about"
@@ -28,35 +28,12 @@ weight = 1
   course = "BSc (Hons) in Marine Biology and Applied Statistics"
   institution = "Victoria University of Wellington"
   year = 2011
-
-[[education.courses]]
-  course = "BSc in Marine Biology and Applied Statistics"
-  institution = "Victoria University of Wellington"
-  year = 2010
  
 +++
 
 # Biography
+I work on developing new methods for analyzing environmental DNA, with a focus on incorporating robust statistical inference in eDNA biodiversity monitoring. Recently I developed a new class of supervised machine learning classifiers called informatic sequence classification trees (INSECT models), 
+that identify taxonomic sources of eDNA within a probabilistic framework. While computationally intensive, 
+these models show a marked reduction in false discovery rates compared to fast k-mer based methods, and can also increase taxonomic resolution (recall). My current research uses unsupervised learning and network theory to address questions related to biodiversity and community ecology in a taxonomy-independent context.
 
-Shaun Wilkinson is a computational biologist trying to make sense 
-of the jumble of genetic juice known as the ocean. 
 
-A Kiwi living and working in Timor-Leste, Shaun is analyzing the 
-genetic signature of seawater to catalogue the many different species 
-inhabiting the coral reefs of Atauro, Dili and Manatuto. 
-This involves developing new machine-learning algorithms to decipher 
-the billions of DNA molecules that are continuously released by 
-marine flora and fauna during processes such as metabolism and 
-reproduction.
-
-After gaining his PhD from Victoria University of Wellington in 2015, 
-Shaun was awarded a prestigious Rutherford Foundation Postdoctoral 
-Fellowship by the Royal Society of New Zealand. 
-This enabled him to continue his research while accompanying his 
-wife Alice on diplomatic assignment to the New Zealand Embassy in 
-Dili.
-
-Shaun's research could reduce the need for expensive and 
-laborious visual surveys, and may provide a practical monitoring 
-solution to rapidly detect changes in the ecosystem arising 
-from global warming and other human impacts.

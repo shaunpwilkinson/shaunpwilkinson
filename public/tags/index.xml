@@ -6,9 +6,11 @@
     <description>Recent content in Tags on Shaun Wilkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Shaun Wilkinson</copyright>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
@@ -16,70 +18,87 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Clustering</title>
+      <link>/tags/clustering/</link>
+      <pubDate>Fri, 06 Jul 2018 12:00:00 +0000</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/clustering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Concerted Evolution</title>
+      <link>/tags/concerted-evolution/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/concerted-evolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <title>Information Theory</title>
+      <link>/tags/information-theory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>/tags/information-theory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Its2</title>
+      <link>/tags/its2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/jekyll/</guid>
+      <guid>/tags/its2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Phylogenetics</title>
+      <link>/tags/phylogenetics/</link>
+      <pubDate>Tue, 26 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/tags/phylogenetics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Profile Hmm</title>
+      <link>/tags/profile-hmm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>/tags/profile-hmm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Profile Hmms</title>
+      <link>/tags/profile-hmms/</link>
+      <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>/tags/profile-hmms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>/tags/sequence-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/sequence-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomic Classification</title>
+      <link>/tags/taxonomic-classification/</link>
+      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/tags/taxonomic-classification/</guid>
       <description></description>
     </item>
     
