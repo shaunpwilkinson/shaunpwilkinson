@@ -1,9 +1,10 @@
-baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
+baseurl = "https://shaunpwilkinson.github.io/"  # End your URL with a `/` trailing slash.
 title = "Shaun Wilkinson"
 copyright = "&copy; 2019 Shaun Wilkinson"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
