@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hybridization on Shaun Wilkinson</title>
+    <link>/tags/hybridization/</link>
+    <description>Recent content in Hybridization on Shaun Wilkinson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Shaun Wilkinson</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/hybridization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diversity and species boundaries in Symbiodiniaceae</title>
+      <link>/project/symbiodiniaceae_diversity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/symbiodiniaceae_diversity/</guid>
+      <description>Global climate change is having devastating effects on the world’s coral reefs, with declines predicted to escalate sharply in the near future. Severe socio-economic impacts accompany reef degradation, including the loss of food security, coastal stability and tourism income for many of the world’s most vulnerable people. The newly-independent Indo-Pacific nation of Timor-Leste hosts one of the most diverse coral assemblage on Earth, with upwards of 500 coral species potentially inhabiting its reefs.</description>
+    </item>
+    
+  </channel>
+</rss>

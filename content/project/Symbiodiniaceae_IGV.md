@@ -6,13 +6,13 @@ date = "2019-01-01"
 title = "Intragenomic variation in Symbiodiniaceae"
 
 # Project summary to display on homepage.
-summary = "Investigating the prevalence of IGV in Symbiodiniaceae and the implications of potential inter-species hybridization in this family."
+summary = "Investigating the prevalence of IGV in Symbiodiniaceae and the implications of inter-lineage recombination. Funding Source: Vice Chancellor's Strategic PhD Scholarship - VUW"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
 
 # Tags: can be used for filtering projects.
-tags = ["concerted evolution", "ITS2"]
+tags = ["concerted evolution", "ITS2", "Symbiodiniaceae"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -26,12 +26,12 @@ view = 0
   tag = "*"
   
 [[filter]]
-  name = "Symbiont IGV"
-  tag = ".symbiont_IGV"
+  name = "Symbiodiniaceae evolution"
+  tag = ".Symbiodiniaceae"
 
 [[filter]]
   name = "eDNA classification"
-  tag = ".eDNA_classification"
+  tag = ".eDNA"
 
 +++
 
